@@ -1,0 +1,798 @@
+country_or_area,year,commodity,flow,quantity(kg),category
+India,2016,Durum wheat,Export,9476150,10_cereals
+India,2016,"Wheat except durum wheat, and meslin",Export,189489126,10_cereals
+India,2016,Rye,Export,3932,10_cereals
+India,2016,Barley,Export,1660803,10_cereals
+India,2016,Oats,Export,321500,10_cereals
+India,2016,Maize (corn) seed,Export,31163403,10_cereals
+India,2016,Maize except seed corn,Export,451684340,10_cereals
+India,2016,Rice in the husk (paddy or rough),Export,103803095,10_cereals
+India,2016,"Rice, husked (brown)",Export,14484680,10_cereals
+India,2016,"Rice, semi-milled or wholly milled",Export,9059156125,10_cereals
+India,2016,"Rice, broken",Export,729616875,10_cereals
+India,2016,Grain sorghum,Export,65759884,10_cereals
+India,2016,Buckwheat,Export,3173339,10_cereals
+India,2016,Millet,Export,76339990,10_cereals
+India,2016,Canary seed,Export,93617,10_cereals
+India,2016,Cereals unmilled nes,Export,19351392,10_cereals
+India,2015,Durum wheat,Export,12451300,10_cereals
+India,2015,"Wheat except durum wheat, and meslin",Export,590448417,10_cereals
+India,2015,Rye,Export,1190,10_cereals
+India,2015,Barley,Export,84332471,10_cereals
+India,2015,Oats,Export,144376,10_cereals
+India,2015,Maize (corn) seed,Export,20459137,10_cereals
+India,2015,Maize except seed corn,Export,893371817,10_cereals
+India,2015,Rice in the husk (paddy or rough),Export,200212398,10_cereals
+India,2015,"Rice, husked (brown)",Export,15368299,10_cereals
+India,2015,"Rice, semi-milled or wholly milled",Export,9662944538,10_cereals
+India,2015,"Rice, broken",Export,1146554772,10_cereals
+India,2015,Grain sorghum,Export,118235919,10_cereals
+India,2015,Buckwheat,Export,6180800,10_cereals
+India,2015,Millet,Export,96263708,10_cereals
+India,2015,Canary seed,Export,116787,10_cereals
+India,2015,Cereals unmilled nes,Export,16905036,10_cereals
+India,2014,Durum wheat,Export,251067900,10_cereals
+India,2014,"Wheat except durum wheat, and meslin",Export,3699842482,10_cereals
+India,2014,Rye,Export,444825,10_cereals
+India,2014,Barley,Export,503701084,10_cereals
+India,2014,Oats,Export,75589,10_cereals
+India,2014,Maize (corn) seed,Export,27080385,10_cereals
+India,2014,Maize except seed corn,Export,3543956196,10_cereals
+India,2014,Rice in the husk (paddy or rough),Export,181609741,10_cereals
+India,2014,"Rice, husked (brown)",Export,57220169,10_cereals
+India,2014,"Rice, semi-milled or wholly milled",Export,9991927609,10_cereals
+India,2014,"Rice, broken",Export,931257835,10_cereals
+India,2014,Grain sorghum,Export,76985672,10_cereals
+India,2014,Buckwheat,Export,10630512,10_cereals
+India,2014,Millet,Export,79886235,10_cereals
+India,2014,Canary seed,Export,1322172,10_cereals
+India,2014,Cereals unmilled nes,Export,23404340,10_cereals
+India,2013,Durum wheat,Export,1112083518,10_cereals
+India,2013,"Wheat except durum wheat, and meslin",Export,3190670313,10_cereals
+India,2013,Rye,Export,24109,10_cereals
+India,2013,Barley,Export,392926796,10_cereals
+India,2013,Oats,Export,50519,10_cereals
+India,2013,Maize (corn) seed,Export,22720206,10_cereals
+India,2013,Maize except seed corn,Export,4727006764,10_cereals
+India,2013,Rice in the husk (paddy or rough),Export,241329758,10_cereals
+India,2013,"Rice, husked (brown)",Export,25118295,10_cereals
+India,2013,"Rice, semi-milled or wholly milled",Export,10105058138,10_cereals
+India,2013,"Rice, broken",Export,1015575545,10_cereals
+India,2013,Grain sorghum,Export,91508390,10_cereals
+India,2013,Buckwheat,Export,8692497,10_cereals
+India,2013,Millet,Export,58673704,10_cereals
+India,2013,Canary seed,Export,5493267,10_cereals
+India,2013,Cereals unmilled nes,Export,32058804,10_cereals
+India,2012,Durum wheat,Export,2093906488,10_cereals
+India,2012,"Wheat except durum wheat, and meslin",Export,2491060931,10_cereals
+India,2012,Rye,Export,246826,10_cereals
+India,2012,Barley,Export,117353385,10_cereals
+India,2012,Oats,Export,1263624,10_cereals
+India,2012,Maize (corn) seed,Export,8978094,10_cereals
+India,2012,Maize except seed corn,Export,4262717641,10_cereals
+India,2012,Rice in the husk (paddy or rough),Export,251173329,10_cereals
+India,2012,"Rice, husked (brown)",Export,113416864,10_cereals
+India,2012,"Rice, semi-milled or wholly milled",Export,9329935224,10_cereals
+India,2012,"Rice, broken",Export,875039173,10_cereals
+India,2012,Grain sorghum,Export,148550867,10_cereals
+India,2012,Buckwheat,Export,377078,10_cereals
+India,2012,Millet,Export,109480114,10_cereals
+India,2012,Canary seed,Export,366666,10_cereals
+India,2012,Cereals unmilled nes,Export,3683017,10_cereals
+India,2011,Durum wheat,Export,235262320,10_cereals
+India,2011,"Wheat except durum wheat, and meslin",Export,264638503,10_cereals
+India,2011,Rye,Export,22833,10_cereals
+India,2011,Barley,Export,44738882,10_cereals
+India,2011,Oats,Export,110386,10_cereals
+India,2011,Maize (corn) seed,Export,19788839,10_cereals
+India,2011,Maize except seed corn,Export,3932313124,10_cereals
+India,2011,Rice in the husk (paddy or rough),Export,38687362,10_cereals
+India,2011,"Rice, husked (brown)",Export,2744620,10_cereals
+India,2011,"Rice, semi-milled or wholly milled",Export,4758841459,10_cereals
+India,2011,"Rice, broken",Export,217822411,10_cereals
+India,2011,Grain sorghum,Export,38394876,10_cereals
+India,2011,Buckwheat,Export,1782440,10_cereals
+India,2011,Millet,Export,132958279,10_cereals
+India,2011,Canary seed,Export,218119,10_cereals
+India,2011,Cereals unmilled nes,Export,3411131,10_cereals
+India,2010,Durum wheat,Export,98931,10_cereals
+India,2010,"Wheat except durum wheat, and meslin",Export,577643,10_cereals
+India,2010,Rye,Export,4041,10_cereals
+India,2010,Barley,Export,48886504,10_cereals
+India,2010,Oats,Export,9406,10_cereals
+India,2010,Maize (corn) seed,Export,5682074,10_cereals
+India,2010,Maize except seed corn,Export,1835319975,10_cereals
+India,2010,Rice in the husk (paddy or rough),Export,16751104,10_cereals
+India,2010,"Rice, husked (brown)",Export,116523,10_cereals
+India,2010,"Rice, semi-milled or wholly milled",Export,2489687452,10_cereals
+India,2010,"Rice, broken",Export,174077,10_cereals
+India,2010,Grain sorghum,Export,,10_cereals
+India,2010,Buckwheat,Export,62525,10_cereals
+India,2010,Millet,Export,111918874,10_cereals
+India,2010,Canary seed,Export,84310,10_cereals
+India,2010,Cereals unmilled nes,Export,831365,10_cereals
+India,2009,Durum wheat,Export,36125,10_cereals
+India,2009,"Wheat except durum wheat, and meslin",Export,482950,10_cereals
+India,2009,Rye,Export,30330,10_cereals
+India,2009,Barley,Export,29058868,10_cereals
+India,2009,Oats,Export,9812,10_cereals
+India,2009,Maize (corn) seed,Export,81189467,10_cereals
+India,2009,Maize except seed corn,Export,2613392071,10_cereals
+India,2009,Rice in the husk (paddy or rough),Export,22718678,10_cereals
+India,2009,"Rice, husked (brown)",Export,96139,10_cereals
+India,2009,"Rice, semi-milled or wholly milled",Export,2127185574,10_cereals
+India,2009,"Rice, broken",Export,1258520,10_cereals
+India,2009,Grain sorghum,Export,43117232,10_cereals
+India,2009,Buckwheat,Export,1151590,10_cereals
+India,2009,Millet,Export,87476931,10_cereals
+India,2009,Canary seed,Export,956319,10_cereals
+India,2009,Cereals unmilled nes,Export,20400063,10_cereals
+India,2008,Durum wheat,Export,238256,10_cereals
+India,2008,"Wheat except durum wheat, and meslin",Export,401563,10_cereals
+India,2008,Rye,Export,6843911,10_cereals
+India,2008,Barley,Export,219397913,10_cereals
+India,2008,Oats,Export,2407503,10_cereals
+India,2008,Maize (corn) seed,Export,299181976,10_cereals
+India,2008,Maize except seed corn,Export,3898080236,10_cereals
+India,2008,Rice in the husk (paddy or rough),Export,22305713,10_cereals
+India,2008,"Rice, husked (brown)",Export,1236634,10_cereals
+India,2008,"Rice, semi-milled or wholly milled",Export,3497747865,10_cereals
+India,2008,"Rice, broken",Export,14287303,10_cereals
+India,2008,Grain sorghum,Export,90311840,10_cereals
+India,2008,Buckwheat,Export,330488,10_cereals
+India,2008,Millet,Export,212532736,10_cereals
+India,2008,Canary seed,Export,4854991,10_cereals
+India,2008,Cereals unmilled nes,Export,4937805,10_cereals
+India,2007,Durum wheat,Export,200932,10_cereals
+India,2007,"Wheat except durum wheat, and meslin",Export,344120,10_cereals
+India,2007,Rye,Export,23807,10_cereals
+India,2007,Barley,Export,294364438,10_cereals
+India,2007,Oats,Export,97700,10_cereals
+India,2007,Maize (corn) seed,Export,59749687,10_cereals
+India,2007,Maize except seed corn,Export,1435088805,10_cereals
+India,2007,Rice in the husk (paddy or rough),Export,46864815,10_cereals
+India,2007,"Rice, husked (brown)",Export,10601137,10_cereals
+India,2007,"Rice, semi-milled or wholly milled",Export,5808761020,10_cereals
+India,2007,"Rice, broken",Export,374814440,10_cereals
+India,2007,Grain sorghum,Export,22363299,10_cereals
+India,2007,Buckwheat,Export,334641,10_cereals
+India,2007,Millet,Export,63339781,10_cereals
+India,2007,Canary seed,Export,209100,10_cereals
+India,2007,Cereals unmilled nes,Export,2980858,10_cereals
+India,2006,Durum wheat,Export,15593120,10_cereals
+India,2006,"Wheat except durum wheat, and meslin",Export,36372556,10_cereals
+India,2006,Rye,Export,36900,10_cereals
+India,2006,Barley,Export,72390,10_cereals
+India,2006,Oats,Export,214560,10_cereals
+India,2006,Maize (corn) seed,Export,43737045,10_cereals
+India,2006,Maize except seed corn,Export,590157809,10_cereals
+India,2006,Rice in the husk (paddy or rough),Export,50222726,10_cereals
+India,2006,"Rice, husked (brown)",Export,10267505,10_cereals
+India,2006,"Rice, semi-milled or wholly milled",Export,4237469801,10_cereals
+India,2006,"Rice, broken",Export,154005632,10_cereals
+India,2006,Grain sorghum,Export,3754878,10_cereals
+India,2006,Buckwheat,Export,692821,10_cereals
+India,2006,Millet,Export,79686598,10_cereals
+India,2006,Canary seed,Export,120096,10_cereals
+India,2006,Cereals unmilled nes,Export,1582814,10_cereals
+Italy,2016,Durum wheat,Export,411783708,10_cereals
+Italy,2016,"Wheat except durum wheat, and meslin",Export,42357166,10_cereals
+Italy,2016,Rye,Export,2072933,10_cereals
+Italy,2016,Barley,Export,2999549,10_cereals
+Italy,2016,Oats,Export,6781837,10_cereals
+Italy,2016,Maize (corn) seed,Export,11560570,10_cereals
+Italy,2016,Maize except seed corn,Export,42942721,10_cereals
+Italy,2016,Rice in the husk (paddy or rough),Export,12516239,10_cereals
+Italy,2016,"Rice, husked (brown)",Export,81007174,10_cereals
+Italy,2016,"Rice, semi-milled or wholly milled",Export,526807210,10_cereals
+Italy,2016,"Rice, broken",Export,43593087,10_cereals
+Italy,2016,Grain sorghum,Export,1109189,10_cereals
+Italy,2016,Buckwheat,Export,213767,10_cereals
+Italy,2016,Millet,Export,587261,10_cereals
+Italy,2016,Canary seed,Export,170797,10_cereals
+Italy,2016,Cereals unmilled nes,Export,1699440,10_cereals
+Italy,2015,Durum wheat,Export,435287317,10_cereals
+Italy,2015,"Wheat except durum wheat, and meslin",Export,55951656,10_cereals
+Italy,2015,Rye,Export,2952947,10_cereals
+Italy,2015,Barley,Export,4961697,10_cereals
+Italy,2015,Oats,Export,8570020,10_cereals
+Italy,2015,Maize (corn) seed,Export,9500151,10_cereals
+Italy,2015,Maize except seed corn,Export,120130441,10_cereals
+Italy,2015,Rice in the husk (paddy or rough),Export,10600323,10_cereals
+Italy,2015,"Rice, husked (brown)",Export,73332981,10_cereals
+Italy,2015,"Rice, semi-milled or wholly milled",Export,564260146,10_cereals
+Italy,2015,"Rice, broken",Export,41135849,10_cereals
+Italy,2015,Grain sorghum,Export,1208232,10_cereals
+Italy,2015,Buckwheat,Export,488953,10_cereals
+Italy,2015,Millet,Export,122837,10_cereals
+Italy,2015,Canary seed,Export,258232,10_cereals
+Italy,2015,Cereals unmilled nes,Export,1937841,10_cereals
+Italy,2014,Durum wheat,Export,271316813,10_cereals
+Italy,2014,"Wheat except durum wheat, and meslin",Export,38867882,10_cereals
+Italy,2014,Rye,Export,2342061,10_cereals
+Italy,2014,Barley,Export,3324349,10_cereals
+Italy,2014,Oats,Export,996170,10_cereals
+Italy,2014,Maize (corn) seed,Export,9880601,10_cereals
+Italy,2014,Maize except seed corn,Export,32529756,10_cereals
+Italy,2014,Rice in the husk (paddy or rough),Export,14485745,10_cereals
+Italy,2014,"Rice, husked (brown)",Export,68406348,10_cereals
+Italy,2014,"Rice, semi-milled or wholly milled",Export,614039125,10_cereals
+Italy,2014,"Rice, broken",Export,54178160,10_cereals
+Italy,2014,Grain sorghum,Export,2262442,10_cereals
+Italy,2014,Buckwheat,Export,654552,10_cereals
+Italy,2014,Millet,Export,1144413,10_cereals
+Italy,2014,Canary seed,Export,188221,10_cereals
+Italy,2014,Cereals unmilled nes,Export,1269714,10_cereals
+Italy,2013,Durum wheat,Export,147352075,10_cereals
+Italy,2013,"Wheat except durum wheat, and meslin",Export,40810732,10_cereals
+Italy,2013,Rye,Export,1798155,10_cereals
+Italy,2013,Barley,Export,10065644,10_cereals
+Italy,2013,Oats,Export,12958797,10_cereals
+Italy,2013,Maize (corn) seed,Export,10522342,10_cereals
+Italy,2013,Maize except seed corn,Export,28482358,10_cereals
+Italy,2013,Rice in the husk (paddy or rough),Export,12358910,10_cereals
+Italy,2013,"Rice, husked (brown)",Export,60535429,10_cereals
+Italy,2013,"Rice, semi-milled or wholly milled",Export,601964318,10_cereals
+Italy,2013,"Rice, broken",Export,54615102,10_cereals
+Italy,2013,Grain sorghum,Export,2045809,10_cereals
+Italy,2013,Buckwheat,Export,891039,10_cereals
+Italy,2013,Millet,Export,40068,10_cereals
+Italy,2013,Canary seed,Export,465198,10_cereals
+Italy,2013,Cereals unmilled nes,Export,1238899,10_cereals
+Italy,2012,Durum wheat,Export,201543422,10_cereals
+Italy,2012,"Wheat except durum wheat, and meslin",Export,55071759,10_cereals
+Italy,2012,Rye,Export,1663494,10_cereals
+Italy,2012,Barley,Export,6220805,10_cereals
+Italy,2012,Oats,Export,9821991,10_cereals
+Italy,2012,Maize (corn) seed,Export,11148343,10_cereals
+Italy,2012,Maize except seed corn,Export,57091539,10_cereals
+Italy,2012,Rice in the husk (paddy or rough),Export,18327062,10_cereals
+Italy,2012,"Rice, husked (brown)",Export,71555940,10_cereals
+Italy,2012,"Rice, semi-milled or wholly milled",Export,589325820,10_cereals
+Italy,2012,"Rice, broken",Export,70709803,10_cereals
+Italy,2012,Grain sorghum,Export,5370097,10_cereals
+Italy,2012,Buckwheat,Export,376250,10_cereals
+Italy,2012,Millet,Export,111253,10_cereals
+Italy,2012,Canary seed,Export,80475,10_cereals
+Italy,2012,Cereals unmilled nes,Export,2506928,10_cereals
+Italy,2011,Durum wheat,Export,499080375,10_cereals
+Italy,2011,"Wheat except durum wheat, and meslin",Export,79119790,10_cereals
+Italy,2011,Rye,Export,1410180,10_cereals
+Italy,2011,Barley,Export,10542473,10_cereals
+Italy,2011,Oats,Export,4998572,10_cereals
+Italy,2011,Maize (corn) seed,Export,33757594,10_cereals
+Italy,2011,Maize except seed corn,Export,103426314,10_cereals
+Italy,2011,Rice in the husk (paddy or rough),Export,28165826,10_cereals
+Italy,2011,"Rice, husked (brown)",Export,72391195,10_cereals
+Italy,2011,"Rice, semi-milled or wholly milled",Export,563586415,10_cereals
+Italy,2011,"Rice, broken",Export,82985749,10_cereals
+Italy,2011,Grain sorghum,Export,3702141,10_cereals
+Italy,2011,Buckwheat,Export,193509,10_cereals
+Italy,2011,Millet,Export,528194,10_cereals
+Italy,2011,Canary seed,Export,40633,10_cereals
+Italy,2011,Cereals unmilled nes,Export,6049194,10_cereals
+Italy,2010,Durum wheat,Export,323162564,10_cereals
+Italy,2010,"Wheat except durum wheat, and meslin",Export,72627292,10_cereals
+Italy,2010,Rye,Export,1144129,10_cereals
+Italy,2010,Barley,Export,7189467,10_cereals
+Italy,2010,Oats,Export,6467449,10_cereals
+Italy,2010,Maize (corn) seed,Export,39999207,10_cereals
+Italy,2010,Maize except seed corn,Export,103320832,10_cereals
+Italy,2010,Rice in the husk (paddy or rough),Export,15282908,10_cereals
+Italy,2010,"Rice, husked (brown)",Export,72349196,10_cereals
+Italy,2010,"Rice, semi-milled or wholly milled",Export,655614392,10_cereals
+Italy,2010,"Rice, broken",Export,75175719,10_cereals
+Italy,2010,Grain sorghum,Export,9397667,10_cereals
+Italy,2010,Buckwheat,Export,156319,10_cereals
+Italy,2010,Millet,Export,248014,10_cereals
+Italy,2010,Canary seed,Export,18714,10_cereals
+Italy,2010,Cereals unmilled nes,Export,4064956,10_cereals
+Italy,2009,Durum wheat,Export,166054439,10_cereals
+Italy,2009,"Wheat except durum wheat, and meslin",Export,44680126,10_cereals
+Italy,2009,Rye,Export,1900833,10_cereals
+Italy,2009,Barley,Export,7489458,10_cereals
+Italy,2009,Oats,Export,422087,10_cereals
+Italy,2009,Maize (corn) seed,Export,28996408,10_cereals
+Italy,2009,Maize except seed corn,Export,29638562,10_cereals
+Italy,2009,Rice in the husk (paddy or rough),Export,15276099,10_cereals
+Italy,2009,"Rice, husked (brown)",Export,69910913,10_cereals
+Italy,2009,"Rice, semi-milled or wholly milled",Export,583544660,10_cereals
+Italy,2009,"Rice, broken",Export,61326242,10_cereals
+Italy,2009,Grain sorghum,Export,7723225,10_cereals
+Italy,2009,Buckwheat,Export,38610,10_cereals
+Italy,2009,Millet,Export,81055,10_cereals
+Italy,2009,Canary seed,Export,31044,10_cereals
+Italy,2009,Cereals unmilled nes,Export,2424794,10_cereals
+Italy,2008,Durum wheat,Export,329141162,10_cereals
+Italy,2008,"Wheat except durum wheat, and meslin",Export,117179163,10_cereals
+Italy,2008,Rye,Export,4622410,10_cereals
+Italy,2008,Barley,Export,25231156,10_cereals
+Italy,2008,Oats,Export,1813554,10_cereals
+Italy,2008,Maize (corn) seed,Export,14258978,10_cereals
+Italy,2008,Maize except seed corn,Export,116444760,10_cereals
+Italy,2008,Rice in the husk (paddy or rough),Export,11438958,10_cereals
+Italy,2008,"Rice, husked (brown)",Export,106070725,10_cereals
+Italy,2008,"Rice, semi-milled or wholly milled",Export,613224429,10_cereals
+Italy,2008,"Rice, broken",Export,66113321,10_cereals
+Italy,2008,Grain sorghum,Export,2514620,10_cereals
+Italy,2008,Buckwheat,Export,19839,10_cereals
+Italy,2008,Millet,Export,62092,10_cereals
+Italy,2008,Canary seed,Export,36915,10_cereals
+Italy,2008,Cereals unmilled nes,Export,7112302,10_cereals
+Italy,2007,Durum wheat,Export,111815876,10_cereals
+Italy,2007,"Wheat except durum wheat, and meslin",Export,124768693,10_cereals
+Italy,2007,Rye,Export,1133493,10_cereals
+Italy,2007,Barley,Export,21695122,10_cereals
+Italy,2007,Oats,Export,7576436,10_cereals
+Italy,2007,Maize (corn) seed,Export,19431307,10_cereals
+Italy,2007,Maize except seed corn,Export,148698213,10_cereals
+Italy,2007,Rice in the husk (paddy or rough),Export,10654237,10_cereals
+Italy,2007,"Rice, husked (brown)",Export,112343158,10_cereals
+Italy,2007,"Rice, semi-milled or wholly milled",Export,559780428,10_cereals
+Italy,2007,"Rice, broken",Export,54484810,10_cereals
+Italy,2007,Grain sorghum,Export,4877408,10_cereals
+Italy,2007,Buckwheat,Export,72037,10_cereals
+Italy,2007,Millet,Export,32473,10_cereals
+Italy,2007,Canary seed,Export,31371,10_cereals
+Italy,2007,Cereals unmilled nes,Export,1245820,10_cereals
+Italy,2006,Durum wheat,Export,59217328,10_cereals
+Italy,2006,"Wheat except durum wheat, and meslin",Export,29318722,10_cereals
+Italy,2006,Rye,Export,13308320,10_cereals
+Italy,2006,Barley,Export,7645043,10_cereals
+Italy,2006,Oats,Export,9793083,10_cereals
+Italy,2006,Maize (corn) seed,Export,4472120,10_cereals
+Italy,2006,Maize except seed corn,Export,47299818,10_cereals
+Italy,2006,Rice in the husk (paddy or rough),Export,11251990,10_cereals
+Italy,2006,"Rice, husked (brown)",Export,63679590,10_cereals
+Italy,2006,"Rice, semi-milled or wholly milled",Export,592272795,10_cereals
+Italy,2006,"Rice, broken",Export,53211650,10_cereals
+Italy,2006,Grain sorghum,Export,4875790,10_cereals
+Italy,2006,Buckwheat,Export,13171,10_cereals
+Italy,2006,Millet,Export,30605,10_cereals
+Italy,2006,Canary seed,Export,27533,10_cereals
+Italy,2006,Cereals unmilled nes,Export,298912,10_cereals
+Pakistan,2016,Durum wheat,Export,4691000,10_cereals
+Pakistan,2016,"Wheat except durum wheat, and meslin",Export,400000,10_cereals
+Pakistan,2016,Rye,Export,20000,10_cereals
+Pakistan,2016,Barley,Export,22000,10_cereals
+Pakistan,2016,Oats,Export,30000,10_cereals
+Pakistan,2016,Maize (corn) seed,Export,4030000,10_cereals
+Pakistan,2016,Maize except seed corn,Export,51252000,10_cereals
+Pakistan,2016,Rice in the husk (paddy or rough),Export,12363000,10_cereals
+Pakistan,2016,"Rice, husked (brown)",Export,65868093,10_cereals
+Pakistan,2016,"Rice, semi-milled or wholly milled",Export,3151413630,10_cereals
+Pakistan,2016,"Rice, broken",Export,728653000,10_cereals
+Pakistan,2016,Millet,Export,739000,10_cereals
+Pakistan,2016,Cereals unmilled nes,Export,12000,10_cereals
+Pakistan,2015,Durum wheat,Export,5028000,10_cereals
+Pakistan,2015,"Wheat except durum wheat, and meslin",Export,4483000,10_cereals
+Pakistan,2015,Barley,Export,332000,10_cereals
+Pakistan,2015,Maize (corn) seed,Export,1791000,10_cereals
+Pakistan,2015,Maize except seed corn,Export,58780357,10_cereals
+Pakistan,2015,Rice in the husk (paddy or rough),Export,1056000,10_cereals
+Pakistan,2015,"Rice, husked (brown)",Export,38313000,10_cereals
+Pakistan,2015,"Rice, semi-milled or wholly milled",Export,2673349000,10_cereals
+Pakistan,2015,"Rice, broken",Export,1342516000,10_cereals
+Pakistan,2015,Buckwheat,Export,81000,10_cereals
+Pakistan,2015,Millet,Export,529000,10_cereals
+Pakistan,2015,Cereals unmilled nes,Export,38000,10_cereals
+Pakistan,2014,Durum wheat,Export,12251000,10_cereals
+Pakistan,2014,"Wheat except durum wheat, and meslin",Export,210000,10_cereals
+Pakistan,2014,Barley,Export,2156000,10_cereals
+Pakistan,2014,Maize (corn) seed,Export,1467000,10_cereals
+Pakistan,2014,Maize except seed corn,Export,9435000,10_cereals
+Pakistan,2014,Rice in the husk (paddy or rough),Export,3402000,10_cereals
+Pakistan,2014,"Rice, husked (brown)",Export,90161000,10_cereals
+Pakistan,2014,"Rice, semi-milled or wholly milled",Export,3190452008,10_cereals
+Pakistan,2014,"Rice, broken",Export,494583000,10_cereals
+Pakistan,2014,Millet,Export,164000,10_cereals
+Pakistan,2013,Durum wheat,Export,105612000,10_cereals
+Pakistan,2013,"Wheat except durum wheat, and meslin",Export,15952000,10_cereals
+Pakistan,2013,Barley,Export,353000,10_cereals
+Pakistan,2013,Oats,Export,32000,10_cereals
+Pakistan,2013,Maize (corn) seed,Export,11691000,10_cereals
+Pakistan,2013,Maize except seed corn,Export,116177000,10_cereals
+Pakistan,2013,Rice in the husk (paddy or rough),Export,26281000,10_cereals
+Pakistan,2013,"Rice, husked (brown)",Export,59951000,10_cereals
+Pakistan,2013,"Rice, semi-milled or wholly milled",Export,3134477984,10_cereals
+Pakistan,2013,"Rice, broken",Export,628558000,10_cereals
+Pakistan,2013,Grain sorghum,Export,38000,10_cereals
+Pakistan,2013,Millet,Export,209000,10_cereals
+Pakistan,2013,Cereals unmilled nes,Export,114000,10_cereals
+Pakistan,2012,Durum wheat,Export,70618000,10_cereals
+Pakistan,2012,"Wheat except durum wheat, and meslin",Export,66515000,10_cereals
+Pakistan,2012,Maize (corn) seed,Export,64903167,10_cereals
+Pakistan,2012,Maize except seed corn,Export,300284000,10_cereals
+Pakistan,2012,Rice in the husk (paddy or rough),Export,2388000,10_cereals
+Pakistan,2012,"Rice, husked (brown)",Export,96000,10_cereals
+Pakistan,2012,"Rice, semi-milled or wholly milled",Export,2823407230,10_cereals
+Pakistan,2012,"Rice, broken",Export,597759000,10_cereals
+Pakistan,2012,Buckwheat,Export,4458000,10_cereals
+Pakistan,2012,Millet,Export,21000,10_cereals
+Pakistan,2012,Cereals unmilled nes,Export,1000,10_cereals
+Pakistan,2011,Durum wheat,Export,1942718016,10_cereals
+Pakistan,2011,"Wheat except durum wheat, and meslin",Export,144704000,10_cereals
+Pakistan,2011,Barley,Export,2785000,10_cereals
+Pakistan,2011,Maize (corn) seed,Export,16041845,10_cereals
+Pakistan,2011,Maize except seed corn,Export,233367000,10_cereals
+Pakistan,2011,"Rice, husked (brown)",Export,15440000,10_cereals
+Pakistan,2011,"Rice, semi-milled or wholly milled",Export,3062941000,10_cereals
+Pakistan,2011,"Rice, broken",Export,335662000,10_cereals
+Pakistan,2011,Millet,Export,149219,10_cereals
+Pakistan,2011,Cereals unmilled nes,Export,337000,10_cereals
+Pakistan,2010,Durum wheat,Export,663000,10_cereals
+Pakistan,2010,"Wheat except durum wheat, and meslin",Export,267000,10_cereals
+Pakistan,2010,Barley,Export,250000,10_cereals
+Pakistan,2010,Maize (corn) seed,Export,7481000,10_cereals
+Pakistan,2010,Maize except seed corn,Export,2993000,10_cereals
+Pakistan,2010,Rice in the husk (paddy or rough),Export,384000,10_cereals
+Pakistan,2010,"Rice, husked (brown)",Export,21000,10_cereals
+Pakistan,2010,"Rice, semi-milled or wholly milled",Export,3573340092,10_cereals
+Pakistan,2010,"Rice, broken",Export,631336000,10_cereals
+Pakistan,2010,Grain sorghum,Export,9000,10_cereals
+Pakistan,2010,Millet,Export,147000,10_cereals
+Pakistan,2010,Cereals unmilled nes,Export,4000,10_cereals
+Pakistan,2009,Durum wheat,Export,946000,10_cereals
+Pakistan,2009,"Wheat except durum wheat, and meslin",Export,13828000,10_cereals
+Pakistan,2009,Oats,Export,1000,10_cereals
+Pakistan,2009,Maize (corn) seed,Export,70288000,10_cereals
+Pakistan,2009,Maize except seed corn,Export,164136000,10_cereals
+Pakistan,2009,Rice in the husk (paddy or rough),Export,2000,10_cereals
+Pakistan,2009,"Rice, husked (brown)",Export,13643000,10_cereals
+Pakistan,2009,"Rice, semi-milled or wholly milled",Export,2898419992,10_cereals
+Pakistan,2009,"Rice, broken",Export,298056000,10_cereals
+Pakistan,2009,Grain sorghum,Export,49000,10_cereals
+Pakistan,2009,Millet,Export,861000,10_cereals
+Pakistan,2009,Cereals unmilled nes,Export,30000,10_cereals
+Pakistan,2008,Durum wheat,Export,115204000,10_cereals
+Pakistan,2008,"Wheat except durum wheat, and meslin",Export,44805000,10_cereals
+Pakistan,2008,Barley,Export,2994000,10_cereals
+Pakistan,2008,Maize (corn) seed,Export,3909000,10_cereals
+Pakistan,2008,Maize except seed corn,Export,65096000,10_cereals
+Pakistan,2008,Rice in the husk (paddy or rough),Export,120000,10_cereals
+Pakistan,2008,"Rice, husked (brown)",Export,4186000,10_cereals
+Pakistan,2008,"Rice, semi-milled or wholly milled",Export,2828904984,10_cereals
+Pakistan,2008,"Rice, broken",Export,217223049,10_cereals
+Pakistan,2008,Millet,Export,86000,10_cereals
+Pakistan,2008,Cereals unmilled nes,Export,294000,10_cereals
+Pakistan,2007,Durum wheat,Export,457843000,10_cereals
+Pakistan,2007,"Wheat except durum wheat, and meslin",Export,1039000,10_cereals
+Pakistan,2007,Barley,Export,6707000,10_cereals
+Pakistan,2007,Maize (corn) seed,Export,724000,10_cereals
+Pakistan,2007,Maize except seed corn,Export,225000,10_cereals
+Pakistan,2007,"Rice, husked (brown)",Export,1732000,10_cereals
+Pakistan,2007,"Rice, semi-milled or wholly milled",Export,2579700344,10_cereals
+Pakistan,2007,"Rice, broken",Export,120390025,10_cereals
+Pakistan,2007,Grain sorghum,Export,70000,10_cereals
+Pakistan,2007,Millet,Export,60000,10_cereals
+Pakistan,2007,Cereals unmilled nes,Export,190000,10_cereals
+Pakistan,2006,Barley,Export,647000,10_cereals
+Pakistan,2006,Maize (corn) seed,Export,407000,10_cereals
+Pakistan,2006,Maize except seed corn,Export,87000,10_cereals
+Pakistan,2006,"Rice, husked (brown)",Export,288000,10_cereals
+Pakistan,2006,"Rice, semi-milled or wholly milled",Export,3444530992,10_cereals
+Pakistan,2006,"Rice, broken",Export,101662232,10_cereals
+Pakistan,2006,Millet,Export,35000,10_cereals
+Thailand,2015,Durum wheat,Export,1454,10_cereals
+Thailand,2015,"Wheat except durum wheat, and meslin",Export,2200781,10_cereals
+Thailand,2015,Rye,Export,2231,10_cereals
+Thailand,2015,Barley,Export,16110,10_cereals
+Thailand,2015,Oats,Export,15,10_cereals
+Thailand,2015,Maize (corn) seed,Export,23336884,10_cereals
+Thailand,2015,Maize except seed corn,Export,81127940,10_cereals
+Thailand,2015,Rice in the husk (paddy or rough),Export,2069,10_cereals
+Thailand,2015,"Rice, husked (brown)",Export,141395122,10_cereals
+Thailand,2015,"Rice, semi-milled or wholly milled",Export,8617536169,10_cereals
+Thailand,2015,"Rice, broken",Export,1036831182,10_cereals
+Thailand,2015,Grain sorghum,Export,2055546,10_cereals
+Thailand,2015,Buckwheat,Export,2,10_cereals
+Thailand,2015,Millet,Export,1157094,10_cereals
+Thailand,2015,Canary seed,Export,1000,10_cereals
+Thailand,2015,Cereals unmilled nes,Export,7858002,10_cereals
+Thailand,2014,Durum wheat,Export,1722,10_cereals
+Thailand,2014,"Wheat except durum wheat, and meslin",Export,8195,10_cereals
+Thailand,2014,Rye,Export,8354,10_cereals
+Thailand,2014,Barley,Export,50705,10_cereals
+Thailand,2014,Oats,Export,345,10_cereals
+Thailand,2014,Maize (corn) seed,Export,27268685,10_cereals
+Thailand,2014,Maize except seed corn,Export,755349624,10_cereals
+Thailand,2014,Rice in the husk (paddy or rough),Export,7406,10_cereals
+Thailand,2014,"Rice, husked (brown)",Export,183379384,10_cereals
+Thailand,2014,"Rice, semi-milled or wholly milled",Export,9514526260,10_cereals
+Thailand,2014,"Rice, broken",Export,1271448555,10_cereals
+Thailand,2014,Grain sorghum,Export,4727710,10_cereals
+Thailand,2014,Millet,Export,5831984,10_cereals
+Thailand,2014,Canary seed,Export,7410,10_cereals
+Thailand,2014,Cereals unmilled nes,Export,10733495,10_cereals
+Thailand,2013,Durum wheat,Export,1330,10_cereals
+Thailand,2013,"Wheat except durum wheat, and meslin",Export,1106127,10_cereals
+Thailand,2013,Rye,Export,514,10_cereals
+Thailand,2013,Barley,Export,27824,10_cereals
+Thailand,2013,Oats,Export,824,10_cereals
+Thailand,2013,Maize (corn) seed,Export,20087795,10_cereals
+Thailand,2013,Maize except seed corn,Export,564251650,10_cereals
+Thailand,2013,Rice in the husk (paddy or rough),Export,10191,10_cereals
+Thailand,2013,"Rice, husked (brown)",Export,80883032,10_cereals
+Thailand,2013,"Rice, semi-milled or wholly milled",Export,5898992088,10_cereals
+Thailand,2013,"Rice, broken",Export,632734396,10_cereals
+Thailand,2013,Grain sorghum,Export,1994562,10_cereals
+Thailand,2013,Millet,Export,818853,10_cereals
+Thailand,2013,Canary seed,Export,386434,10_cereals
+Thailand,2013,Cereals unmilled nes,Export,15999739,10_cereals
+Thailand,2012,Durum wheat,Export,1654,10_cereals
+Thailand,2012,"Wheat except durum wheat, and meslin",Export,3361,10_cereals
+Thailand,2012,Rye,Export,1185,10_cereals
+Thailand,2012,Barley,Export,11669,10_cereals
+Thailand,2012,Oats,Export,53,10_cereals
+Thailand,2012,Maize (corn) seed,Export,18433493,10_cereals
+Thailand,2012,Maize except seed corn,Export,122584938,10_cereals
+Thailand,2012,Rice in the husk (paddy or rough),Export,894,10_cereals
+Thailand,2012,"Rice, husked (brown)",Export,301221734,10_cereals
+Thailand,2012,"Rice, semi-milled or wholly milled",Export,5771762908,10_cereals
+Thailand,2012,"Rice, broken",Export,661441453,10_cereals
+Thailand,2012,Grain sorghum,Export,46,10_cereals
+Thailand,2012,Buckwheat,Export,231000,10_cereals
+Thailand,2012,Millet,Export,465446,10_cereals
+Thailand,2012,Canary seed,Export,1597,10_cereals
+Thailand,2012,Cereals unmilled nes,Export,10198680,10_cereals
+Thailand,2011,Durum wheat,Export,1117,10_cereals
+Thailand,2011,"Wheat except durum wheat, and meslin",Export,10099,10_cereals
+Thailand,2011,Barley,Export,752,10_cereals
+Thailand,2011,Oats,Export,2807,10_cereals
+Thailand,2011,Maize (corn) seed,Export,69355466,10_cereals
+Thailand,2011,Maize except seed corn,Export,320725908,10_cereals
+Thailand,2011,Rice in the husk (paddy or rough),Export,1312,10_cereals
+Thailand,2011,"Rice, husked (brown)",Export,350338461,10_cereals
+Thailand,2011,"Rice, semi-milled or wholly milled",Export,9185063259,10_cereals
+Thailand,2011,"Rice, broken",Export,1170826220,10_cereals
+Thailand,2011,Grain sorghum,Export,2708139,10_cereals
+Thailand,2011,Buckwheat,Export,246240,10_cereals
+Thailand,2011,Millet,Export,4396820,10_cereals
+Thailand,2011,Canary seed,Export,175,10_cereals
+Thailand,2011,Cereals unmilled nes,Export,17547933,10_cereals
+Thailand,2010,"Wheat except durum wheat, and meslin",Export,3619307,10_cereals
+Thailand,2010,Barley,Export,484250,10_cereals
+Thailand,2010,Oats,Export,723,10_cereals
+Thailand,2010,Maize (corn) seed,Export,74720773,10_cereals
+Thailand,2010,Maize except seed corn,Export,403976140,10_cereals
+Thailand,2010,Rice in the husk (paddy or rough),Export,11400,10_cereals
+Thailand,2010,"Rice, husked (brown)",Export,338738207,10_cereals
+Thailand,2010,"Rice, semi-milled or wholly milled",Export,7589515179,10_cereals
+Thailand,2010,"Rice, broken",Export,1011365476,10_cereals
+Thailand,2010,Grain sorghum,Export,6542784,10_cereals
+Thailand,2010,Buckwheat,Export,24,10_cereals
+Thailand,2010,Millet,Export,9292718,10_cereals
+Thailand,2010,Canary seed,Export,413013,10_cereals
+Thailand,2010,Cereals unmilled nes,Export,12459048,10_cereals
+Thailand,2009,Durum wheat,Export,68,10_cereals
+Thailand,2009,"Wheat except durum wheat, and meslin",Export,10261,10_cereals
+Thailand,2009,Rye,Export,3,10_cereals
+Thailand,2009,Barley,Export,1560,10_cereals
+Thailand,2009,Oats,Export,513,10_cereals
+Thailand,2009,Maize (corn) seed,Export,237368222,10_cereals
+Thailand,2009,Maize except seed corn,Export,843673853,10_cereals
+Thailand,2009,Rice in the husk (paddy or rough),Export,2521,10_cereals
+Thailand,2009,"Rice, husked (brown)",Export,249489850,10_cereals
+Thailand,2009,"Rice, semi-milled or wholly milled",Export,6902445667,10_cereals
+Thailand,2009,"Rice, broken",Export,1467931795,10_cereals
+Thailand,2009,Grain sorghum,Export,6668245,10_cereals
+Thailand,2009,Buckwheat,Export,187200,10_cereals
+Thailand,2009,Millet,Export,7269084,10_cereals
+Thailand,2009,Canary seed,Export,100,10_cereals
+Thailand,2009,Cereals unmilled nes,Export,22886644,10_cereals
+Thailand,2008,Durum wheat,Export,60,10_cereals
+Thailand,2008,"Wheat except durum wheat, and meslin",Export,1745,10_cereals
+Thailand,2008,Barley,Export,44,10_cereals
+Thailand,2008,Oats,Export,47,10_cereals
+Thailand,2008,Maize (corn) seed,Export,211521433,10_cereals
+Thailand,2008,Maize except seed corn,Export,461375901,10_cereals
+Thailand,2008,Rice in the husk (paddy or rough),Export,11,10_cereals
+Thailand,2008,"Rice, husked (brown)",Export,293648603,10_cereals
+Thailand,2008,"Rice, semi-milled or wholly milled",Export,8672446635,10_cereals
+Thailand,2008,"Rice, broken",Export,1249945207,10_cereals
+Thailand,2008,Grain sorghum,Export,6561138,10_cereals
+Thailand,2008,Buckwheat,Export,300000,10_cereals
+Thailand,2008,Millet,Export,17636129,10_cereals
+Thailand,2008,Canary seed,Export,972705,10_cereals
+Thailand,2008,Cereals unmilled nes,Export,10739438,10_cereals
+Thailand,2007,"Wheat except durum wheat, and meslin",Export,3956911,10_cereals
+Thailand,2007,Rye,Export,17482,10_cereals
+Thailand,2007,Barley,Export,38,10_cereals
+Thailand,2007,Oats,Export,192,10_cereals
+Thailand,2007,Maize (corn) seed,Export,119060820,10_cereals
+Thailand,2007,Maize except seed corn,Export,256754307,10_cereals
+Thailand,2007,Rice in the husk (paddy or rough),Export,5755785,10_cereals
+Thailand,2007,"Rice, husked (brown)",Export,304125276,10_cereals
+Thailand,2007,"Rice, semi-milled or wholly milled",Export,7408298560,10_cereals
+Thailand,2007,"Rice, broken",Export,1479476813,10_cereals
+Thailand,2007,Grain sorghum,Export,2789114,10_cereals
+Thailand,2007,Buckwheat,Export,46970,10_cereals
+Thailand,2007,Millet,Export,5520485,10_cereals
+Thailand,2007,Cereals unmilled nes,Export,28006707,10_cereals
+Thailand,2006,"Wheat except durum wheat, and meslin",Export,553,10_cereals
+Thailand,2006,Oats,Export,960,10_cereals
+Thailand,2006,Maize (corn) seed,Export,10260510,10_cereals
+Thailand,2006,Maize except seed corn,Export,296018770,10_cereals
+Thailand,2006,Rice in the husk (paddy or rough),Export,6552,10_cereals
+Thailand,2006,"Rice, husked (brown)",Export,189839988,10_cereals
+Thailand,2006,"Rice, semi-milled or wholly milled",Export,5996394616,10_cereals
+Thailand,2006,"Rice, broken",Export,1247299759,10_cereals
+Thailand,2006,Grain sorghum,Export,2517672,10_cereals
+Thailand,2006,Millet,Export,100,10_cereals
+Thailand,2006,Cereals unmilled nes,Export,17663241,10_cereals
+USA,2016,Durum wheat,Export,441397471,10_cereals
+USA,2016,"Wheat except durum wheat, and meslin",Export,23452189944,10_cereals
+USA,2016,Rye,Export,5435070,10_cereals
+USA,2016,Barley,Export,89849792,10_cereals
+USA,2016,Oats,Export,38770565,10_cereals
+USA,2016,Maize (corn) seed,Export,78134783,10_cereals
+USA,2016,Maize except seed corn,Export,56141526760,10_cereals
+USA,2016,Rice in the husk (paddy or rough),Export,1949280853,10_cereals
+USA,2016,"Rice, husked (brown)",Export,273124358,10_cereals
+USA,2016,"Rice, semi-milled or wholly milled",Export,1855435814,10_cereals
+USA,2016,"Rice, broken",Export,72718901,10_cereals
+USA,2016,Grain sorghum,Export,6877352984,10_cereals
+USA,2016,Buckwheat,Export,28532259,10_cereals
+USA,2016,Millet,Export,57808697,10_cereals
+USA,2016,Canary seed,Export,2494894,10_cereals
+USA,2016,Cereals unmilled nes,Export,13676515,10_cereals
+USA,2015,Durum wheat,Export,799934136,10_cereals
+USA,2015,"Wheat except durum wheat, and meslin",Export,20468761622,10_cereals
+USA,2015,Rye,Export,3613191,10_cereals
+USA,2015,Barley,Export,323985003,10_cereals
+USA,2015,Oats,Export,27695670,10_cereals
+USA,2015,Maize (corn) seed,Export,65777923,10_cereals
+USA,2015,Maize except seed corn,Export,44592441425,10_cereals
+USA,2015,Rice in the husk (paddy or rough),Export,1622977784,10_cereals
+USA,2015,"Rice, husked (brown)",Export,199710465,10_cereals
+USA,2015,"Rice, semi-milled or wholly milled",Export,1972363986,10_cereals
+USA,2015,"Rice, broken",Export,59334198,10_cereals
+USA,2015,Grain sorghum,Export,9797689138,10_cereals
+USA,2015,Buckwheat,Export,21634611,10_cereals
+USA,2015,Millet,Export,76165895,10_cereals
+USA,2015,Canary seed,Export,1264976,10_cereals
+USA,2015,Cereals unmilled nes,Export,18418644,10_cereals
+USA,2014,Durum wheat,Export,942980830,10_cereals
+USA,2014,"Wheat except durum wheat, and meslin",Export,23543653020,10_cereals
+USA,2014,Rye,Export,7317083,10_cereals
+USA,2014,Barley,Export,300742488,10_cereals
+USA,2014,Oats,Export,20315672,10_cereals
+USA,2014,Maize (corn) seed,Export,96993535,10_cereals
+USA,2014,Maize except seed corn,Export,35673159201,10_cereals
+USA,2014,Rice in the husk (paddy or rough),Export,1381566770,10_cereals
+USA,2014,"Rice, husked (brown)",Export,219606449,10_cereals
+USA,2014,"Rice, semi-milled or wholly milled",Export,1767068100,10_cereals
+USA,2014,"Rice, broken",Export,51907142,10_cereals
+USA,2014,Grain sorghum,Export,5435702399,10_cereals
+USA,2014,Buckwheat,Export,13583299,10_cereals
+USA,2014,Millet,Export,66211360,10_cereals
+USA,2014,Canary seed,Export,2366388,10_cereals
+USA,2014,Cereals unmilled nes,Export,25903694,10_cereals
+USA,2013,Durum wheat,Export,745176473,10_cereals
+USA,2013,"Wheat except durum wheat, and meslin",Export,32373239509,10_cereals
+USA,2013,Rye,Export,6577314,10_cereals
+USA,2013,Barley,Export,187238150,10_cereals
+USA,2013,Oats,Export,22893660,10_cereals
+USA,2013,Maize (corn) seed,Export,115054623,10_cereals
+USA,2013,Maize except seed corn,Export,23964801984,10_cereals
+USA,2013,Rice in the husk (paddy or rough),Export,1510054769,10_cereals
+USA,2013,"Rice, husked (brown)",Export,260642113,10_cereals
+USA,2013,"Rice, semi-milled or wholly milled",Export,1924848034,10_cereals
+USA,2013,"Rice, broken",Export,66855387,10_cereals
+USA,2013,Grain sorghum,Export,2109621540,10_cereals
+USA,2013,Buckwheat,Export,24480174,10_cereals
+USA,2013,Millet,Export,22922042,10_cereals
+USA,2013,Canary seed,Export,2163432,10_cereals
+USA,2013,Cereals unmilled nes,Export,17140855,10_cereals
+USA,2012,Durum wheat,Export,536866736,10_cereals
+USA,2012,"Wheat except durum wheat, and meslin",Export,25285879560,10_cereals
+USA,2012,Rye,Export,7216704,10_cereals
+USA,2012,Barley,Export,193258973,10_cereals
+USA,2012,Oats,Export,21159026,10_cereals
+USA,2012,Maize (corn) seed,Export,66551072,10_cereals
+USA,2012,Maize except seed corn,Export,31413737569,10_cereals
+USA,2012,Rice in the husk (paddy or rough),Export,1533021968,10_cereals
+USA,2012,"Rice, husked (brown)",Export,260748802,10_cereals
+USA,2012,"Rice, semi-milled or wholly milled",Export,1942890808,10_cereals
+USA,2012,"Rice, broken",Export,45222234,10_cereals
+USA,2012,Grain sorghum,Export,1733337346,10_cereals
+USA,2012,Buckwheat,Export,20721220,10_cereals
+USA,2012,Millet,Export,41477113,10_cereals
+USA,2012,Canary seed,Export,2001122,10_cereals
+USA,2012,Cereals unmilled nes,Export,14716576,10_cereals
+USA,2011,Durum wheat,Export,764388426,10_cereals
+USA,2011,"Wheat except durum wheat, and meslin",Export,32056310685,10_cereals
+USA,2011,Rye,Export,4037000,10_cereals
+USA,2011,Barley,Export,199866901,10_cereals
+USA,2011,Oats,Export,41943289,10_cereals
+USA,2011,Maize (corn) seed,Export,57580842,10_cereals
+USA,2011,Maize except seed corn,Export,45733143217,10_cereals
+USA,2011,Rice in the husk (paddy or rough),Export,1393056643,10_cereals
+USA,2011,"Rice, husked (brown)",Export,298047743,10_cereals
+USA,2011,"Rice, semi-milled or wholly milled",Export,1947812816,10_cereals
+USA,2011,"Rice, broken",Export,77587450,10_cereals
+USA,2011,Grain sorghum,Export,3394440637,10_cereals
+USA,2011,Buckwheat,Export,25448597,10_cereals
+USA,2011,Millet,Export,60664128,10_cereals
+USA,2011,Canary seed,Export,2084108,10_cereals
+USA,2011,Cereals unmilled nes,Export,12771819,10_cereals
+USA,2010,Durum wheat,Export,1046361494,10_cereals
+USA,2010,"Wheat except durum wheat, and meslin",Export,26599022363,10_cereals
+USA,2010,Rye,Export,3947000,10_cereals
+USA,2010,Barley,Export,163919987,10_cereals
+USA,2010,Oats,Export,38564227,10_cereals
+USA,2010,Maize (corn) seed,Export,52348462,10_cereals
+USA,2010,Maize except seed corn,Export,50609935638,10_cereals
+USA,2010,Rice in the husk (paddy or rough),Export,1977770236,10_cereals
+USA,2010,"Rice, husked (brown)",Export,354276315,10_cereals
+USA,2010,"Rice, semi-milled or wholly milled",Export,2085361403,10_cereals
+USA,2010,"Rice, broken",Export,58029694,10_cereals
+USA,2010,Grain sorghum,Export,3828842564,10_cereals
+USA,2010,Buckwheat,Export,22960697,10_cereals
+USA,2010,Millet,Export,45280697,10_cereals
+USA,2010,Canary seed,Export,2207750,10_cereals
+USA,2010,Cereals unmilled nes,Export,13864699,10_cereals
+USA,2009,Durum wheat,Export,888394105,10_cereals
+USA,2009,"Wheat except durum wheat, and meslin",Export,21053853572,10_cereals
+USA,2009,Rye,Export,3995000,10_cereals
+USA,2009,Barley,Export,120345704,10_cereals
+USA,2009,Oats,Export,34805959,10_cereals
+USA,2009,Maize (corn) seed,Export,66966324,10_cereals
+USA,2009,Maize except seed corn,Export,47746433077,10_cereals
+USA,2009,Rice in the husk (paddy or rough),Export,1467126214,10_cereals
+USA,2009,"Rice, husked (brown)",Export,214636847,10_cereals
+USA,2009,"Rice, semi-milled or wholly milled",Export,1705585179,10_cereals
+USA,2009,"Rice, broken",Export,72772097,10_cereals
+USA,2009,Grain sorghum,Export,3751393379,10_cereals
+USA,2009,Buckwheat,Export,28090797,10_cereals
+USA,2009,Millet,Export,40803995,10_cereals
+USA,2009,Canary seed,Export,2711195,10_cereals
+USA,2009,Cereals unmilled nes,Export,13453508,10_cereals
+USA,2008,Durum wheat,Export,584556614,10_cereals
+USA,2008,"Wheat except durum wheat, and meslin",Export,29508794597,10_cereals
+USA,2008,Rye,Export,65817000,10_cereals
+USA,2008,Barley,Export,1998726992,10_cereals
+USA,2008,Oats,Export,56857850,10_cereals
+USA,2008,Maize (corn) seed,Export,99909422,10_cereals
+USA,2008,Maize except seed corn,Export,53994487225,10_cereals
+USA,2008,Rice in the husk (paddy or rough),Export,1801028055,10_cereals
+USA,2008,"Rice, husked (brown)",Export,338943121,10_cereals
+USA,2008,"Rice, semi-milled or wholly milled",Export,1705756299,10_cereals
+USA,2008,"Rice, broken",Export,100771337,10_cereals
+USA,2008,Grain sorghum,Export,5306093522,10_cereals
+USA,2008,Buckwheat,Export,22399553,10_cereals
+USA,2008,Millet,Export,36427648,10_cereals
+USA,2008,Canary seed,Export,3069123,10_cereals
+USA,2008,Cereals unmilled nes,Export,16150855,10_cereals
+USA,2007,Durum wheat,Export,2267556571,10_cereals
+USA,2007,"Wheat except durum wheat, and meslin",Export,30679345511,10_cereals
+USA,2007,Rye,Export,3717000,10_cereals
+USA,2007,Barley,Export,733224803,10_cereals
+USA,2007,Oats,Export,34391875,10_cereals
+USA,2007,Maize (corn) seed,Export,65377576,10_cereals
+USA,2007,Maize except seed corn,Export,56949042528,10_cereals
+USA,2007,Rice in the husk (paddy or rough),Export,1451239863,10_cereals
+USA,2007,"Rice, husked (brown)",Export,284100069,10_cereals
+USA,2007,"Rice, semi-milled or wholly milled",Export,1693346890,10_cereals
+USA,2007,"Rice, broken",Export,65835772,10_cereals
+USA,2007,Grain sorghum,Export,5704050231,10_cereals
+USA,2007,Buckwheat,Export,11928844,10_cereals
+USA,2007,Millet,Export,34223887,10_cereals
+USA,2007,Canary seed,Export,3007586,10_cereals
+USA,2007,Cereals unmilled nes,Export,13729082,10_cereals
+USA,2006,Durum wheat,Export,1195836091,10_cereals
+USA,2006,"Wheat except durum wheat, and meslin",Export,22198795715,10_cereals
+USA,2006,Rye,Export,1078000,10_cereals
+USA,2006,Barley,Export,378681123,10_cereals
+USA,2006,Oats,Export,40220447,10_cereals
+USA,2006,Maize (corn) seed,Export,51855373,10_cereals
+USA,2006,Maize except seed corn,Export,57833710376,10_cereals
+USA,2006,Rice in the husk (paddy or rough),Export,1548786886,10_cereals
+USA,2006,"Rice, husked (brown)",Export,303222695,10_cereals
+USA,2006,"Rice, semi-milled or wholly milled",Export,1951143923,10_cereals
+USA,2006,"Rice, broken",Export,45401067,10_cereals
+USA,2006,Grain sorghum,Export,4709786231,10_cereals
+USA,2006,Buckwheat,Export,11812940,10_cereals
+USA,2006,Millet,Export,34523159,10_cereals
+USA,2006,Canary seed,Export,6367994,10_cereals
+USA,2006,Cereals unmilled nes,Export,11219966,10_cereals
