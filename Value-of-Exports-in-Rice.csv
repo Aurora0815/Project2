@@ -1,0 +1,2015 @@
+"Year","Continent ID","Continent","Country ID","Country","ISO 3","Trade Value","share"
+2020,"af","Africa","afago","Angola","ago",4626,1.7278072047481094e-7
+2020,"af","Africa","afbdi","Burundi","bdi",2654,9.912668226116476e-8
+2020,"af","Africa","afben","Benin","ben",160529,0.000005995744979918056
+2020,"af","Africa","afbfa","Burkina Faso","bfa",2643216,0.00009872390074590313
+2020,"af","Africa","afbwa","Botswana","bwa",511670,0.000019110832521691852
+2020,"af","Africa","afciv","Cote d'Ivoire","civ",1712332,0.00006395545971726631
+2020,"af","Africa","afcmr","Cameroon","cmr",18527,6.919819300122832e-7
+2020,"af","Africa","afcod","Democratic Republic of the Congo","cod",44178,0.000001650044675559057
+2020,"af","Africa","afcog","Republic of the Congo","cog",568739,0.00002124235498965056
+2020,"af","Africa","afcom","Comoros","com",14619.000000000002,5.460184506314876e-7
+2020,"af","Africa","afdza","Algeria","dza",100649,0.0000037592318925787387
+2020,"af","Africa","afegy","Egypt","egy",1189587,0.00004443097685418697
+2020,"af","Africa","aferi","Eritrea","eri",1,3.734991795823842e-11
+2020,"af","Africa","afeth","Ethiopia","eth",47,1.7554461440372057e-9
+2020,"af","Africa","afgha","Ghana","gha",219892,0.000008212948159672963
+2020,"af","Africa","afgin","Guinea","gin",128715.00000000001,0.000004807494689994659
+2020,"af","Africa","afgmb","Gambia","gmb",48688,0.0000018184928055507123
+2020,"af","Africa","afken","Kenya","ken",303629,0.000011340518239741973
+2020,"af","Africa","aflso","Lesotho","lso",22867.999999999996,8.541179238689961e-7
+2020,"af","Africa","afmar","Morocco","mar",448515,0.000016751998453039305
+2020,"af","Africa","afmdg","Madagascar","mdg",18180,6.790215084807745e-7
+2020,"af","Africa","afmoz","Mozambique","moz",22072951,0.0008244229089462167
+2020,"af","Africa","afmrt","Mauritania","mrt",650026.9999999999,0.00002427845512063984
+2020,"af","Africa","afmus","Mauritius","mus",15426608,0.0005761825431739045
+2020,"af","Africa","afmwi","Malawi","mwi",280324,0.000010470078401725228
+2020,"af","Africa","afnam","Namibia","nam",283188,0.000010577048566757623
+2020,"af","Africa","afner","Niger","ner",56950,0.000002127077827721678
+2020,"af","Africa","afnga","Nigeria","nga",41342,0.0000015441203082294927
+2020,"af","Africa","afrwa","Rwanda","rwa",159935,0.000005973559128650862
+2020,"af","Africa","afsdn","Sudan","sdn",35,1.3072471285383448e-9
+2020,"af","Africa","afsen","Senegal","sen",24653143,0.0009207928684627198
+2020,"af","Africa","afsle","Sierra Leone","sle",3285.9999999999995,1.2273183041077144e-7
+2020,"af","Africa","afsom","Somalia","som",3,1.1204975387471527e-10
+2020,"af","Africa","afssd","South Sudan","ssd",4145,1.5481540993689825e-7
+2020,"af","Africa","afswz","Eswatini","swz",14794,5.525546862741792e-7
+2020,"af","Africa","afsyc","Seychelles","syc",26298,9.822281424657539e-7
+2020,"af","Africa","aftgo","Togo","tgo",1054199,0.00003937424616165698
+2020,"af","Africa","aftun","Tunisia","tun",14,5.228988514153378e-10
+2020,"af","Africa","aftza","Tanzania","tza",109638302,0.004094981584780567
+2020,"af","Africa","afuga","Uganda","uga",18233950,0.0006810365365546215
+2020,"af","Africa","afzaf","South Africa","zaf",70036356,0.002615852150693979
+2020,"af","Africa","afzmb","Zambia","zmb",1160520,0.00004334532678889485
+2020,"as","Asia","asafg","Afghanistan","afg",2090,7.80613285327183e-8
+2020,"as","Asia","asare","United Arab Emirates","are",60273994,0.002251228730915355
+2020,"as","Asia","asarm","Armenia","arm",3129,1.1686789329132802e-7
+2020,"as","Asia","asaze","Azerbaijan","aze",69012,0.0000025775925381339497
+2020,"as","Asia","asbgd","Bangladesh","bgd",14652043,0.0005472526039705816
+2020,"as","Asia","asbhr","Bahrain","bhr",4712,1.7599281341921944e-7
+2020,"as","Asia","asbrn","Brunei","brn",24320,9.083500047443584e-7
+2020,"as","Asia","asbtn","Bhutan","btn",621,2.3194299052066058e-8
+2020,"as","Asia","aschn","China","chn",1139189488,0.04254863391568763
+2020,"as","Asia","ascyp","Cyprus","cyp",166220,0.00000620830336301839
+2020,"as","Asia","asgeo","Georgia","geo",478632,0.00001787686593218757
+2020,"as","Asia","ashkg","Hong Kong","hkg",13309347,0.0004971030185277266
+2020,"as","Asia","asidn","Indonesia","idn",1571670,0.00005870174555742458
+2020,"as","Asia","asind","India","ind",8207675368,0.30655600162265434
+2020,"as","Asia","asirn","Iran","irn",2717760,0.00010150811303018205
+2020,"as","Asia","asirq","Iraq","irq",123549,0.000004614545013822399
+2020,"as","Asia","asisr","Israel","isr",32807381,0.0012253529887746699
+2020,"as","Asia","asjor","Jordan","jor",2167274,0.00008094750609302321
+2020,"as","Asia","asjpn","Japan","jpn",64735084,0.0024178500764196727
+2020,"as","Asia","askaz","Kazakhstan","kaz",31914211,0.0011919931625519102
+2020,"as","Asia","askgz","Kyrgyzstan","kgz",777051,0.000029022791099367124
+2020,"as","Asia","askhm","Cambodia","khm",558221294,0.02084951953344169
+2020,"as","Asia","askor","South Korea","kor",28738418,0.0010733775545495622
+2020,"as","Asia","askwt","Kuwait","kwt",349174,0.000013041620253149942
+2020,"as","Asia","aslao","Laos","lao",70903440,0.0026482376669568802
+2020,"as","Asia","aslbn","Lebanon","lbn",18111934,0.000676479248965029
+2020,"as","Asia","aslka","Sri Lanka","lka",8412251,0.00031419688469410913
+2020,"as","Asia","asmac","Macau","mac",4270,1.5948414968167805e-7
+2020,"as","Asia","asmmr","Burma","mmr",1153958872,0.04310026919638135
+2020,"as","Asia","asmng","Mongolia","mng",345367,0.000012899429115482929
+2020,"as","Asia","asmys","Malaysia","mys",48201108,0.0018003074292961896
+2020,"as","Asia","asnpl","Nepal","npl",70781,0.0000026436645430020735
+2020,"as","Asia","asomn","Oman","omn",306640,0.00001145297884271423
+2020,"as","Asia","aspak","Pakistan","pak",2141164080,0.07997230272312704
+2020,"as","Asia","asphl","Philippines","phl",888963,0.0000332026951179095
+2020,"as","Asia","aspse","Palestine","pse",4181384,0.0001561743493518908
+2020,"as","Asia","asqat","Qatar","qat",61276.00000000001,0.0000022886535728090176
+2020,"as","Asia","assau","Saudi Arabia","sau",5081951,0.0001898104529177877
+2020,"as","Asia","assgp","Singapore","sgp",79629200,0.002974144087080159
+2020,"as","Asia","assyr","Syria","syr",11489,4.2911320742220124e-7
+2020,"as","Asia","astha","Thailand","tha",3878233057,0.14485168650187819
+2020,"as","Asia","astjk","Tajikistan","tjk",10614,3.964320292087426e-7
+2020,"as","Asia","astls","Timor-Leste","tls",1668.0000000000002,6.229966315434169e-8
+2020,"as","Asia","astur","Turkey","tur",119662401,0.0044693808600358275
+2020,"as","Asia","asuzb","Uzbekistan","uzb",812976,0.00003036458690201684
+2020,"as","Asia","asvnm","Vietnam","vnm",2741178616,0.10238279641647755
+2020,"as","Asia","asxxb","Chinese Taipei",,114924513,0.004292421131940505
+2020,"as","Asia","asyem","Yemen","yem",20534.000000000004,7.669432153544679e-7
+2020,"eu","Europe","eualb","Albania","alb",66,2.4650945852437357e-9
+2020,"eu","Europe","euand","Andorra","and",4437,1.6572158598070386e-7
+2020,"eu","Europe","euaut","Austria","aut",5317661,0.00019861420207972408
+2020,"eu","Europe","eubel","Belgium","bel",308370532,0.011517614070938336
+2020,"eu","Europe","eubgr","Bulgaria","bgr",51418232,0.0019204667467576694
+2020,"eu","Europe","eubih","Bosnia and Herzegovina","bih",129516,0.0000048374119742792075
+2020,"eu","Europe","eublr","Belarus","blr",197580,0.000007379596790188747
+2020,"eu","Europe","euche","Switzerland","che",7875470,0.00029414815838256796
+2020,"eu","Europe","eucze","Czechia","cze",22163018,0.0008277869040069614
+2020,"eu","Europe","eudeu","Germany","deu",76425412,0.0028544828681245703
+2020,"eu","Europe","eudnk","Denmark","dnk",10649667,0.0003977641887325591
+2020,"eu","Europe","euesp","Spain","esp",228264111,0.008525645818660228
+2020,"eu","Europe","euest","Estonia","est",594986,0.000022222678286300446
+2020,"eu","Europe","eufin","Finland","fin",526760,0.00001967444278368167
+2020,"eu","Europe","eufra","France","fra",48518235,0.001812152096728532
+2020,"eu","Europe","eugbr","United Kingdom","gbr",79724995,0.002977722022470968
+2020,"eu","Europe","eugib","Gibraltar","gib",119.00000000000001,4.444640237030373e-9
+2020,"eu","Europe","eugrc","Greece","grc",71922673,0.0026863059358872097
+2020,"eu","Europe","euhrv","Croatia","hrv",128431,0.000004796887313294518
+2020,"eu","Europe","euhun","Hungary","hun",6658292,0.0002486866599419952
+2020,"eu","Europe","euirl","Ireland","irl",736445,0.000027506160330754895
+2020,"eu","Europe","euisl","Iceland","isl",31828,0.0000011887731887748125
+2020,"eu","Europe","euita","Italy","ita",718705817,0.026843603301058717
+2020,"eu","Europe","eultu","Lithuania","ltu",9619164,0.0003592749862268405
+2020,"eu","Europe","eulux","Luxembourg","lux",143930,0.000005375773691729256
+2020,"eu","Europe","eulva","Latvia","lva",2231227,0.00008333614539620643
+2020,"eu","Europe","eumda","Moldova","mda",156551.00000000003,0.000005847167006280184
+2020,"eu","Europe","eumkd","North Macedonia","mkd",3413207,0.00012748300142448508
+2020,"eu","Europe","eumlt","Malta","mlt",214377,0.000008006963362133279
+2020,"eu","Europe","eumne","Montenegro","mne",56760,0.0000021199813433096128
+2020,"eu","Europe","eunld","Netherlands","nld",217849435,0.008136658524498594
+2020,"eu","Europe","eunor","Norway","nor",575106,0.000021480161917290666
+2020,"eu","Europe","eupol","Poland","pol",46201610,0.0017256263430385278
+2020,"eu","Europe","euprt","Portugal","prt",59486723,0.0022218242236544546
+2020,"eu","Europe","eurou","Romania","rou",20109245,0.0007510786509521162
+2020,"eu","Europe","eurus","Russia","rus",67822571,0.0025331674625668
+2020,"eu","Europe","eusmr","San Marino","smr",10,3.734991795823842e-10
+2020,"eu","Europe","eusrb","Serbia","srb",471029,0.000017592894505951085
+2020,"eu","Europe","eusvk","Slovakia","svk",3100762,0.00011581320630802329
+2020,"eu","Europe","eusvn","Slovenia","svn",2912185,0.00010876987082921256
+2020,"eu","Europe","euswe","Sweden","swe",2211050,0.00008258253610156306
+2020,"eu","Europe","euukr","Ukraine","ukr",4291449,0.0001602852680719643
+2020,"na","North America","naabw","Aruba","abw",567.0000000000001,2.1177403482321188e-8
+2020,"na","North America","naatg","Antigua and Barbuda","atg",1631734,0.00006094513102966821
+2020,"na","North America","nablz","Belize","blz",49491,0.0000018484847896711776
+2020,"na","North America","nabmu","Bermuda","bmu",165,6.162736463109339e-9
+2020,"na","North America","nabrb","Barbados","brb",14021,5.236831996924609e-7
+2020,"na","North America","nacan","Canada","can",17865274,0.00066726651820145
+2020,"na","North America","nacri","Costa Rica","cri",4581310,0.00017111155264125727
+2020,"na","North America","nacuw","Curaçao","cuw",125,4.668739744779802e-9
+2020,"na","North America","nadom","Dominican Republic","dom",2033284,0.00007594299058579885
+2020,"na","North America","nagrd","Grenada","grd",124032.99999999999,0.0000046326223741141855
+2020,"na","North America","nagtm","Guatemala","gtm",644957,0.000024089091036591578
+2020,"na","North America","nahnd","Honduras","hnd",2821668,0.00010538906830538669
+2020,"na","North America","nahti","Haiti","hti",113061,0.0000042228190742763945
+2020,"na","North America","najam","Jamaica","jam",7484,2.795267859994563e-7
+2020,"na","North America","nalca","Saint Lucia","lca",28686,0.0000010714197465500273
+2020,"na","North America","namex","Mexico","mex",12688191,0.0004739028928884591
+2020,"na","North America","nanic","Nicaragua","nic",1803568.9999999998,0.0000673631541820221
+2020,"na","North America","napan","Panama","pan",620906,0.000023190788159777985
+2020,"na","North America","naslv","El Salvador","slv",1606279,0.00005999438886804125
+2020,"na","North America","naspm","Saint Pierre and Miquelon","spm",9415,3.5164947757681473e-7
+2020,"na","North America","natto","Trinidad and Tobago","tto",259292,0.000009684534927227557
+2020,"na","North America","nausa","United States","usa",1916882632,0.07159540904077213
+2020,"na","North America","navct","Saint Vincent and the Grenadines","vct",46,1.7180962260789673e-9
+2020,"na","North America","navgb","British Virgin Islands","vgb",218828,0.000008173207846965397
+2020,"oc","Oceania","ocaus","Australia","aus",70260776,0.002624234219282167
+2020,"oc","Oceania","ocfji","Fiji","fji",2299138.0000000005,0.00008587261567466839
+2020,"oc","Oceania","ocniu","Niue","niu",917.9999999999999,3.428722468566287e-8
+2020,"oc","Oceania","ocnzl","New Zealand","nzl",270002,0.00001008455254856029
+2020,"oc","Oceania","ocpcn","Pitcairn Islands","pcn",113342.00000000001,0.000004233314401222659
+2020,"oc","Oceania","ocpng","Papua New Guinea","png",175,6.536235642691723e-9
+2020,"oc","Oceania","octkl","Tokelau","tkl",12,4.4819901549886107e-10
+2020,"oc","Oceania","ocvut","Vanuatu","vut",205783,0.000007685978167200177
+2020,"sa","South America","saarg","Argentina","arg",170233412,0.0063582039719509995
+2020,"sa","South America","sabol","Bolivia","bol",52952,0.000001977752855724641
+2020,"sa","South America","sabra","Brazil","bra",523746276,0.019561880439532896
+2020,"sa","South America","sachl","Chile","chl",227992,0.000008515482495134694
+2020,"sa","South America","sacol","Colombia","col",1791360,0.00006690714903366998
+2020,"sa","South America","saecu","Ecuador","ecu",32824530,0.0012259935025177358
+2020,"sa","South America","saguy","Guyana","guy",269572112,0.010068496267029058
+2020,"sa","South America","saper","Peru","per",30431876,0.0011366280719152847
+2020,"sa","South America","sapry","Paraguay","pry",300596007,0.011227236200024061
+2020,"sa","South America","sasur","Suriname","sur",34619862,0.0012930490054255358
+2020,"sa","South America","saury","Uruguay","ury",475227847,0.01774972109692028
+2020,"sa","South America","saven","Venezuela","ven",3002,1.1212445371063175e-7
+2019,"af","Africa","afago","Angola","ago",1001907,0.00003965482558870333
+2019,"af","Africa","afbdi","Burundi","bdi",2873,1.1371146615039585e-7
+2019,"af","Africa","afben","Benin","ben",423411,0.00001675833121970249
+2019,"af","Africa","afbfa","Burkina Faso","bfa",1997675,0.00007906667356143127
+2019,"af","Africa","afbwa","Botswana","bwa",504140.00000000006,0.00001995353238602874
+2019,"af","Africa","afciv","Cote d'Ivoire","civ",8532449,0.0003377087663221298
+2019,"af","Africa","afcmr","Cameroon","cmr",469291,0.000018574231695504845
+2019,"af","Africa","afcod","Democratic Republic of the Congo","cod",215001,0.000008509599350435523
+2019,"af","Africa","afcog","Republic of the Congo","cog",469094,0.00001856643456399366
+2019,"af","Africa","afcom","Comoros","com",23979,9.490731802368055e-7
+2019,"af","Africa","afdza","Algeria","dza",72389,0.000002865109405903587
+2019,"af","Africa","afegy","Egypt","egy",2208410,0.0000874074274142693
+2019,"af","Africa","afeth","Ethiopia","eth",69924,0.0000027675463136443714
+2019,"af","Africa","afgab","Gabon","gab",140,5.5411086881501634e-9
+2019,"af","Africa","afgha","Ghana","gha",314937,0.000012465001049428199
+2019,"af","Africa","afgin","Guinea","gin",1976,7.82087911984623e-8
+2019,"af","Africa","afgnb","Guinea-Bissau","gnb",313,1.2388335852792865e-8
+2019,"af","Africa","afgnq","Equatorial Guinea","gnq",99763,0.0000039485544718280335
+2019,"af","Africa","afken","Kenya","ken",265371,0.000010503211097736407
+2019,"af","Africa","aflbr","Liberia","lbr",231613,0.000009167091475632313
+2019,"af","Africa","aflby","Libya","lby",3010222,0.000119142623410434
+2019,"af","Africa","aflso","Lesotho","lso",43585,0.0000017250658726644633
+2019,"af","Africa","afmar","Morocco","mar",562864,0.000022277790004621095
+2019,"af","Africa","afmdg","Madagascar","mdg",26875,0.000001063694971385969
+2019,"af","Africa","afmli","Mali","mli",17422,6.895513968925153e-7
+2019,"af","Africa","afmoz","Mozambique","moz",14220422,0.0005628350278097266
+2019,"af","Africa","afmrt","Mauritania","mrt",2492,9.863173464907291e-8
+2019,"af","Africa","afmus","Mauritius","mus",6396194,0.00025315718674638534
+2019,"af","Africa","afmwi","Malawi","mwi",156952,0.000006212057791589603
+2019,"af","Africa","afnam","Namibia","nam",81994,0.0000032452690412584606
+2019,"af","Africa","afner","Niger","ner",4888802,0.00019349559454889925
+2019,"af","Africa","afnga","Nigeria","nga",229675,0.000009090386699649205
+2019,"af","Africa","afrwa","Rwanda","rwa",31438634,0.0012443206285783794
+2019,"af","Africa","afsdn","Sudan","sdn",173543,0.00000686871875048317
+2019,"af","Africa","afsen","Senegal","sen",50866937,0.002013280189644907
+2019,"af","Africa","afsom","Somalia","som",7984,3.1600151261564933e-7
+2019,"af","Africa","afssd","South Sudan","ssd",1222.9999999999998,4.8405542325768914e-8
+2019,"af","Africa","afswz","Eswatini","swz",17216,6.813980512513801e-7
+2019,"af","Africa","afsyc","Seychelles","syc",15,5.936902165875175e-10
+2019,"af","Africa","aftcd","Chad","tcd",138,5.461949992605161e-9
+2019,"af","Africa","aftgo","Togo","tgo",1686763,0.00006676097938678739
+2019,"af","Africa","aftun","Tunisia","tun",132,5.224473905970154e-9
+2019,"af","Africa","aftza","Tanzania","tza",40740005,0.0016124628261484364
+2019,"af","Africa","afuga","Uganda","uga",25532786,0.0010105710166948489
+2019,"af","Africa","afzaf","South Africa","zaf",64351823,0.0025470031823114393
+2019,"af","Africa","afzmb","Zambia","zmb",1333691.0000000002,0.00005278661991005486
+2019,"af","Africa","afzwe","Zimbabwe","zwe",2269,8.980554009580515e-8
+2019,"as","Asia","asafg","Afghanistan","afg",92716,0.000003669638808075218
+2019,"as","Asia","asare","United Arab Emirates","are",99155340,0.003924503685360596
+2019,"as","Asia","asarm","Armenia","arm",3,1.187380433175035e-10
+2019,"as","Asia","asaze","Azerbaijan","aze",25079,9.926104627865568e-7
+2019,"as","Asia","asbgd","Bangladesh","bgd",9963022,0.0003943299126030801
+2019,"as","Asia","asbhr","Bahrain","bhr",885226,0.00003503666771126012
+2019,"as","Asia","asbrn","Brunei","brn",521666,0.000020647200035089595
+2019,"as","Asia","asbtn","Bhutan","btn",11456.999999999998,4.534605874295458e-7
+2019,"as","Asia","aschn","China","chn",1149329526,0.04548971301475792
+2019,"as","Asia","ascyp","Cyprus","cyp",107270,0.0000042456766355562
+2019,"as","Asia","asgeo","Georgia","geo",294715,0.00001166462747877268
+2019,"as","Asia","ashkg","Hong Kong","hkg",18808647,0.0007444339807432108
+2019,"as","Asia","asidn","Indonesia","idn",1587463,0.00006283075015297802
+2019,"as","Asia","asind","India","ind",7010926240,0.277487887860314
+2019,"as","Asia","asirn","Iran","irn",1651216,0.00006535405231151829
+2019,"as","Asia","asirq","Iraq","irq",70751,0.00000280027843425223
+2019,"as","Asia","asisr","Israel","isr",35899035,0.0014208603909621914
+2019,"as","Asia","asjor","Jordan","jor",2658887.0000000005,0.00010523701326078232
+2019,"as","Asia","asjpn","Japan","jpn",74946811,0.002966345897008916
+2019,"as","Asia","askaz","Kazakhstan","kaz",24793008,0.0009812910859584036
+2019,"as","Asia","askgz","Kyrgyzstan","kgz",440106,0.000017419108430764398
+2019,"as","Asia","askhm","Cambodia","khm",481195734,0.019045413302629963
+2019,"as","Asia","askor","South Korea","kor",30053870,0.0011895125726395395
+2019,"as","Asia","askwt","Kuwait","kwt",391229,0.000015484588649687858
+2019,"as","Asia","aslao","Laos","lao",46334229,0.001833878563361709
+2019,"as","Asia","aslbn","Lebanon","lbn",6567976,0.00025995620626544113
+2019,"as","Asia","aslka","Sri Lanka","lka",5129320,0.00020301514011644567
+2019,"as","Asia","asmac","Macau","mac",199294,0.000007887926534972847
+2019,"as","Asia","asmdv","Maldives","mdv",11166,4.41942997227748e-7
+2019,"as","Asia","asmmr","Burma","mmr",1097191674,0.043426130838338725
+2019,"as","Asia","asmng","Mongolia","mng",49213,0.0000019478184419281
+2019,"as","Asia","asmys","Malaysia","mys",13432409,0.0005316459872334746
+2019,"as","Asia","asnpl","Nepal","npl",123323,0.000004881043905348161
+2019,"as","Asia","asomn","Oman","omn",42819,0.0000016947480922707274
+2019,"as","Asia","aspak","Pakistan","pak",2396881151,0.09486699264478188
+2019,"as","Asia","asphl","Philippines","phl",768961,0.00003043497484249027
+2019,"as","Asia","asprk","North Korea","prk",13111808.000000002,0.000518956808758263
+2019,"as","Asia","aspse","Palestine","pse",3730058,0.00014763326279360015
+2019,"as","Asia","asqat","Qatar","qat",32037,0.0000012680035645876198
+2019,"as","Asia","assau","Saudi Arabia","sau",390223,0.000015444771825828723
+2019,"as","Asia","assgp","Singapore","sgp",53749549,0.0021273720924860923
+2019,"as","Asia","assyr","Syria","syr",34716,0.0000013740366372701505
+2019,"as","Asia","astha","Thailand","tha",4421707467,0.17500829758465822
+2019,"as","Asia","astjk","Tajikistan","tjk",128079,0.000005069283283354177
+2019,"as","Asia","astkm","Turkmenistan","tkm",45,1.7810706497625526e-9
+2019,"as","Asia","astls","Timor-Leste","tls",1882,7.448833250784719e-8
+2019,"as","Asia","astur","Turkey","tur",109471435,0.004332807997019756
+2019,"as","Asia","asuzb","Uzbekistan","uzb",96737,0.000003828787365468445
+2019,"as","Asia","asvnm","Vietnam","vnm",2465803577,0.09759489731276036
+2019,"as","Asia","asxxb","Chinese Taipei",,51220111,0.0020272585862151126
+2019,"eu","Europe","euaut","Austria","aut",5607221,0.00022193014999627176
+2019,"eu","Europe","eubel","Belgium","bel",210930406,0.008348487894868866
+2019,"eu","Europe","eubgr","Bulgaria","bgr",38169130,0.0015107092704438074
+2019,"eu","Europe","eubih","Bosnia and Herzegovina","bih",35907,0.0000014211756404671994
+2019,"eu","Europe","eublr","Belarus","blr",91515,0.000003622104011400444
+2019,"eu","Europe","euche","Switzerland","che",8056279,0.0003188622682932979
+2019,"eu","Europe","eucze","Czechia","cze",21556284,0.0008531836611188025
+2019,"eu","Europe","eudeu","Germany","deu",72404455,0.002865721104723411
+2019,"eu","Europe","eudnk","Denmark","dnk",10946298,0.00043324733536343396
+2019,"eu","Europe","euesp","Spain","esp",205678957,0.008140638968588312
+2019,"eu","Europe","euest","Estonia","est",563651,0.000022308938951318054
+2019,"eu","Europe","eufin","Finland","fin",846776,0.000033514841789407444
+2019,"eu","Europe","eufra","France","fra",49109712,0.0019437303702553737
+2019,"eu","Europe","eugbr","United Kingdom","gbr",62892483,0.0024892434569331176
+2019,"eu","Europe","eugrc","Greece","grc",64592172,0.002556516038969212
+2019,"eu","Europe","euhrv","Croatia","hrv",410698,0.000016255158971470685
+2019,"eu","Europe","euhun","Hungary","hun",6097671,0.00024134184111129496
+2019,"eu","Europe","euirl","Ireland","irl",1569322,0.00006211274120503708
+2019,"eu","Europe","euisl","Iceland","isl",4079,1.6144415956403225e-7
+2019,"eu","Europe","euita","Italy","ita",617172483,0.024427284340275062
+2019,"eu","Europe","eultu","Lithuania","ltu",5333232,0.00021108584407943194
+2019,"eu","Europe","eulux","Luxembourg","lux",181827,0.000007196594067430569
+2019,"eu","Europe","eulva","Latvia","lva",2147092,0.00008498050096755507
+2019,"eu","Europe","eumda","Moldova","mda",2404,9.51487520450928e-8
+2019,"eu","Europe","eumkd","North Macedonia","mkd",3375863,0.0001336144557093191
+2019,"eu","Europe","eumlt","Malta","mlt",135488,0.000005362526671000638
+2019,"eu","Europe","eumne","Montenegro","mne",15657,6.196938480740508e-7
+2019,"eu","Europe","eunld","Netherlands","nld",195147222,0.007723799766375491
+2019,"eu","Europe","eunor","Norway","nor",336444,0.000013316234081971382
+2019,"eu","Europe","eupol","Poland","pol",38655812,0.0015299718265764238
+2019,"eu","Europe","euprt","Portugal","prt",59485745,0.0023544069888613225
+2019,"eu","Europe","eurou","Romania","rou",20380633,0.0008066521613307138
+2019,"eu","Europe","eurus","Russia","rus",78415328,0.0031036275376067485
+2019,"eu","Europe","eusrb","Serbia","srb",457361,0.000018102050076578904
+2019,"eu","Europe","eusvk","Slovakia","svk",4021034,0.00015914990309105146
+2019,"eu","Europe","eusvn","Slovenia","svn",3535207,0.00013992118730078053
+2019,"eu","Europe","euswe","Sweden","swe",1909642,0.00007558238483897468
+2019,"eu","Europe","euukr","Ukraine","ukr",4545171,0.0001798949036944869
+2019,"na","North America","naatg","Antigua and Barbuda","atg",4595157,0.00018187331697224314
+2019,"na","North America","nabhs","Bahamas","bhs",384,1.5198469544640447e-8
+2019,"na","North America","nablz","Belize","blz",401267.00000000006,0.00001588188614262823
+2019,"na","North America","nabmu","Bermuda","bmu",1700,6.728489121325198e-8
+2019,"na","North America","nabrb","Barbados","brb",36300,0.0000014367303241417923
+2019,"na","North America","nacan","Canada","can",15978379,0.0006324138192818294
+2019,"na","North America","nacri","Costa Rica","cri",3974152,0.00015729434410878106
+2019,"na","North America","nadom","Dominican Republic","dom",8447231,0.0003343358934636528
+2019,"na","North America","nagtm","Guatemala","gtm",363323,0.000014380087370748441
+2019,"na","North America","nahnd","Honduras","hnd",2100019,0.00008311738232986012
+2019,"na","North America","nahti","Haiti","hti",143102,0.000005663883824940462
+2019,"na","North America","najam","Jamaica","jam",7070,2.7982598875158323e-7
+2019,"na","North America","nakna","Saint Kitts and Nevis","kna",41375,0.0000016375955140872357
+2019,"na","North America","nalca","Saint Lucia","lca",258,1.02114717253053e-8
+2019,"na","North America","namaf","Saint Martin","maf",2598,1.0282714551295803e-7
+2019,"na","North America","namex","Mexico","mex",5951392.999999999,0.000235552253277829
+2019,"na","North America","nanic","Nicaragua","nic",1667139.0000000002,0.00006598427426609983
+2019,"na","North America","napan","Panama","pan",122383,0.00000484383931844201
+2019,"na","North America","naslv","El Salvador","slv",2017260,0.0000798418350875557
+2019,"na","North America","natto","Trinidad and Tobago","tto",244980,0.000009696148617307336
+2019,"na","North America","nausa","United States","usa",1916071483,0.07583685958262905
+2019,"na","North America","navct","Saint Vincent and the Grenadines","vct",583711,0.000023102900667634427
+2019,"na","North America","navgb","British Virgin Islands","vgb",192654,0.00000762511966576344
+2019,"oc","Oceania","ocasm","American Samoa","asm",192,7.599234772320223e-9
+2019,"oc","Oceania","ocaus","Australia","aus",127952774,0.005064287340602245
+2019,"oc","Oceania","ocfji","Fiji","fji",513695,0.000020331713053994985
+2019,"oc","Oceania","ocnzl","New Zealand","nzl",214044,0.00000847172191461724
+2019,"oc","Oceania","ocpng","Papua New Guinea","png",40.99999999999999,1.6227532586725474e-9
+2019,"oc","Oceania","ocpyf","French Polynesia","pyf",219908,0.000008703815209955187
+2019,"oc","Oceania","ocwsm","Samoa","wsm",39089,0.0000015471171250792981
+2019,"sa","South America","saarg","Argentina","arg",178657183,0.0070711347780123834
+2019,"sa","South America","sabol","Bolivia","bol",46379,0.0000018356505703408316
+2019,"sa","South America","sabra","Brazil","bra",371932473,0.0147208446967534
+2019,"sa","South America","sachl","Chile","chl",4495609,0.0001779332720601862
+2019,"sa","South America","sacol","Colombia","col",15646,6.192584752485532e-7
+2019,"sa","South America","saecu","Ecuador","ecu",18300602,0.0007243258910041303
+2019,"sa","South America","saguy","Guyana","guy",261137542,0.010335653591274129
+2019,"sa","South America","saper","Peru","per",20993257,0.0008308994196804945
+2019,"sa","South America","sapry","Paraguay","pry",229748262,0.009093286361825714
+2019,"sa","South America","sasur","Suriname","sur",35260250,0.0013955776972953342
+2019,"sa","South America","saury","Uruguay","ury",365693952,0.014473928104508349
+2019,"sa","South America","saven","Venezuela","ven",7377,2.919768485177411e-7
+2018,"af","Africa","afago","Angola","ago",606063,0.000022543455126254457
+2018,"af","Africa","afbdi","Burundi","bdi",14585,5.425117405557199e-7
+2018,"af","Africa","afben","Benin","ben",480131,0.00001785921868390527
+2018,"af","Africa","afbfa","Burkina Faso","bfa",1928655,0.00007173931991645471
+2018,"af","Africa","afbwa","Botswana","bwa",383174,0.000014252752394631294
+2018,"af","Africa","afciv","Cote d'Ivoire","civ",5105536,0.00018990834568597106
+2018,"af","Africa","afcmr","Cameroon","cmr",13138860,0.0004887203159079826
+2018,"af","Africa","afcod","Democratic Republic of the Congo","cod",91512,0.0000034039310525701088
+2018,"af","Africa","afcog","Republic of the Congo","cog",339511,0.00001262863925593507
+2018,"af","Africa","afcom","Comoros","com",90722.00000000001,0.0000033745457748848837
+2018,"af","Africa","afcpv","Cape Verde","cpv",11.000000000000002,4.091620943512458e-10
+2018,"af","Africa","afdza","Algeria","dza",35865,0.0000013340544103552207
+2018,"af","Africa","afegy","Egypt","egy",3408356,0.00012677909811405766
+2018,"af","Africa","afeth","Ethiopia","eth",42050.00000000001,0.000001564115097042717
+2018,"af","Africa","afgab","Gabon","gab",48239,0.0000017943245699463401
+2018,"af","Africa","afgha","Ghana","gha",84376,0.0000031384964429982462
+2018,"af","Africa","afgin","Guinea","gin",78383,0.000002915577494684881
+2018,"af","Africa","afgmb","Gambia","gmb",20575,7.653190992069892e-7
+2018,"af","Africa","afken","Kenya","ken",2099938,0.00007811045728070603
+2018,"af","Africa","aflbr","Liberia","lbr",294428.00000000006,0.000010951707010513508
+2018,"af","Africa","aflby","Libya","lby",26526,9.86675792251013e-7
+2018,"af","Africa","aflso","Lesotho","lso",30684,0.000001141339063915784
+2018,"af","Africa","afmar","Morocco","mar",329547,0.000012258012791560907
+2018,"af","Africa","afmdg","Madagascar","mdg",37697,0.000001402198497341719
+2018,"af","Africa","afmli","Mali","mli",277971,0.00001033956332081001
+2018,"af","Africa","afmoz","Mozambique","moz",12205154,0.000453989670229044
+2018,"af","Africa","afmus","Mauritius","mus",13653668,0.0005078693994960531
+2018,"af","Africa","afmwi","Malawi","mwi",139823,0.000005200933774406748
+2018,"af","Africa","afnam","Namibia","nam",1058433,0.00003937006027367928
+2018,"af","Africa","afner","Niger","ner",220613569,0.008206064539485733
+2018,"af","Africa","afnga","Nigeria","nga",2177091,0.00008098028301393163
+2018,"af","Africa","afrwa","Rwanda","rwa",30767083,0.0011444294652144188
+2018,"af","Africa","afsdn","Sudan","sdn",1824420.9999999998,0.00006786217430349036
+2018,"af","Africa","afsen","Senegal","sen",44748277.99999999,0.0016644817404628883
+2018,"af","Africa","afsle","Sierra Leone","sle",3188,1.185826142537974e-7
+2018,"af","Africa","afsom","Somalia","som",580,2.157400133852023e-8
+2018,"af","Africa","afswz","Eswatini","swz",8195429,0.00030484171761335777
+2018,"af","Africa","aftgo","Togo","tgo",8935704,0.0003323773966493458
+2018,"af","Africa","aftun","Tunisia","tun",1884386,0.00007009266566601514
+2018,"af","Africa","aftza","Tanzania","tza",38363167,0.0014269776141515088
+2018,"af","Africa","afuga","Uganda","uga",26809503,0.0009972211269087276
+2018,"af","Africa","afzaf","South Africa","zaf",71342981,0.002653713047565557
+2018,"af","Africa","afzmb","Zambia","zmb",1205504,0.00004484059467170946
+2018,"af","Africa","afzwe","Zimbabwe","zwe",13.999999999999998,5.207517564470399e-10
+2018,"as","Asia","asafg","Afghanistan","afg",14570,5.419537922452409e-7
+2018,"as","Asia","asare","United Arab Emirates","are",237713355,0.008842117653369197
+2018,"as","Asia","asaze","Azerbaijan","aze",8084.999999999999,3.007341393481656e-7
+2018,"as","Asia","asbgd","Bangladesh","bgd",8945457,0.0003327401746408192
+2018,"as","Asia","asbhr","Bahrain","bhr",491795,0.000018293079290133716
+2018,"as","Asia","asbrn","Brunei","brn",1798702,0.00006690551613034312
+2018,"as","Asia","asbtn","Bhutan","btn",8629,3.209690647415363e-7
+2018,"as","Asia","ascck","Cocos (Keeling) Islands","cck",65994,0.000002454749386783283
+2018,"as","Asia","aschn","China","chn",963141497,0.03582554473355582
+2018,"as","Asia","ascyp","Cyprus","cyp",184104,0.000006848034383494704
+2018,"as","Asia","asgeo","Georgia","geo",283487,0.000010544739512850144
+2018,"as","Asia","ashkg","Hong Kong","hkg",33273353,0.0012376540726880276
+2018,"as","Asia","asidn","Indonesia","idn",3525010,0.0001311182249280986
+2018,"as","Asia","asind","India","ind",7605403204,0.2828947912122104
+2018,"as","Asia","asiot","British Indian Ocean Territory","iot",11009,4.094968633375331e-7
+2018,"as","Asia","asirn","Iran","irn",3374405,0.00012551623790811958
+2018,"as","Asia","asirq","Iraq","irq",40693,0.0000015136393732213856
+2018,"as","Asia","asisr","Israel","isr",33520851,0.0012468601454178226
+2018,"as","Asia","asjor","Jordan","jor",1756937,0.00006535200205119951
+2018,"as","Asia","asjpn","Japan","jpn",66641688,0.0024788411484711163
+2018,"as","Asia","askaz","Kazakhstan","kaz",31551942,0.0011736235154153666
+2018,"as","Asia","askgz","Kyrgyzstan","kgz",337566,0.000012556291958342964
+2018,"as","Asia","askhm","Cambodia","khm",413063672,0.015364545194176002
+2018,"as","Asia","askor","South Korea","kor",59056483,0.00219669766084534
+2018,"as","Asia","askwt","Kuwait","kwt",884181,0.00003288848634050716
+2018,"as","Asia","aslao","Laos","lao",60285839,0.002242425467723819
+2018,"as","Asia","aslbn","Lebanon","lbn",3351996,0.00012468270032881803
+2018,"as","Asia","aslka","Sri Lanka","lka",4708988,0.00017515812657771672
+2018,"as","Asia","asmac","Macau","mac",151526,0.000005636245046242442
+2018,"as","Asia","asmmr","Burma","mmr",594063303,0.02209710774842715
+2018,"as","Asia","asmng","Mongolia","mng",527052,0.000019604518195637524
+2018,"as","Asia","asmys","Malaysia","mys",19314780,0.0007184432578848685
+2018,"as","Asia","asnpl","Nepal","npl",67406,0.0000025072709210763697
+2018,"as","Asia","asomn","Oman","omn",3526305,0.00013116639446556996
+2018,"as","Asia","aspak","Pakistan","pak",2111389654,0.078536419347472
+2018,"as","Asia","asphl","Philippines","phl",650922,0.00002421205534357287
+2018,"as","Asia","asprk","North Korea","prk",135169,0.000005027821011942139
+2018,"as","Asia","aspse","Palestine","pse",3671984.0000000005,0.0001365851512603877
+2018,"as","Asia","asqat","Qatar","qat",150895,0.000005612774020648293
+2018,"as","Asia","assau","Saudi Arabia","sau",10698297,0.0003979397824101499
+2018,"as","Asia","assgp","Singapore","sgp",60909452,0.0022656217223733337
+2018,"as","Asia","assyr","Syria","syr",5050,1.8784259786125372e-7
+2018,"as","Asia","astha","Thailand","tha",5854483240,0.217766602165697
+2018,"as","Asia","astjk","Tajikistan","tjk",42877,0.000001594876647227124
+2018,"as","Asia","astls","Timor-Leste","tls",101591.00000000001,0.0000037788351206579465
+2018,"as","Asia","astur","Turkey","tur",128794418,0.004790708528148162
+2018,"as","Asia","asuzb","Uzbekistan","uzb",171122,0.00000636514871905217
+2018,"as","Asia","asvnm","Vietnam","vnm",2661805032,0.09900997469525497
+2018,"as","Asia","asxxb","Chinese Taipei",,36239594,0.001347988016316258
+2018,"eu","Europe","eualb","Albania","alb",17045,6.340152634742712e-7
+2018,"eu","Europe","euand","Andorra","and",129,4.798355470119154e-9
+2018,"eu","Europe","euaut","Austria","aut",4489509,0.00016699426409534244
+2018,"eu","Europe","eubel","Belgium","bel",243998928,0.009075919309085346
+2018,"eu","Europe","eubgr","Bulgaria","bgr",31382821,0.0011673327970009324
+2018,"eu","Europe","eubih","Bosnia and Herzegovina","bih",103211.00000000001,0.0000038390935381896755
+2018,"eu","Europe","eublr","Belarus","blr",56295,0.00000209398000922758
+2018,"eu","Europe","euche","Switzerland","che",5697470,0.00021192625070030836
+2018,"eu","Europe","eucze","Czechia","cze",21278989,0.0007915050640833745
+2018,"eu","Europe","eudeu","Germany","deu",87285478,0.003246718998629962
+2018,"eu","Europe","eudnk","Denmark","dnk",11520636,0.00042852795945621435
+2018,"eu","Europe","euesp","Spain","esp",195141132,0.007258577660290263
+2018,"eu","Europe","euest","Estonia","est",2315020,0.00008611076651500189
+2018,"eu","Europe","eufin","Finland","fin",1111942,0.000041360410683373895
+2018,"eu","Europe","eufra","France","fra",52560388,0.00195506531218128
+2018,"eu","Europe","eugbr","United Kingdom","gbr",60530166,0.0022515135901807785
+2018,"eu","Europe","eugib","Gibraltar","gib",2194,8.160923954605756e-8
+2018,"eu","Europe","eugrc","Greece","grc",65136648,0.002422858846790898
+2018,"eu","Europe","euhrv","Croatia","hrv",263224,0.000009791025738501118
+2018,"eu","Europe","euhun","Hungary","hun",5697412,0.0002119240933001745
+2018,"eu","Europe","euirl","Ireland","irl",1423236,0.000052939474774189956
+2018,"eu","Europe","euisl","Iceland","isl",11262,4.1890759150761174e-7
+2018,"eu","Europe","euita","Italy","ita",625902603,0.023281419991216027
+2018,"eu","Europe","eultu","Lithuania","ltu",4374122,0.00016270226531525997
+2018,"eu","Europe","eulux","Luxembourg","lux",172910,0.000006431656157661263
+2018,"eu","Europe","eulva","Latvia","lva",1624610.0000000002,0.00006042989364581613
+2018,"eu","Europe","eumda","Moldova","mda",6520,2.4252153228819293e-7
+2018,"eu","Europe","eumkd","North Macedonia","mkd",3745563,0.00013932203650950318
+2018,"eu","Europe","eumlt","Malta","mlt",173401,0.000006449919665690942
+2018,"eu","Europe","eumne","Montenegro","mne",4249,1.5804815808167664e-7
+2018,"eu","Europe","eunld","Netherlands","nld",182564566,0.0067907727435351116
+2018,"eu","Europe","eunor","Norway","nor",994301,0.000036984570870503454
+2018,"eu","Europe","eupol","Poland","pol",34813089,0.0012949269460069376
+2018,"eu","Europe","euprt","Portugal","prt",62114985,0.0023104633957451103
+2018,"eu","Europe","eurou","Romania","rou",14467604,0.0005381450138985872
+2018,"eu","Europe","eurus","Russia","rus",69736804,0.002593968798000212
+2018,"eu","Europe","eusmr","San Marino","smr",40,1.4878621612772572e-9
+2018,"eu","Europe","eusrb","Serbia","srb",437581,0.000016276505309846586
+2018,"eu","Europe","eusvk","Slovakia","svk",2421595,0.00009007498926095499
+2018,"eu","Europe","eusvn","Slovenia","svn",3994632,0.0001485865450256823
+2018,"eu","Europe","euswe","Sweden","swe",3201633,0.00011908971487491471
+2018,"eu","Europe","euukr","Ukraine","ukr",2875799,0.00010696981288847437
+2018,"na","North America","nabhs","Bahamas","bhs",1116,4.151135429963548e-8
+2018,"na","North America","nablz","Belize","blz",269823,0.000010036485798557835
+2018,"na","North America","nabmu","Bermuda","bmu",1005,3.738253680209109e-8
+2018,"na","North America","nabrb","Barbados","brb",8978,3.3395066209868036e-7
+2018,"na","North America","nacan","Canada","can",16140769,0.0006003809862254238
+2018,"na","North America","nacri","Costa Rica","cri",2485216,0.0000924414712250205
+2018,"na","North America","nacub","Cuba","cub",129,4.798355470119154e-9
+2018,"na","North America","nadma","Dominica","dma",2748,1.0221613047974757e-7
+2018,"na","North America","nadom","Dominican Republic","dom",6248277,0.0002324143730369744
+2018,"na","North America","nagrd","Grenada","grd",139908,0.000005204095481499462
+2018,"na","North America","nagtm","Guatemala","gtm",621930,0.000023133652849079115
+2018,"na","North America","nahnd","Honduras","hnd",2061945.9999999998,0.00007669728579992488
+2018,"na","North America","nahti","Haiti","hti",140730,0.00000523467104891371
+2018,"na","North America","najam","Jamaica","jam",31149,0.0000011586354615406321
+2018,"na","North America","nalca","Saint Lucia","lca",472.00000000000006,1.7556773503071638e-8
+2018,"na","North America","namaf","Saint Martin","maf",9447,3.513958459396562e-7
+2018,"na","North America","namex","Mexico","mex",1443490,0.0000536928537795527
+2018,"na","North America","nanic","Nicaragua","nic",3094070,0.00011508874193357807
+2018,"na","North America","napan","Panama","pan",46171,0.000001717402096208306
+2018,"na","North America","naslv","El Salvador","slv",1131917,0.00004210341185016173
+2018,"na","North America","natto","Trinidad and Tobago","tto",259041.99999999997,0.00000963546974953958
+2018,"na","North America","nausa","United States","usa",1743624011,0.0648568047365345
+2018,"na","North America","navct","Saint Vincent and the Grenadines","vct",1620204,0.00006026600562875143
+2018,"na","North America","navgb","British Virgin Islands","vgb",129467.00000000001,0.000004815726260852067
+2018,"oc","Oceania","ocaus","Australia","aus",216585154,0.00805622138327519
+2018,"oc","Oceania","ocfji","Fiji","fji",484156,0.000018008934813883794
+2018,"oc","Oceania","ocgum","Guam","gum",8635,3.2119224406572787e-7
+2018,"oc","Oceania","ocmhl","Marshall Islands","mhl",508,1.8895849448221166e-8
+2018,"oc","Oceania","ocnzl","New Zealand","nzl",548819,0.000020414175587250575
+2018,"oc","Oceania","ocpyf","French Polynesia","pyf",654,2.4326546336883156e-8
+2018,"oc","Oceania","octkl","Tokelau","tkl",119654,0.0000044507164761367235
+2018,"oc","Oceania","ocvut","Vanuatu","vut",26.000000000000004,9.671104048302173e-10
+2018,"oc","Oceania","ocwsm","Samoa","wsm",53385,0.000001985738036994659
+2018,"sa","South America","saarg","Argentina","arg",164802117,0.006130070849567185
+2018,"sa","South America","sabol","Bolivia","bol",618930,0.00002302206318698332
+2018,"sa","South America","sabra","Brazil","bra",471229002,0.017528095034306124
+2018,"sa","South America","sachl","Chile","chl",6385307,0.00023751141683596997
+2018,"sa","South America","sacol","Colombia","col",1596288,0.00005937641284252376
+2018,"sa","South America","saecu","Ecuador","ecu",18468728,0.0006869730389530449
+2018,"sa","South America","saflk","Falkland Islands","flk",193,7.178934928162766e-9
+2018,"sa","South America","saguy","Guyana","guy",235354682,0.00875438314568104
+2018,"sa","South America","saper","Peru","per",449183,0.000016708059729725055
+2018,"sa","South America","sapry","Paraguay","pry",222098334,0.008261292681032954
+2018,"sa","South America","sasur","Suriname","sur",31736889,0.0011805029064939103
+2018,"sa","South America","saury","Uruguay","ury",397147792,0.014772529303790265
+2018,"sa","South America","saven","Venezuela","ven",96085,0.0000035740308941581314
+2017,"af","Africa","afago","Angola","ago",110538,0.000004429973381170913
+2017,"af","Africa","afbdi","Burundi","bdi",88.00000000000001,3.5267297901449315e-9
+2017,"af","Africa","afben","Benin","ben",199142.99999999997,0.00000798094943862309
+2017,"af","Africa","afbfa","Burkina Faso","bfa",3739432,0.0001498632526434232
+2017,"af","Africa","afbwa","Botswana","bwa",871311.9999999999,0.00003491911348762227
+2017,"af","Africa","afciv","Cote d'Ivoire","civ",8763280,0.00035120137085660534
+2017,"af","Africa","afcmr","Cameroon","cmr",7891212,0.00031625195955396773
+2017,"af","Africa","afcod","Democratic Republic of the Congo","cod",14489.999999999998,5.807081211272733e-7
+2017,"af","Africa","afcog","Republic of the Congo","cog",13880,5.562614714455868e-7
+2017,"af","Africa","afcom","Comoros","com",5,2.003823744400529e-10
+2017,"af","Africa","afcpv","Cape Verde","cpv",12168,4.876505464373127e-7
+2017,"af","Africa","afdza","Algeria","dza",33232,0.0000013318214134783675
+2017,"af","Africa","afegy","Egypt","egy",5469243,0.00021918797974592764
+2017,"af","Africa","afeth","Ethiopia","eth",28553,0.0000011443035874773662
+2017,"af","Africa","afgab","Gabon","gab",21118,8.463349966850075e-7
+2017,"af","Africa","afgha","Ghana","gha",130200,0.000005217957030418977
+2017,"af","Africa","afgin","Guinea","gin",97484,0.000003906815077982823
+2017,"af","Africa","afgmb","Gambia","gmb",4374,1.7529450116015829e-7
+2017,"af","Africa","afgnq","Equatorial Guinea","gnq",51,2.0439002192885396e-9
+2017,"af","Africa","afken","Kenya","ken",403411,0.000016167290811047236
+2017,"af","Africa","aflbr","Liberia","lbr",11159,4.472133832753101e-7
+2017,"af","Africa","aflby","Libya","lby",299860,0.000012017331759918854
+2017,"af","Africa","aflso","Lesotho","lso",32386,0.0000012979167157231106
+2017,"af","Africa","afmar","Morocco","mar",89883,0.000003602193792359055
+2017,"af","Africa","afmdg","Madagascar","mdg",211469.99999999997,0.000008474972144567597
+2017,"af","Africa","afmli","Mali","mli",24632,9.871637294414766e-7
+2017,"af","Africa","afmoz","Mozambique","moz",1669942,0.00006692538862743416
+2017,"af","Africa","afmrt","Mauritania","mrt",244,9.778659872674582e-9
+2017,"af","Africa","afmus","Mauritius","mus",10001472,0.00040082374145114096
+2017,"af","Africa","afmwi","Malawi","mwi",200675,0.000008042346598151523
+2017,"af","Africa","afnam","Namibia","nam",1110194,0.00004449266196182002
+2017,"af","Africa","afner","Niger","ner",324276194,0.012995846745620647
+2017,"af","Africa","afnga","Nigeria","nga",1444409,0.00005788682101651648
+2017,"af","Africa","afrwa","Rwanda","rwa",19164083,0.0007680288911012504
+2017,"af","Africa","afsen","Senegal","sen",31470904,0.0012612428938589917
+2017,"af","Africa","afsle","Sierra Leone","sle",17958,7.19693336038894e-7
+2017,"af","Africa","afswz","Eswatini","swz",131287,0.000005261520158622245
+2017,"af","Africa","afsyc","Seychelles","syc",5312,2.128862346051122e-7
+2017,"af","Africa","aftgo","Togo","tgo",440046,0.000017635492468569504
+2017,"af","Africa","aftun","Tunisia","tun",256761.99999999997,0.000010290115845195371
+2017,"af","Africa","aftza","Tanzania","tza",18469037,0.0007401738975362383
+2017,"af","Africa","afuga","Uganda","uga",26452063,0.0010601054385555738
+2017,"af","Africa","afzaf","South Africa","zaf",64818601,0.0025977010352524776
+2017,"af","Africa","afzmb","Zambia","zmb",1533291,0.00006144889825751263
+2017,"af","Africa","afzwe","Zimbabwe","zwe",529780,0.000021231714866170244
+2017,"as","Asia","asafg","Afghanistan","afg",16709,6.696378189037688e-7
+2017,"as","Asia","asare","United Arab Emirates","are",281069816,0.011264287422701755
+2017,"as","Asia","asarm","Armenia","arm",107,4.2881828130171325e-9
+2017,"as","Asia","asaze","Azerbaijan","aze",14378,5.762195559398162e-7
+2017,"as","Asia","asbgd","Bangladesh","bgd",7430170,0.0002977750214186496
+2017,"as","Asia","asbhr","Bahrain","bhr",345741,0.000013856080504255666
+2017,"as","Asia","asbrn","Brunei","brn",41867,0.000001677881774136339
+2017,"as","Asia","asbtn","Bhutan","btn",6211,2.489149855294337e-7
+2017,"as","Asia","aschn","China","chn",676700069,0.02711975332199353
+2017,"as","Asia","ascyp","Cyprus","cyp",128569,0.000005152592299876632
+2017,"as","Asia","asgeo","Georgia","geo",69901,0.0000028013856711468274
+2017,"as","Asia","ashkg","Hong Kong","hkg",38762350,0.001553458346375277
+2017,"as","Asia","asidn","Indonesia","idn",6941629,0.000278196020300386
+2017,"as","Asia","asind","India","ind",7421766048,0.29743822064736153
+2017,"as","Asia","asiot","British Indian Ocean Territory","iot",69395,0.000002781106974853494
+2017,"as","Asia","asirn","Iran","irn",1113951,0.00004464322927797428
+2017,"as","Asia","asirq","Iraq","irq",170980,0.000006852275676352049
+2017,"as","Asia","asisr","Israel","isr",30068871,0.0012050543535423296
+2017,"as","Asia","asjor","Jordan","jor",2134901,0.00008555930631488868
+2017,"as","Asia","asjpn","Japan","jpn",47775678,0.0019146807596246795
+2017,"as","Asia","askaz","Kazakhstan","kaz",29472882,0.0011811692153502992
+2017,"as","Asia","askgz","Kyrgyzstan","kgz",150094,0.0000060152384218410605
+2017,"as","Asia","askhm","Cambodia","khm",357435025,0.014324735803507934
+2017,"as","Asia","askor","South Korea","kor",6744601,0.00027029983260615107
+2017,"as","Asia","askwt","Kuwait","kwt",1116488,0.000044744903294765156
+2017,"as","Asia","aslao","Laos","lao",57755477,0.0023146359236355728
+2017,"as","Asia","aslbn","Lebanon","lbn",15506334,0.0006214392051561047
+2017,"as","Asia","aslka","Sri Lanka","lka",5303448,0.00021254350059186995
+2017,"as","Asia","asmac","Macau","mac",857697.0000000001,0.000034373472282022014
+2017,"as","Asia","asmdv","Maldives","mdv",2,8.015294977602116e-11
+2017,"as","Asia","asmmr","Burma","mmr",616711913,0.024715639494481467
+2017,"as","Asia","asmng","Mongolia","mng",362640,0.000014533332853388157
+2017,"as","Asia","asmys","Malaysia","mys",6643466,0.00026624669831835213
+2017,"as","Asia","asnpl","Nepal","npl",10191,4.0841935558371586e-7
+2017,"as","Asia","asomn","Oman","omn",2604018,0.00010435986198492754
+2017,"as","Asia","aspak","Pakistan","pak",1751752017,0.07020404571932239
+2017,"as","Asia","asphl","Philippines","phl",1101336,0.00004413766454726202
+2017,"as","Asia","asprk","North Korea","prk",16863,6.758095960365224e-7
+2017,"as","Asia","aspse","Palestine","pse",3109410.0000000005,0.000124614191781529
+2017,"as","Asia","asqat","Qatar","qat",118114,0.000004733592754922482
+2017,"as","Asia","assau","Saudi Arabia","sau",15949592,0.0006392034232620145
+2017,"as","Asia","assgp","Singapore","sgp",56441366,0.0022619709871440144
+2017,"as","Asia","assyr","Syria","syr",131994,0.0000052898542263680686
+2017,"as","Asia","astha","Thailand","tha",5313874706,0.2129613662130436
+2017,"as","Asia","astjk","Tajikistan","tjk",4142821,0.0001660296617720229
+2017,"as","Asia","astls","Timor-Leste","tls",7202,2.886307721434522e-7
+2017,"as","Asia","astur","Turkey","tur",149877699,0.006006569840246309
+2017,"as","Asia","asuzb","Uzbekistan","uzb",33573,0.0000013454874914151793
+2017,"as","Asia","asvnm","Vietnam","vnm",2428543930,0.09732747982507553
+2017,"as","Asia","asxxb","Chinese Taipei",,18007664,0.0007216836940877321
+2017,"eu","Europe","eualb","Albania","alb",84011,0.000003366864731816657
+2017,"eu","Europe","euand","Andorra","and",3649.9999999999995,1.462791333412386e-7
+2017,"eu","Europe","euaut","Austria","aut",5087534,0.00020389042859290002
+2017,"eu","Europe","eubel","Belgium","bel",187095000,0.00749810806917234
+2017,"eu","Europe","eubgr","Bulgaria","bgr",27944851,0.0011199311193506973
+2017,"eu","Europe","eubih","Bosnia and Herzegovina","bih",78288,0.0000031375070660325723
+2017,"eu","Europe","eublr","Belarus","blr",55900,0.0000022402749462397916
+2017,"eu","Europe","euche","Switzerland","che",34786814,0.0013941328777048948
+2017,"eu","Europe","eucze","Czechia","cze",18598990,0.0007453819556773599
+2017,"eu","Europe","eudeu","Germany","deu",100368592,0.00402241935683298
+2017,"eu","Europe","eudnk","Denmark","dnk",12364460,0.0004955239706938113
+2017,"eu","Europe","euesp","Spain","esp",187250208,0.007504328258686758
+2017,"eu","Europe","euest","Estonia","est",350512,0.000014047285365946364
+2017,"eu","Europe","eufin","Finland","fin",488117,0.00001956200869291106
+2017,"eu","Europe","eufra","France","fra",58759395,0.0023548694181521946
+2017,"eu","Europe","eugbr","United Kingdom","gbr",61917678,0.002481442267490925
+2017,"eu","Europe","eugib","Gibraltar","gib",3833.9999999999995,1.5365320472063255e-7
+2017,"eu","Europe","eugrc","Greece","grc",79603811,0.0031902401325314403
+2017,"eu","Europe","euhrv","Croatia","hrv",90736,0.000003636379025438528
+2017,"eu","Europe","euhun","Hungary","hun",4396189,0.00017618375806144836
+2017,"eu","Europe","euirl","Ireland","irl",877235,0.00003515648644838396
+2017,"eu","Europe","euisl","Iceland","isl",6468,2.5921463957565243e-7
+2017,"eu","Europe","euita","Italy","ita",605777441,0.02427742440195981
+2017,"eu","Europe","eultu","Lithuania","ltu",3699923,0.00014827987119707278
+2017,"eu","Europe","eulux","Luxembourg","lux",151547,0.000006073469539853339
+2017,"eu","Europe","eulva","Latvia","lva",1332074,0.00005338483020997181
+2017,"eu","Europe","eumda","Moldova","mda",235,9.417971598682486e-9
+2017,"eu","Europe","eumkd","North Macedonia","mkd",1653327,0.00006625951799716987
+2017,"eu","Europe","eumlt","Malta","mlt",179717,0.000007202423837448598
+2017,"eu","Europe","eumne","Montenegro","mne",370,1.4828295708563915e-8
+2017,"eu","Europe","eunld","Netherlands","nld",132695659,0.005317974245661515
+2017,"eu","Europe","eunor","Norway","nor",667228,0.000026740146186577524
+2017,"eu","Europe","eupol","Poland","pol",32951892,0.0013205956722504367
+2017,"eu","Europe","euprt","Portugal","prt",46087117,0.0018470091871113056
+2017,"eu","Europe","eurou","Romania","rou",9000602,0.0003607124000299778
+2017,"eu","Europe","eurus","Russia","rus",82992736,0.0033260563001912915
+2017,"eu","Europe","eusrb","Serbia","srb",349747,0.000014016626862657038
+2017,"eu","Europe","eusvk","Slovakia","svk",1943819,0.00007790141334033784
+2017,"eu","Europe","eusvn","Slovenia","svn",4413652,0.00017688361354241768
+2017,"eu","Europe","euswe","Sweden","swe",3045666,0.00012205955696626764
+2017,"eu","Europe","euukr","Ukraine","ukr",1172766,0.000047000327148512616
+2017,"na","North America","naabw","Aruba","abw",282,1.1301565918418984e-8
+2017,"na","North America","naatg","Antigua and Barbuda","atg",2551742,0.0001022648241836819
+2017,"na","North America","nabhs","Bahamas","bhs",261,1.0459959945770762e-8
+2017,"na","North America","nablm","Saint Barthélemy","blm",32073.999999999996,0.0000012854128555580513
+2017,"na","North America","nablz","Belize","blz",96981,0.0000038866566111141545
+2017,"na","North America","nabmu","Bermuda","bmu",1172,4.69696285687484e-8
+2017,"na","North America","nabrb","Barbados","brb",9716,3.893830300119108e-7
+2017,"na","North America","nacan","Canada","can",9125944,0.00036573566554539083
+2017,"na","North America","nacri","Costa Rica","cri",3267517,0.00013095056299664766
+2017,"na","North America","nacuw","Curaçao","cuw",212,8.496212676258243e-9
+2017,"na","North America","nacym","Cayman Islands","cym",267,1.0700418795098825e-8
+2017,"na","North America","nadom","Dominican Republic","dom",5387611,0.00021591645694786957
+2017,"na","North America","nagrd","Grenada","grd",134179,0.000005377421323998371
+2017,"na","North America","nagtm","Guatemala","gtm",496961,0.000019916445036820625
+2017,"na","North America","nahnd","Honduras","hnd",2548573,0.00010213782183476179
+2017,"na","North America","nahti","Haiti","hti",238116.00000000003,0.00000954284989443353
+2017,"na","North America","najam","Jamaica","jam",37712,0.000001511364020976655
+2017,"na","North America","nalca","Saint Lucia","lca",518,2.0759613991989482e-8
+2017,"na","North America","namaf","Saint Martin","maf",1272,5.097727605754946e-8
+2017,"na","North America","namex","Mexico","mex",5990731,0.00024008738048232652
+2017,"na","North America","nanic","Nicaragua","nic",2443937.9999999995,0.00009794441988485479
+2017,"na","North America","napan","Panama","pan",5252740,0.0002105113027032487
+2017,"na","North America","naslv","El Salvador","slv",1111178,0.00004453209721310982
+2017,"na","North America","natca","Turks and Caicos Islands","tca",335205,0.000013433834764835587
+2017,"na","North America","natto","Trinidad and Tobago","tto",149486,0.00000599087192510915
+2017,"na","North America","nausa","United States","usa",1793447403,0.07187504980929729
+2017,"na","North America","navct","Saint Vincent and the Grenadines","vct",2653627,0.00010634801582764686
+2017,"na","North America","navgb","British Virgin Islands","vgb",68809,0.00000275762216056912
+2017,"oc","Oceania","ocaus","Australia","aus",126748038,0.0050796145620116105
+2017,"oc","Oceania","occok","Cook Islands","cok",4,1.6030589955204233e-10
+2017,"oc","Oceania","ocfji","Fiji","fji",404584,0.000016214300516090874
+2017,"oc","Oceania","ocgum","Guam","gum",1556,6.235899492574446e-8
+2017,"oc","Oceania","ocnzl","New Zealand","nzl",434504,0.00001741338864474015
+2017,"oc","Oceania","ocpng","Papua New Guinea","png",106,4.248106338129121e-9
+2017,"oc","Oceania","ocslb","Solomon Islands","slb",549296,0.00002201384735008466
+2017,"oc","Oceania","octkl","Tokelau","tkl",12904.000000000002,5.171468319548887e-7
+2017,"oc","Oceania","ocwsm","Samoa","wsm",25714,0.000001030526475270304
+2017,"sa","South America","saarg","Argentina","arg",180051257,0.007215819679715239
+2017,"sa","South America","sabol","Bolivia","bol",107024,0.000004289144648414444
+2017,"sa","South America","sabra","Brazil","bra",264867212,0.010614944170375375
+2017,"sa","South America","sachl","Chile","chl",2005842,0.00008038707654231692
+2017,"sa","South America","sacol","Colombia","col",143363,0.0000057454836693698606
+2017,"sa","South America","saecu","Ecuador","ecu",352520,0.00001412775892752149
+2017,"sa","South America","saguy","Guyana","guy",256150588,0.010265612607531144
+2017,"sa","South America","saper","Peru","per",254216,0.000010188081140130498
+2017,"sa","South America","sapry","Paraguay","pry",195082428,0.007818216026834131
+2017,"sa","South America","sasur","Suriname","sur",26190339,0.0010496164632419842
+2017,"sa","South America","saury","Uruguay","ury",466185228,0.018683060583103487
+2017,"sa","South America","saven","Venezuela","ven",140899,0.000005646735235245803
+2016,"af","Africa","afago","Angola","ago",982365,0.00004591515659226567
+2016,"af","Africa","afbdi","Burundi","bdi",743,3.472737867091498e-8
+2016,"af","Africa","afben","Benin","ben",156926,0.0000073346280286837196
+2016,"af","Africa","afbfa","Burkina Faso","bfa",746405,0.00003488652634840416
+2016,"af","Africa","afbwa","Botswana","bwa",781153,0.00003651062722869616
+2016,"af","Africa","afcaf","Central African Republic","caf",52.00000000000001,2.430449112903875e-9
+2016,"af","Africa","afciv","Cote d'Ivoire","civ",10064032,0.00047038687781992704
+2016,"af","Africa","afcmr","Cameroon","cmr",6603354.999999999,0.0003086368904219108
+2016,"af","Africa","afcod","Democratic Republic of the Congo","cod",312435,0.000014603026319040808
+2016,"af","Africa","afcog","Republic of the Congo","cog",379565.00000000006,0.000017740642644987677
+2016,"af","Africa","afdza","Algeria","dza",25834,0.0000012074658150530519
+2016,"af","Africa","afegy","Egypt","egy",34596351,0.0016170128961088667
+2016,"af","Africa","afeth","Ethiopia","eth",2602,1.2161593445722848e-7
+2016,"af","Africa","afgab","Gabon","gab",27590,0.000001289540212019575
+2016,"af","Africa","afgha","Ghana","gha",75202,0.0000035148968113191764
+2016,"af","Africa","afgin","Guinea","gin",173908,0.000008128356621670904
+2016,"af","Africa","afgmb","Gambia","gmb",453.99999999999994,2.1219690331891518e-8
+2016,"af","Africa","afgnb","Guinea-Bissau","gnb",271,1.2666379030710577e-8
+2016,"af","Africa","afgnq","Equatorial Guinea","gnq",45,2.103273270782199e-9
+2016,"af","Africa","afken","Kenya","ken",428434,0.000020024750677651127
+2016,"af","Africa","aflbr","Liberia","lbr",489,2.2855569542499898e-8
+2016,"af","Africa","aflby","Libya","lby",270554,0.000012645533255626825
+2016,"af","Africa","aflso","Lesotho","lso",63251,0.0000029563141700054417
+2016,"af","Africa","afmar","Morocco","mar",2104079,0.00009834340267364752
+2016,"af","Africa","afmdg","Madagascar","mdg",337252,0.000015762958158174184
+2016,"af","Africa","afmli","Mali","mli",38776,0.0000018123672077300123
+2016,"af","Africa","afmoz","Mozambique","moz",702232,0.000032821906566398336
+2016,"af","Africa","afmus","Mauritius","mus",4318163,0.00020182837370623719
+2016,"af","Africa","afmwi","Malawi","mwi",127312,0.000005950487258884963
+2016,"af","Africa","afnam","Namibia","nam",5002009,0.00023379092955359994
+2016,"af","Africa","afner","Niger","ner",134834560,0.006302087245015082
+2016,"af","Africa","afnga","Nigeria","nga",27781,0.000001298467438568895
+2016,"af","Africa","afrwa","Rwanda","rwa",11029387,0.000515506997115837
+2016,"af","Africa","afsen","Senegal","sen",46089704.99999999,0.00215420543521637
+2016,"af","Africa","afsle","Sierra Leone","sle",6312,2.9501913078171646e-7
+2016,"af","Africa","afsom","Somalia","som",1678.0000000000002,7.842872329716734e-8
+2016,"af","Africa","afstp","Sao Tome and Principe","stp",1122,5.244161355150283e-8
+2016,"af","Africa","afswz","Eswatini","swz",19298,9.019770573234418e-7
+2016,"af","Africa","aftcd","Chad","tcd",1350,6.309819812346597e-8
+2016,"af","Africa","aftgo","Togo","tgo",113074,0.000005285011596009475
+2016,"af","Africa","aftun","Tunisia","tun",342906,0.00001602722275979646
+2016,"af","Africa","aftza","Tanzania","tza",19163556,0.0008956932246208408
+2016,"af","Africa","afuga","Uganda","uga",19756282,0.0009233968857918997
+2016,"af","Africa","afzaf","South Africa","zaf",77105414,0.003603861251084346
+2016,"af","Africa","afzmb","Zambia","zmb",1450015,0.00006777283981629446
+2016,"af","Africa","afzwe","Zimbabwe","zwe",342686,0.000016016940090472638
+2016,"as","Asia","asafg","Afghanistan","afg",56896,0.000002659285244764978
+2016,"as","Asia","asare","United Arab Emirates","are",381865079,0.01784814697124073
+2016,"as","Asia","asaze","Azerbaijan","aze",42022,0.000001964083319662435
+2016,"as","Asia","asbgd","Bangladesh","bgd",10312115,0.00048198212988293724
+2016,"as","Asia","asbhr","Bahrain","bhr",847680,0.000039620059692814544
+2016,"as","Asia","asbrn","Brunei","brn",66886,0.000003126211910878626
+2016,"as","Asia","asbtn","Bhutan","btn",655,3.061431094138534e-8
+2016,"as","Asia","aschn","China","chn",411738608,0.01924441797234377
+2016,"as","Asia","ascyp","Cyprus","cyp",139439,0.000006517296035657757
+2016,"as","Asia","asgeo","Georgia","geo",100043,0.000004675950396196968
+2016,"as","Asia","ashkg","Hong Kong","hkg",32857060,0.0015357194678774881
+2016,"as","Asia","asidn","Indonesia","idn",3195908,0.00014937484160619993
+2016,"as","Asia","asind","India","ind",5761987478,0.2693118722013141
+2016,"as","Asia","asirn","Iran","irn",738175,0.000034501861036881104
+2016,"as","Asia","asirq","Iraq","irq",2708.9999999999995,1.2661705090108836e-7
+2016,"as","Asia","asisr","Israel","isr",34958170.99999999,0.0016339241479940757
+2016,"as","Asia","asjor","Jordan","jor",2383025,0.00011138117302457222
+2016,"as","Asia","asjpn","Japan","jpn",47620127,0.0022257364504523047
+2016,"as","Asia","askaz","Kazakhstan","kaz",16378412,0.0007655172483879649
+2016,"as","Asia","askgz","Kyrgyzstan","kgz",148844,0.000006956880149251236
+2016,"as","Asia","askhm","Cambodia","khm",337582145,0.01577838893937379
+2016,"as","Asia","askor","South Korea","kor",5238254,0.00024483288052817636
+2016,"as","Asia","askwt","Kuwait","kwt",2025946,0.00009469151266329141
+2016,"as","Asia","aslao","Laos","lao",56642891,0.002647455080447324
+2016,"as","Asia","aslbn","Lebanon","lbn",3585278,0.00016757376412718803
+2016,"as","Asia","aslka","Sri Lanka","lka",4821680,0.0002253624592058914
+2016,"as","Asia","asmac","Macau","mac",142022.00000000003,0.000006638023921400656
+2016,"as","Asia","asmdv","Maldives","mdv",123202.00000000001,0.000005758388300153522
+2016,"as","Asia","asmmr","Burma","mmr",210728244,0.009849312955645985
+2016,"as","Asia","asmng","Mongolia","mng",282266,0.000013192945178902405
+2016,"as","Asia","asmys","Malaysia","mys",17522393,0.0008189862408231358
+2016,"as","Asia","asnpl","Nepal","npl",220468,0.00001030454336584022
+2016,"as","Asia","asomn","Oman","omn",7619536,0.0003561325867680603
+2016,"as","Asia","aspak","Pakistan","pak",1844534862,0.08621246382823405
+2016,"as","Asia","asphl","Philippines","phl",655219,0.00003062454687130315
+2016,"as","Asia","asprk","North Korea","prk",13951,6.520614533484991e-7
+2016,"as","Asia","aspse","Palestine","pse",2412753,0.00011277064208665696
+2016,"as","Asia","asqat","Qatar","qat",125786,0.000005879162925302438
+2016,"as","Asia","assau","Saudi Arabia","sau",9776285,0.00045693775395664335
+2016,"as","Asia","assgp","Singapore","sgp",41637821,0.001946127021398083
+2016,"as","Asia","assyr","Syria","syr",7734.999999999999,3.615293055444513e-7
+2016,"as","Asia","astha","Thailand","tha",4542820272,0.21232872115700266
+2016,"as","Asia","astjk","Tajikistan","tjk",3032754,0.00014174912055683994
+2016,"as","Asia","astur","Turkey","tur",159264799,0.0074439421047377665
+2016,"as","Asia","asuzb","Uzbekistan","uzb",25737,0.0000012029320926693658
+2016,"as","Asia","asvnm","Vietnam","vnm",1979389369,0.09251548338418096
+2016,"as","Asia","asxxb","Chinese Taipei",,52793691,0.0024675457588052164
+2016,"as","Asia","asyem","Yemen","yem",151,7.057650308624712e-9
+2016,"eu","Europe","eualb","Albania","alb",54734,0.0000025582346489553975
+2016,"eu","Europe","euand","Andorra","and",408,1.9069677655091937e-8
+2016,"eu","Europe","euaut","Austria","aut",4888139,0.0002284687133904006
+2016,"eu","Europe","eubel","Belgium","bel",170253474,0.007957546247155825
+2016,"eu","Europe","eubgr","Bulgaria","bgr",25941676,0.0012124985273353794
+2016,"eu","Europe","eubih","Bosnia and Herzegovina","bih",376893,0.00001761575495210923
+2016,"eu","Europe","eublr","Belarus","blr",72865,0.000003405666819456554
+2016,"eu","Europe","euche","Switzerland","che",5369661,0.0002509747656547025
+2016,"eu","Europe","eucze","Czechia","cze",17272796,0.0008073202252994152
+2016,"eu","Europe","eudeu","Germany","deu",98591515,0.004608108849453827
+2016,"eu","Europe","eudnk","Denmark","dnk",10607765,0.0004958006352719763
+2016,"eu","Europe","euesp","Spain","esp",188314270,0.008801697124396936
+2016,"eu","Europe","euest","Estonia","est",381834,0.000017846694357241116
+2016,"eu","Europe","eufin","Finland","fin",390409,0.000018247484763840167
+2016,"eu","Europe","eufra","France","fra",58428779,0.0027309264247808948
+2016,"eu","Europe","eugbr","United Kingdom","gbr",60330194,0.0028197974324734357
+2016,"eu","Europe","eugrc","Greece","grc",62968102,0.002943091685521936
+2016,"eu","Europe","euhrv","Croatia","hrv",153444,0.000007171881416931194
+2016,"eu","Europe","euhun","Hungary","hun",3561846,0.00016647856636538874
+2016,"eu","Europe","euirl","Ireland","irl",597107,0.000027908426508821033
+2016,"eu","Europe","euisl","Iceland","isl",1925.0000000000002,8.997335658346075e-8
+2016,"eu","Europe","euita","Italy","ita",571888367,0.026729722581830682
+2016,"eu","Europe","eultu","Lithuania","ltu",4082741,0.00019082488926281302
+2016,"eu","Europe","eulux","Luxembourg","lux",151070,0.00000706092206704593
+2016,"eu","Europe","eulva","Latvia","lva",1431134,0.00006689035309128026
+2016,"eu","Europe","eumda","Moldova","mda",568,2.654798261787309e-8
+2016,"eu","Europe","eumkd","North Macedonia","mkd",3847688,0.00017983865166020928
+2016,"eu","Europe","eumlt","Malta","mlt",260476,0.000012174493521783647
+2016,"eu","Europe","eumne","Montenegro","mne",882,4.12241561073311e-8
+2016,"eu","Europe","eunld","Netherlands","nld",158421944,0.007404547562678986
+2016,"eu","Europe","eunor","Norway","nor",574660,0.000026859267061948858
+2016,"eu","Europe","eupol","Poland","pol",27697930,0.001294584796111031
+2016,"eu","Europe","euprt","Portugal","prt",47866497,0.002237251637912807
+2016,"eu","Europe","eurou","Romania","rou",14228784,0.0006650449125096316
+2016,"eu","Europe","eurus","Russia","rus",82609583,0.0038611228407636343
+2016,"eu","Europe","eusrb","Serbia","srb",264938,0.000012383044751433206
+2016,"eu","Europe","eusvk","Slovakia","svk",2119921,0.0000990838483437749
+2016,"eu","Europe","eusvn","Slovenia","svn",2972436,0.0001389298930646835
+2016,"eu","Europe","euswe","Sweden","swe",2533204,0.00011840045028085666
+2016,"eu","Europe","euukr","Ukraine","ukr",617443,0.00002885891906959052
+2016,"na","North America","naabw","Aruba","abw",535156.9999999999,0.000025012920306044202
+2016,"na","North America","naatg","Antigua and Barbuda","atg",6823350,0.0003189193260487048
+2016,"na","North America","nabhs","Bahamas","bhs",1141,5.332966226583309e-8
+2016,"na","North America","nablz","Belize","blz",63937,0.0000029883774025333657
+2016,"na","North America","nabmu","Bermuda","bmu",573,2.6781679647960003e-8
+2016,"na","North America","nabrb","Barbados","brb",5238,2.4482100871904796e-7
+2016,"na","North America","nacan","Canada","can",7493870,0.00035025903257147997
+2016,"na","North America","nacri","Costa Rica","cri",2971532,0.00013888764064164377
+2016,"na","North America","nacuw","Curaçao","cuw",25982,0.0000012143832471436245
+2016,"na","North America","nadom","Dominican Republic","dom",3947409.9999999995,0.00018449959870707466
+2016,"na","North America","nagrd","Grenada","grd",161558,0.0000075511249573562335
+2016,"na","North America","nagrl","Greenland","grl",87,4.066328323512252e-9
+2016,"na","North America","nagtm","Guatemala","gtm",897647,0.000041955487593285084
+2016,"na","North America","nahnd","Honduras","hnd",1710812,0.00007996233668740967
+2016,"na","North America","nahti","Haiti","hti",133032,0.000006217836661304389
+2016,"na","North America","najam","Jamaica","jam",140783,0.000006580113797345118
+2016,"na","North America","nakna","Saint Kitts and Nevis","kna",2470,1.1544633286293403e-7
+2016,"na","North America","nalca","Saint Lucia","lca",2225,1.039951783886754e-7
+2016,"na","North America","namaf","Saint Martin","maf",94,4.393504165633927e-9
+2016,"na","North America","namex","Mexico","mex",2074759.0000000002,0.00009697300328921789
+2016,"na","North America","nanic","Nicaragua","nic",3812437.9999999995,0.00017819108759809654
+2016,"na","North America","napan","Panama","pan",568725,0.000026581868687235692
+2016,"na","North America","naslv","El Salvador","slv",7862359,0.0003674819895554191
+2016,"na","North America","natca","Turks and Caicos Islands","tca",7539219,0.0003523786178949622
+2016,"na","North America","natto","Trinidad and Tobago","tto",36289,0.0000016961263049647827
+2016,"na","North America","nausa","United States","usa",1821673790,0.08514395090203344
+2016,"na","North America","navct","Saint Vincent and the Grenadines","vct",2772099,0.0001295662606813792
+2016,"oc","Oceania","ocasm","American Samoa","asm",1137,5.3142704641763565e-8
+2016,"oc","Oceania","ocaus","Australia","aus",157251280,0.007349831422673053
+2016,"oc","Oceania","ocfji","Fiji","fji",480489,0.000022457770457885955
+2016,"oc","Oceania","ocgum","Guam","gum",5327,2.48980815854595e-7
+2016,"oc","Oceania","ocmhl","Marshall Islands","mhl",158192,0.0000073938001167017255
+2016,"oc","Oceania","ocncl","New Caledonia","ncl",2850,1.3320730714953928e-7
+2016,"oc","Oceania","ocnzl","New Zealand","nzl",267254,0.000012491293215769462
+2016,"oc","Oceania","ocpng","Papua New Guinea","png",424334.00000000006,0.000019833119112979864
+2016,"oc","Oceania","ocpyf","French Polynesia","pyf",11032,5.156291271837605e-7
+2016,"oc","Oceania","ocslb","Solomon Islands","slb",10024,4.685158059182392e-7
+2016,"oc","Oceania","octon","Tonga","ton",37.00000000000001,1.7293580226431419e-9
+2016,"sa","South America","saarg","Argentina","arg",213343066,0.009971528182767168
+2016,"sa","South America","sabol","Bolivia","bol",131720,0.000006156514560609584
+2016,"sa","South America","sabra","Brazil","bra",278449215,0.01301455091510635
+2016,"sa","South America","sachl","Chile","chl",1150673,0.00005378177254023923
+2016,"sa","South America","sacol","Colombia","col",9550,4.46361327466e-7
+2016,"sa","South America","saecu","Ecuador","ecu",234225,0.000010947537374421346
+2016,"sa","South America","saguy","Guyana","guy",204491206,0.009557797504218143
+2016,"sa","South America","saper","Peru","per",6025766,0.0002816407236397371
+2016,"sa","South America","sapry","Paraguay","pry",198608162,0.009282827522084019
+2016,"sa","South America","sasur","Suriname","sur",30221973,0.0014125570666933625
+2016,"sa","South America","saury","Uruguay","ury",435466751,0.020353457282059277
+2016,"sa","South America","saven","Venezuela","ven",21939,0.000001025415828615348
+2015,"af","Africa","afago","Angola","ago",17398996,0.0007314945242859083
+2015,"af","Africa","afbdi","Burundi","bdi",9011,3.7884353547413424e-7
+2015,"af","Africa","afben","Benin","ben",275859,0.00001159775816805673
+2015,"af","Africa","afbfa","Burkina Faso","bfa",4810839,0.00020225893412016962
+2015,"af","Africa","afbwa","Botswana","bwa",477588,0.000020078917591834516
+2015,"af","Africa","afcaf","Central African Republic","caf",256296,0.000010775283849503795
+2015,"af","Africa","afciv","Cote d'Ivoire","civ",7601763,0.00031959591285722573
+2015,"af","Africa","afcmr","Cameroon","cmr",11130167,0.0004679382772941447
+2015,"af","Africa","afcod","Democratic Republic of the Congo","cod",2027,8.521982536966709e-8
+2015,"af","Africa","afcog","Republic of the Congo","cog",35881,0.0000015085212403004561
+2015,"af","Africa","afcom","Comoros","com",62635,0.000002633322033561469
+2015,"af","Africa","afcpv","Cape Verde","cpv",55872,0.000002348989680835737
+2015,"af","Africa","afdza","Algeria","dza",26491,0.0000011137436575569071
+2015,"af","Africa","afegy","Egypt","egy",75074069,0.0031562896151802354
+2015,"af","Africa","afeth","Ethiopia","eth",3864,1.6245160593408663e-7
+2015,"af","Africa","afgab","Gabon","gab",57835,0.000002431518796376268
+2015,"af","Africa","afgha","Ghana","gha",590384,0.00002482112549632241
+2015,"af","Africa","afgin","Guinea","gin",172208,0.00000724002747274772
+2015,"af","Africa","afgmb","Gambia","gmb",78472,0.000003299146589249391
+2015,"af","Africa","afken","Kenya","ken",291239,0.000012244369373870978
+2015,"af","Africa","aflbr","Liberia","lbr",189,7.946002464167282e-9
+2015,"af","Africa","aflby","Libya","lby",86,3.615641332901514e-9
+2015,"af","Africa","aflso","Lesotho","lso",47985,0.0000020174017367358043
+2015,"af","Africa","afmar","Morocco","mar",1412279,0.00005937551541847462
+2015,"af","Africa","afmdg","Madagascar","mdg",108927,0.00000457954608684841
+2015,"af","Africa","afmli","Mali","mli",19923,8.376095613418241e-7
+2015,"af","Africa","afmoz","Mozambique","moz",726962,0.00003056318435638082
+2015,"af","Africa","afmrt","Mauritania","mrt",15238.999999999998,6.406832357219321e-7
+2015,"af","Africa","afmus","Mauritius","mus",647294,0.00002721375512719945
+2015,"af","Africa","afmwi","Malawi","mwi",116855,0.000004912857766932633
+2015,"af","Africa","afnam","Namibia","nam",2420496,0.0001017633184153812
+2015,"af","Africa","afner","Niger","ner",19841408,0.0008341792426484042
+2015,"af","Africa","afnga","Nigeria","nga",388616.00000000006,0.0000163383264212425
+2015,"af","Africa","afrwa","Rwanda","rwa",12771924,0.000536961585059033
+2015,"af","Africa","afsen","Senegal","sen",38187243,0.0016054810951203955
+2015,"af","Africa","afsle","Sierra Leone","sle",23512,9.88499523478842e-7
+2015,"af","Africa","afssd","South Sudan","ssd",16621,6.98785751094838e-7
+2015,"af","Africa","afswz","Eswatini","swz",12976,5.455414178573261e-7
+2015,"af","Africa","afsyc","Seychelles","syc",12552.999999999998,5.277575075803803e-7
+2015,"af","Africa","aftcd","Chad","tcd",51104,0.000002148531798565104
+2015,"af","Africa","aftgo","Togo","tgo",388103,0.00001631675870026833
+2015,"af","Africa","aftun","Tunisia","tun",5415887,0.0002276965685060928
+2015,"af","Africa","aftza","Tanzania","tza",10340150,0.00043472411312094875
+2015,"af","Africa","afuga","Uganda","uga",23756524,0.000998779884889149
+2015,"af","Africa","afzaf","South Africa","zaf",73178881,0.003076611474873038
+2015,"af","Africa","afzmb","Zambia","zmb",267925,0.000011264194233926026
+2015,"af","Africa","afzwe","Zimbabwe","zwe",257445.00000000003,0.000010823590499405005
+2015,"as","Asia","asafg","Afghanistan","afg",143246,0.000006022397190381515
+2015,"as","Asia","asare","United Arab Emirates","are",375778870,0.015798623423290987
+2015,"as","Asia","asarm","Armenia","arm",502,2.110525522228558e-8
+2015,"as","Asia","asaze","Azerbaijan","aze",94679,0.000003980526811137005
+2015,"as","Asia","asbgd","Bangladesh","bgd",17859569,0.0007508580914442623
+2015,"as","Asia","asbhr","Bahrain","bhr",964282,0.00004054067274154579
+2015,"as","Asia","asbrn","Brunei","brn",2650,1.1141220386266293e-7
+2015,"as","Asia","asbtn","Bhutan","btn",32923,0.000001384159995385076
+2015,"as","Asia","aschn","China","chn",314268259,0.013212573335574398
+2015,"as","Asia","ascyp","Cyprus","cyp",137839,0.0000057950742521606025
+2015,"as","Asia","asgeo","Georgia","geo",535891,0.00002253011220383634
+2015,"as","Asia","ashkg","Hong Kong","hkg",24609554,0.0010346432631008348
+2015,"as","Asia","asidn","Indonesia","idn",2904515,0.0001221126103027028
+2015,"as","Asia","asind","India","ind",7014592654,0.29490989689848524
+2015,"as","Asia","asirn","Iran","irn",1372113,0.00005768684274664529
+2015,"as","Asia","asirq","Iraq","irq",4616,1.9406744642643476e-7
+2015,"as","Asia","asisr","Israel","isr",34764968,0.0014616006422999823
+2015,"as","Asia","asjor","Jordan","jor",489415,0.000020576152359790634
+2015,"as","Asia","asjpn","Japan","jpn",41473840,0.0017436573271877225
+2015,"as","Asia","askaz","Kazakhstan","kaz",31002822,0.0013034312169742835
+2015,"as","Asia","askgz","Kyrgyzstan","kgz",36000,0.000001513524278889006
+2015,"as","Asia","askhm","Cambodia","khm",335491807,0.01410486097952346
+2015,"as","Asia","askor","South Korea","kor",4777454,0.00020085535056320547
+2015,"as","Asia","askwt","Kuwait","kwt",1772311,0.00007451210356227924
+2015,"as","Asia","aslao","Laos","lao",42907915,0.0018039491974723822
+2015,"as","Asia","aslbn","Lebanon","lbn",9307568,0.00039131194848362186
+2015,"as","Asia","aslka","Sri Lanka","lka",10683053,0.00044914055800438976
+2015,"as","Asia","asmac","Macau","mac",27406.000000000004,0.0000011522123996453361
+2015,"as","Asia","asmmr","Burma","mmr",188236592,0.00791390700464789
+2015,"as","Asia","asmng","Mongolia","mng",12819,5.389407703077269e-7
+2015,"as","Asia","asmys","Malaysia","mys",24593688,0.0010339762193172556
+2015,"as","Asia","asnpl","Nepal","npl",285781,0.000012014902276254972
+2015,"as","Asia","asomn","Oman","omn",2690536,0.00011311643220069195
+2015,"as","Asia","aspak","Pakistan","pak",2071903665,0.08710768056935038
+2015,"as","Asia","asphl","Philippines","phl",2017478,0.00008481949819790094
+2015,"as","Asia","asprk","North Korea","prk",40874.99999999999,0.0000017184806916552252
+2015,"as","Asia","aspse","Palestine","pse",1425867.0000000002,0.00005994678674907307
+2015,"as","Asia","asqat","Qatar","qat",356164,0.000014973968368506219
+2015,"as","Asia","assau","Saudi Arabia","sau",10591525,0.0004452925066099966
+2015,"as","Asia","assgp","Singapore","sgp",85984472,0.0036149884994292197
+2015,"as","Asia","assyr","Syria","syr",3248,1.3655352382865253e-7
+2015,"as","Asia","astha","Thailand","tha",4710188481,0.19802735067046742
+2015,"as","Asia","astjk","Tajikistan","tjk",4509451,0.00018958787702667517
+2015,"as","Asia","astkm","Turkmenistan","tkm",221553.99999999997,0.000009314648835693743
+2015,"as","Asia","astur","Turkey","tur",145086047,0.006099757073959206
+2015,"as","Asia","asuzb","Uzbekistan","uzb",30649,0.0000012885557117685873
+2015,"as","Asia","asvnm","Vietnam","vnm",2577959425,0.1083834494368956
+2015,"as","Asia","asxxb","Chinese Taipei",,43097702,0.0018119282872589796
+2015,"as","Asia","asyem","Yemen","yem",224232,0.000009427238225106655
+2015,"eu","Europe","eualb","Albania","alb",33983,0.0000014287248769301413
+2015,"eu","Europe","euand","Andorra","and",119101,0.000005007284864998875
+2015,"eu","Europe","euaut","Austria","aut",6125994,0.000257551129203566
+2015,"eu","Europe","eubel","Belgium","bel",183943254,0.00773340502407909
+2015,"eu","Europe","eubgr","Bulgaria","bgr",23871093,0.001003596633864372
+2015,"eu","Europe","eubih","Bosnia and Herzegovina","bih",207041.00000000003,0.000008704488339596074
+2015,"eu","Europe","eublr","Belarus","blr",120000,0.00000504508092963002
+2015,"eu","Europe","euche","Switzerland","che",5255644,0.00022095957764437028
+2015,"eu","Europe","eucze","Czechia","cze",14669531,0.0006167414257893033
+2015,"eu","Europe","eudeu","Germany","deu",91188424,0.00383377482437847
+2015,"eu","Europe","eudnk","Denmark","dnk",8613879,0.0003621476389420042
+2015,"eu","Europe","euesp","Spain","esp",189349668,0.007960703325488129
+2015,"eu","Europe","euest","Estonia","est",221832,0.000009326336606514055
+2015,"eu","Europe","eufin","Finland","fin",795150,0.000033429967509960916
+2015,"eu","Europe","eufra","France","fra",70778387,0.0029756890873639443
+2015,"eu","Europe","eugbr","United Kingdom","gbr",60940542,0.0025620830523793102
+2015,"eu","Europe","eugrc","Greece","grc",53859083,0.0022643619377555033
+2015,"eu","Europe","euhrv","Croatia","hrv",297847,0.00001252218516372927
+2015,"eu","Europe","euhun","Hungary","hun",3236997,0.00013609093194974655
+2015,"eu","Europe","euirl","Ireland","irl",1102860,0.00004636681628376469
+2015,"eu","Europe","euita","Italy","ita",601234687,0.025277313780131448
+2015,"eu","Europe","eultu","Lithuania","ltu",2939720,0.00012359271092043301
+2015,"eu","Europe","eulux","Luxembourg","lux",153745,0.000006463799729383061
+2015,"eu","Europe","eulva","Latvia","lva",1533677,0.00006447937154093484
+2015,"eu","Europe","eumda","Moldova","mda",1295,5.444483169892396e-8
+2015,"eu","Europe","eumkd","North Macedonia","mkd",2521181,0.0001059963515270462
+2015,"eu","Europe","eumlt","Malta","mlt",103559,0.0000043538627999296265
+2015,"eu","Europe","eumne","Montenegro","mne",22203,9.334660990047944e-7
+2015,"eu","Europe","eunld","Netherlands","nld",179058100,0.0075280217133815415
+2015,"eu","Europe","eunor","Norway","nor",407693,0.00001714036816203043
+2015,"eu","Europe","eupol","Poland","pol",24405718,0.001026073520464401
+2015,"eu","Europe","euprt","Portugal","prt",36711990,0.0015434580053147332
+2015,"eu","Europe","eurou","Romania","rou",10469885,0.000440178476240995
+2015,"eu","Europe","eurus","Russia","rus",104550074,0.004395529871073394
+2015,"eu","Europe","eusrb","Serbia","srb",358476,0.000015071170261083757
+2015,"eu","Europe","eusvk","Slovakia","svk",3399546,0.00014292487245000013
+2015,"eu","Europe","eusvn","Slovenia","svn",3909926,0.0001643824424905382
+2015,"eu","Europe","euswe","Sweden","swe",2101580,0.00008835534316743214
+2015,"eu","Europe","euukr","Ukraine","ukr",956078,0.00004019575737532342
+2015,"na","North America","naatg","Antigua and Barbuda","atg",10773341,0.0004529364768958434
+2015,"na","North America","nabhs","Bahamas","bhs",27407,0.0000011522544419864162
+2015,"na","North America","nablz","Belize","blz",237875.00000000003,0.000010000821884464509
+2015,"na","North America","nabmu","Bermuda","bmu",13750.999999999998,5.781242321945199e-7
+2015,"na","North America","nabrb","Barbados","brb",2660,1.1183262727346544e-7
+2015,"na","North America","nacan","Canada","can",7008636,0.00029465946521932017
+2015,"na","North America","nacri","Costa Rica","cri",2265703,0.00009525545831254603
+2015,"na","North America","nacuw","Curaçao","cuw",45743.99999999999,0.0000019231848503749632
+2015,"na","North America","nadma","Dominica","dma",2101,8.83309586096056e-8
+2015,"na","North America","nadom","Dominican Republic","dom",8107300.000000001,0.00034084987183991217
+2015,"na","North America","nagtm","Guatemala","gtm",475353,0.000019984952959520157
+2015,"na","North America","nahnd","Honduras","hnd",1605294,0.0000674903178820791
+2015,"na","North America","nahti","Haiti","hti",122437.00000000001,0.00000514753811484259
+2015,"na","North America","najam","Jamaica","jam",6988,2.9379187946878813e-7
+2015,"na","North America","nakna","Saint Kitts and Nevis","kna",80105,0.0000033678017322334394
+2015,"na","North America","namaf","Saint Martin","maf",546,2.295511822981659e-8
+2015,"na","North America","namex","Mexico","mex",1489193.0000000002,0.00006260916004032098
+2015,"na","North America","nanic","Nicaragua","nic",4268164,0.00017944360667444486
+2015,"na","North America","napan","Panama","pan",172385,0.0000072474689671189245
+2015,"na","North America","naslv","El Salvador","slv",22992240,0.000966647596278971
+2015,"na","North America","natca","Turks and Caicos Islands","tca",2365069,0.00009943303757632617
+2015,"na","North America","natto","Trinidad and Tobago","tto",637898,0.00002681872529040942
+2015,"na","North America","nausa","United States","usa",2048388341,0.08611904129712979
+2015,"na","North America","navct","Saint Vincent and the Grenadines","vct",3333564,0.00014015083470084305
+2015,"na","North America","navgb","British Virgin Islands","vgb",105161,0.000004421214630340187
+2015,"oc","Oceania","ocaus","Australia","aus",233982906,0.009837189141000112
+2015,"oc","Oceania","ocfji","Fiji","fji",1205933,0.00005070024650592932
+2015,"oc","Oceania","ocgum","Guam","gum",770.9999999999999,3.241464497287287e-8
+2015,"oc","Oceania","ocmhl","Marshall Islands","mhl",22999.000000000004,9.669318025046736e-7
+2015,"oc","Oceania","ocncl","New Caledonia","ncl",58743.99999999999,0.0000024697352844182152
+2015,"oc","Oceania","ocnzl","New Zealand","nzl",335750,0.000014115716017693993
+2015,"oc","Oceania","ocplw","Palau","plw",127984.99999999999,0.000005380789023155817
+2015,"oc","Oceania","ocpng","Papua New Guinea","png",76,3.1952179220990125e-9
+2015,"oc","Oceania","ocpyf","French Polynesia","pyf",302,1.269678700623555e-8
+2015,"oc","Oceania","ocslb","Solomon Islands","slb",20336,8.549730482079674e-7
+2015,"sa","South America","saarg","Argentina","arg",156682522,0.0065873000312378
+2015,"sa","South America","sabol","Bolivia","bol",160129,0.000006732198034839378
+2015,"sa","South America","sabra","Brazil","bra",359583811,0.015117745228998211
+2015,"sa","South America","sachl","Chile","chl",2853257,0.00011995760398361134
+2015,"sa","South America","sacol","Colombia","col",159289,0.000006696882468331968
+2015,"sa","South America","saecu","Ecuador","ecu",1049324,0.000044116037511692424
+2015,"sa","South America","saguy","Guyana","guy",258282241,0.010858790071093373
+2015,"sa","South America","saper","Peru","per",124930,0.000005252349671155653
+2015,"sa","South America","sapry","Paraguay","pry",131324909,0.0055212066165108145
+2015,"sa","South America","sasur","Suriname","sur",26868940,0.0011296331399447768
+2015,"sa","South America","saury","Uruguay","ury",364022371,0.015304352682423366
+2015,"sa","South America","saven","Venezuela","ven",245304,0.000010313154436349686
+2014,"af","Africa","afago","Angola","ago",37,1.375916049438691e-9
+2014,"af","Africa","afbdi","Burundi","bdi",977,3.6331621089232465e-8
+2014,"af","Africa","afben","Benin","ben",11127111,0.00041378298942664334
+2014,"af","Africa","afbfa","Burkina Faso","bfa",43042,0.0000016005994216200039
+2014,"af","Africa","afbwa","Botswana","bwa",485663,0.000018060311251852515
+2014,"af","Africa","afcaf","Central African Republic","caf",112272,0.00000417504991088056
+2014,"af","Africa","afciv","Cote d'Ivoire","civ",22701948,0.0008442155299114214
+2014,"af","Africa","afcmr","Cameroon","cmr",3791366,0.00014098922509989654
+2014,"af","Africa","afcod","Democratic Republic of the Congo","cod",486262,0.00001808258621708532
+2014,"af","Africa","afcog","Republic of the Congo","cog",387946,0.00001442651696528493
+2014,"af","Africa","afdza","Algeria","dza",2892,1.075445733777485e-7
+2014,"af","Africa","afegy","Egypt","egy",49295211,0.0018331370804153164
+2014,"af","Africa","afeth","Ethiopia","eth",15537,5.777731800034849e-7
+2014,"af","Africa","afgab","Gabon","gab",94683,0.0000035209691705136103
+2014,"af","Africa","afgha","Ghana","gha",245491,0.000009129054240344695
+2014,"af","Africa","afgin","Guinea","gin",42900,0.0000015953188789437796
+2014,"af","Africa","afgmb","Gambia","gmb",200932,0.000007472042260697705
+2014,"af","Africa","afken","Kenya","ken",204833,0.000007617108436612849
+2014,"af","Africa","aflbr","Liberia","lbr",2160,8.032374775101548e-8
+2014,"af","Africa","aflby","Libya","lby",5297,1.969791165912634e-7
+2014,"af","Africa","aflso","Lesotho","lso",49734,0.0000018494542919671313
+2014,"af","Africa","afmar","Morocco","mar",1068636,0.00003973928171372879
+2014,"af","Africa","afmdg","Madagascar","mdg",95167,0.0000035389676399170787
+2014,"af","Africa","afmli","Mali","mli",931,3.4621022757497875e-8
+2014,"af","Africa","afmoz","Mozambique","moz",2392440,0.00008896747549511087
+2014,"af","Africa","afmrt","Mauritania","mrt",32639.000000000004,0.0000012137438902062012
+2014,"af","Africa","afmus","Mauritius","mus",5565031,0.00020694636401415807
+2014,"af","Africa","afmwi","Malawi","mwi",490672,0.00001824658053541031
+2014,"af","Africa","afnam","Namibia","nam",87036,0.0000032366007913228628
+2014,"af","Africa","afner","Niger","ner",23550374,0.0008757658799157747
+2014,"af","Africa","afnga","Nigeria","nga",1372942,0.000051055484668877174
+2014,"af","Africa","afrwa","Rwanda","rwa",14896610,0.0005539590481413216
+2014,"af","Africa","afsen","Senegal","sen",41519239,0.001543972629745428
+2014,"af","Africa","afshn","Saint Helena","shn",2305,8.571585118800495e-8
+2014,"af","Africa","afsle","Sierra Leone","sle",10518,3.9113202724313925e-7
+2014,"af","Africa","afssd","South Sudan","ssd",922.9999999999999,3.432352739545707e-8
+2014,"af","Africa","afstp","Sao Tome and Principe","stp",198632.99999999997,0.000007386549531031229
+2014,"af","Africa","afswz","Eswatini","swz",106437.00000000001,0.0000039580642311920535
+2014,"af","Africa","aftgo","Togo","tgo",4039285,0.00015020856918262064
+2014,"af","Africa","aftun","Tunisia","tun",49759,0.000001850383964973509
+2014,"af","Africa","aftza","Tanzania","tza",24938287,0.000927378089967791
+2014,"af","Africa","afuga","Uganda","uga",28688372,0.001066832201812637
+2014,"af","Africa","afzaf","South Africa","zaf",68548779,0.002549117978257457
+2014,"af","Africa","afzmb","Zambia","zmb",270619,0.000010063487172514842
+2014,"af","Africa","afzwe","Zimbabwe","zwe",361383.00000000006,0.000013438720802548719
+2014,"as","Asia","asafg","Afghanistan","afg",108016.99999999999,0.00000401681956519511
+2014,"as","Asia","asare","United Arab Emirates","are",162487365,0.0060424046847162875
+2014,"as","Asia","asaze","Azerbaijan","aze",19060,7.087827000622014e-7
+2014,"as","Asia","asbgd","Bangladesh","bgd",4707625,0.000175062075465914
+2014,"as","Asia","asbhr","Bahrain","bhr",195577,0.0000072729063027316455
+2014,"as","Asia","asbrn","Brunei","brn",6924,2.5748223584631075e-7
+2014,"as","Asia","asbtn","Bhutan","btn",52959,0.000001969382109789828
+2014,"as","Asia","aschn","China","chn",483201535,0.017968776949186794
+2014,"as","Asia","ascyp","Cyprus","cyp",391013,0.000014540569249707322
+2014,"as","Asia","asgeo","Georgia","geo",142704,0.000005306722268083756
+2014,"as","Asia","ashkg","Hong Kong","hkg",12736258,0.00047362221059437634
+2014,"as","Asia","asidn","Indonesia","idn",4995094,0.00018575216224472728
+2014,"as","Asia","asind","India","ind",8056112312,0.2995820061124714
+2014,"as","Asia","asirn","Iran","irn",786283,0.000029239443218940603
+2014,"as","Asia","asirq","Iraq","irq",4785,1.7793941342065234e-7
+2014,"as","Asia","asisr","Israel","isr",35803818.99999999,0.0013314337619810253
+2014,"as","Asia","asjor","Jordan","jor",1056059,0.000039271581817680396
+2014,"as","Asia","asjpn","Japan","jpn",31178538,0.0011594338062765974
+2014,"as","Asia","askaz","Kazakhstan","kaz",21370927,0.0007947189581265584
+2014,"as","Asia","askgz","Kyrgyzstan","kgz",73403,0.0000027296315074850874
+2014,"as","Asia","askhm","Cambodia","khm",287611581,0.010695388927090165
+2014,"as","Asia","askor","South Korea","kor",4446488,0.000165351194671258
+2014,"as","Asia","askwt","Kuwait","kwt",6979421,0.0002595431721537686
+2014,"as","Asia","aslao","Laos","lao",15735111,0.000585140317962143
+2014,"as","Asia","aslbn","Lebanon","lbn",1082136,0.00004024130513717263
+2014,"as","Asia","aslka","Sri Lanka","lka",21828997,0.0008117531706878119
+2014,"as","Asia","asmac","Macau","mac",277432,0.000010316841660212836
+2014,"as","Asia","asmmr","Burma","mmr",318619717,0.011848486007781453
+2014,"as","Asia","asmng","Mongolia","mng",15,5.578038038264964e-10
+2014,"as","Asia","asmys","Malaysia","mys",21536690,0.0008008831735888044
+2014,"as","Asia","asnpl","Nepal","npl",35510,0.0000013205075382585925
+2014,"as","Asia","asomn","Oman","omn",5236649.000000001,0.00019473484876694793
+2014,"as","Asia","aspak","Pakistan","pak",2365780087,0.08797607543637197
+2014,"as","Asia","asphl","Philippines","phl",2935560,0.00010916443562406066
+2014,"as","Asia","asprk","North Korea","prk",47405,0.0000017628459546930042
+2014,"as","Asia","aspse","Palestine","pse",1092425,0.000040623921359677355
+2014,"as","Asia","asqat","Qatar","qat",7169,2.6659303130881015e-7
+2014,"as","Asia","assau","Saudi Arabia","sau",9883688,0.00036754391748228645
+2014,"as","Asia","assgp","Singapore","sgp",127170190,0.004729067714355885
+2014,"as","Asia","assyr","Syria","syr",1588,5.905282936509842e-8
+2014,"as","Asia","astha","Thailand","tha",5450120702,0.20267320392594232
+2014,"as","Asia","astjk","Tajikistan","tjk",4069764.0000000005,0.00015134198932507584
+2014,"as","Asia","astur","Turkey","tur",183523243,0.006824664202398295
+2014,"as","Asia","asuzb","Uzbekistan","uzb",10464,3.8912393354936387e-7
+2014,"as","Asia","asvnm","Vietnam","vnm",2743822526,0.10203430946850839
+2014,"as","Asia","asxxb","Chinese Taipei",,9368048,0.00034836885392194677
+2014,"as","Asia","asyem","Yemen","yem",1358307,0.000050511254090943786
+2014,"eu","Europe","euand","Andorra","and",150,5.578038038264964e-9
+2014,"eu","Europe","euaut","Austria","aut",6948979,0.0002584111279273629
+2014,"eu","Europe","eubel","Belgium","bel",225152742,0.00837273706197105
+2014,"eu","Europe","eubgr","Bulgaria","bgr",29855573,0.0011102368123213095
+2014,"eu","Europe","eubih","Bosnia and Herzegovina","bih",12494,4.646133816672164e-7
+2014,"eu","Europe","eublr","Belarus","blr",444962,0.0000165467664105497
+2014,"eu","Europe","euche","Switzerland","che",11243734,0.00041811983962755384
+2014,"eu","Europe","eucze","Czechia","cze",17461795,0.0006493503781758997
+2014,"eu","Europe","eudeu","Germany","deu",87739024,0.003262744088748284
+2014,"eu","Europe","eudnk","Denmark","dnk",10494772,0.0003902682494594538
+2014,"eu","Europe","euesp","Spain","esp",209663638,0.007796744986700103
+2014,"eu","Europe","euest","Estonia","est",322785,0.000012003380054542376
+2014,"eu","Europe","eufin","Finland","fin",633724,0.00002356624385174284
+2014,"eu","Europe","eufra","France","fra",73520386,0.0027339967313061526
+2014,"eu","Europe","eugbr","United Kingdom","gbr",81265018,0.0030219957438952466
+2014,"eu","Europe","eugib","Gibraltar","gib",1,3.7186920255099756e-11
+2014,"eu","Europe","eugrc","Greece","grc",69448661,0.0025825818184304567
+2014,"eu","Europe","euhrv","Croatia","hrv",85367,0.000003174535821417101
+2014,"eu","Europe","euhun","Hungary","hun",2902976,0.00010795273701446848
+2014,"eu","Europe","euirl","Ireland","irl",3408918,0.00012676716182217416
+2014,"eu","Europe","euisl","Iceland","isl",1190280,0.000044262847441240144
+2014,"eu","Europe","euita","Italy","ita",701599108,0.026090310080245125
+2014,"eu","Europe","eultu","Lithuania","ltu",3548014,0.00013193971368197753
+2014,"eu","Europe","eulux","Luxembourg","lux",158200,0.000005882970784356782
+2014,"eu","Europe","eulva","Latvia","lva",1846559,0.00006866784227933676
+2014,"eu","Europe","eumda","Moldova","mda",838,3.11626391737736e-8
+2014,"eu","Europe","eumkd","North Macedonia","mkd",2266443,0.00008428203510372906
+2014,"eu","Europe","eumlt","Malta","mlt",1306334,0.00004857853828452549
+2014,"eu","Europe","eumne","Montenegro","mne",2898,1.0776769489927911e-7
+2014,"eu","Europe","eunld","Netherlands","nld",204276511,0.007596414324547009
+2014,"eu","Europe","eunor","Norway","nor",768709,0.00002858592028237748
+2014,"eu","Europe","eupol","Poland","pol",20052345,0.0007456849544427484
+2014,"eu","Europe","euprt","Portugal","prt",45324217,0.0016854680432038369
+2014,"eu","Europe","eurou","Romania","rou",14635346,0.0005442434446077932
+2014,"eu","Europe","eurus","Russia","rus",124680067,0.004636467708929495
+2014,"eu","Europe","eusrb","Serbia","srb",462071,0.0000171829974291942
+2014,"eu","Europe","eusvk","Slovakia","svk",2162211,0.0000804059680316995
+2014,"eu","Europe","eusvn","Slovenia","svn",2404823,0.00008942796112862976
+2014,"eu","Europe","euswe","Sweden","swe",2571067,0.00009561006349951858
+2014,"eu","Europe","euukr","Ukraine","ukr",17104939,0.0006360800025613458
+2014,"na","North America","naatg","Antigua and Barbuda","atg",17373154,0.0006460540923775674
+2014,"na","North America","nabhs","Bahamas","bhs",183582,0.000006826849194271724
+2014,"na","North America","nablz","Belize","blz",43837,0.000001630163023222808
+2014,"na","North America","nabmu","Bermuda","bmu",251,9.33391698403004e-9
+2014,"na","North America","nabrb","Barbados","brb",2185,8.125342075739297e-8
+2014,"na","North America","nacan","Canada","can",12786834,0.0004755029762731983
+2014,"na","North America","nacri","Costa Rica","cri",2257561,0.00008395174087802326
+2014,"na","North America","nacuw","Curaçao","cuw",23834,8.863130573600477e-7
+2014,"na","North America","nadma","Dominica","dma",43,1.5990375709692896e-9
+2014,"na","North America","nadom","Dominican Republic","dom",15280298.999999998,0.0005682272603870805
+2014,"na","North America","nagrd","Grenada","grd",20907,7.774669417733706e-7
+2014,"na","North America","nagrl","Greenland","grl",869.0000000000001,3.2315433701681694e-8
+2014,"na","North America","nagtm","Guatemala","gtm",116811,0.000004343841341918458
+2014,"na","North America","nahnd","Honduras","hnd",369849,0.000013753545269428391
+2014,"na","North America","nahti","Haiti","hti",29377,0.0000010924401563340657
+2014,"na","North America","najam","Jamaica","jam",15160,5.637537110673123e-7
+2014,"na","North America","nakna","Saint Kitts and Nevis","kna",44286.99999999999,0.0000016468971373376027
+2014,"na","North America","namaf","Saint Martin","maf",1634.0000000000002,6.076342769683302e-8
+2014,"na","North America","namex","Mexico","mex",1578405,0.00005869602086525074
+2014,"na","North America","nanic","Nicaragua","nic",8617633,0.0003204632311587161
+2014,"na","North America","napan","Panama","pan",3329216,0.0001238032899040022
+2014,"na","North America","naslv","El Salvador","slv",7712023,0.0002867863843064952
+2014,"na","North America","natca","Turks and Caicos Islands","tca",283312,0.000010535500751312823
+2014,"na","North America","natto","Trinidad and Tobago","tto",562492,0.000020917345148131575
+2014,"na","North America","nausa","United States","usa",2104535895,0.07826120850136
+2014,"na","North America","navct","Saint Vincent and the Grenadines","vct",3623506,0.0001347470286658755
+2014,"na","North America","navgb","British Virgin Islands","vgb",890013,0.000033096842457002105
+2014,"oc","Oceania","ocasm","American Samoa","asm",541,2.011812385800897e-8
+2014,"oc","Oceania","ocaus","Australia","aus",270670319,0.010065395568075413
+2014,"oc","Oceania","occok","Cook Islands","cok",103.00000000000001,3.830252786275276e-9
+2014,"oc","Oceania","ocfji","Fiji","fji",617676,0.000022969468155488998
+2014,"oc","Oceania","ocgum","Guam","gum",4355,1.6194903771095945e-7
+2014,"oc","Oceania","ocmhl","Marshall Islands","mhl",142584,0.000005302259837653144
+2014,"oc","Oceania","ocncl","New Caledonia","ncl",5323,1.9794597651789602e-7
+2014,"oc","Oceania","ocnfk","Norfolk Island","nfk",223.99999999999997,8.329870137142344e-9
+2014,"oc","Oceania","ocnzl","New Zealand","nzl",1779375,0.00006616947622891814
+2014,"oc","Oceania","ocplw","Palau","plw",10,3.718692025509976e-10
+2014,"oc","Oceania","ocpng","Papua New Guinea","png",161137,0.00000599218876914601
+2014,"oc","Oceania","ocslb","Solomon Islands","slb",152601,0.0000056747612178484785
+2014,"oc","Oceania","ocvut","Vanuatu","vut",135790,0.000005049611901439996
+2014,"oc","Oceania","ocwsm","Samoa","wsm",16452,6.117992120369012e-7
+2014,"sa","South America","saarg","Argentina","arg",278063459,0.010340323675690202
+2014,"sa","South America","sabol","Bolivia","bol",136987,0.000005094124644985351
+2014,"sa","South America","sabra","Brazil","bra",413507018,0.015377052503290101
+2014,"sa","South America","sachl","Chile","chl",7020691,0.0002610778763526966
+2014,"sa","South America","sacol","Colombia","col",260279,0.00000967897441707711
+2014,"sa","South America","saecu","Ecuador","ecu",11012989,0.00040953914371329083
+2014,"sa","South America","saguy","Guyana","guy",276720725,0.01029039153350839
+2014,"sa","South America","saper","Peru","per",79243,0.00000294680312177487
+2014,"sa","South America","sapry","Paraguay","pry",178624047,0.0066424781914321916
+2014,"sa","South America","sasur","Suriname","sur",67005889,0.002491742650865066
+2014,"sa","South America","saury","Uruguay","ury",522224154.00000006,0.01941990797008494
+2014,"sa","South America","saven","Venezuela","ven",589430,0.00002191908640596345
+2013,"af","Africa","afago","Angola","ago",500,1.9048682263062932e-8
+2013,"af","Africa","afbdi","Burundi","bdi",16441,6.263587701740353e-7
+2013,"af","Africa","afben","Benin","ben",10119561,0.00038552860426136675
+2013,"af","Africa","afbfa","Burkina Faso","bfa",2247336,0.00008561757880468558
+2013,"af","Africa","afbwa","Botswana","bwa",10598901,0.0004037901949733199
+2013,"af","Africa","afciv","Cote d'Ivoire","civ",16090684,0.000613012653822701
+2013,"af","Africa","afcmr","Cameroon","cmr",1995057,0.00007600641377939908
+2013,"af","Africa","afcod","Democratic Republic of the Congo","cod",104144,0.000003967611931208851
+2013,"af","Africa","afcog","Republic of the Congo","cog",339460.00000000006,0.000012932531362038687
+2013,"af","Africa","afcom","Comoros","com",17519.000000000004,6.674277291331991e-7
+2013,"af","Africa","afcpv","Cape Verde","cpv",3385,1.2895957892093603e-7
+2013,"af","Africa","afdji","Djibouti","dji",13.999999999999998,5.33363103365762e-10
+2013,"af","Africa","afdza","Algeria","dza",69817,0.000002659843699120529
+2013,"af","Africa","afegy","Egypt","egy",203750186,0.007762345108307945
+2013,"af","Africa","afeth","Ethiopia","eth",13787,5.252483647216972e-7
+2013,"af","Africa","afgab","Gabon","gab",149896,0.000005710642553008162
+2013,"af","Africa","afgha","Ghana","gha",728542,0.000027755530146592788
+2013,"af","Africa","afgin","Guinea","gin",36789,0.0000014015639435516442
+2013,"af","Africa","afgmb","Gambia","gmb",28689,0.0000010929752908900248
+2013,"af","Africa","afgnb","Guinea-Bissau","gnb",43,1.638186674623412e-9
+2013,"af","Africa","afgnq","Equatorial Guinea","gnq",39,1.4857972165189086e-9
+2013,"af","Africa","afken","Kenya","ken",2094516,0.00007979553955780304
+2013,"af","Africa","aflbr","Liberia","lbr",3361070,0.00012804790898782585
+2013,"af","Africa","aflby","Libya","lby",33032,0.0000012584321450269894
+2013,"af","Africa","aflso","Lesotho","lso",32631.999999999996,0.000001243193199216539
+2013,"af","Africa","afmar","Morocco","mar",452820,0.00001725124860472031
+2013,"af","Africa","afmdg","Madagascar","mdg",91421,0.000003482899162342952
+2013,"af","Africa","afmli","Mali","mli",205661,0.00000783514208580757
+2013,"af","Africa","afmoz","Mozambique","moz",2594863,0.00009885744160635652
+2013,"af","Africa","afmrt","Mauritania","mrt",183747,0.000007000276439582048
+2013,"af","Africa","afmus","Mauritius","mus",3826094,0.000145764097829223
+2013,"af","Africa","afmwi","Malawi","mwi",1673549,0.0000637578063053334
+2013,"af","Africa","afmyt","Mayotte","myt",64,2.4382313296720552e-9
+2013,"af","Africa","afnam","Namibia","nam",150601.99999999997,0.000005737539292363605
+2013,"af","Africa","afner","Niger","ner",22738889,0.0008662917431521136
+2013,"af","Africa","afnga","Nigeria","nga",3244782,0.00012361764266181173
+2013,"af","Africa","afrwa","Rwanda","rwa",12343430,0.00047025215221271774
+2013,"af","Africa","afsdn","Sudan","sdn",44134,0.0000016813890859960388
+2013,"af","Africa","afsen","Senegal","sen",37316834,0.0014216730278589274
+2013,"af","Africa","afsle","Sierra Leone","sle",372.00000000000006,1.4172219603718822e-8
+2013,"af","Africa","afswz","Eswatini","swz",224571.00000000003,0.000008555563248996611
+2013,"af","Africa","afsyc","Seychelles","syc",24758.000000000004,9.432145509378242e-7
+2013,"af","Africa","aftcd","Chad","tcd",22590.999999999996,8.606575620097092e-7
+2013,"af","Africa","aftgo","Togo","tgo",42029,0.0000016011941336685439
+2013,"af","Africa","aftun","Tunisia","tun",9072054.999999998,0.00034562138633606265
+2013,"af","Africa","aftza","Tanzania","tza",26360811,0.0010042774258713083
+2013,"af","Africa","afuga","Uganda","uga",35469590,0.0013512978998222284
+2013,"af","Africa","afzaf","South Africa","zaf",75975687,0.002894473442761842
+2013,"af","Africa","afzmb","Zambia","zmb",132784,0.0000050587204512370965
+2013,"af","Africa","afzwe","Zimbabwe","zwe",493690,0.000018808287892903077
+2013,"as","Asia","asafg","Afghanistan","afg",198492.99999999997,0.000007562060176884299
+2013,"as","Asia","asare","United Arab Emirates","are",191593219,0.007299196704976863
+2013,"as","Asia","asaze","Azerbaijan","aze",33981,0.0000012945865439622829
+2013,"as","Asia","asbgd","Bangladesh","bgd",4167501,0.00015877080475999405
+2013,"as","Asia","asbhr","Bahrain","bhr",563522,0.000021468703052491497
+2013,"as","Asia","asbrn","Brunei","brn",199,7.581375540699045e-9
+2013,"as","Asia","asbtn","Bhutan","btn",147652,0.0000056251520670115356
+2013,"as","Asia","aschn","China","chn",633308514,0.024127385315357082
+2013,"as","Asia","ascyp","Cyprus","cyp",2929372,0.00011160135291662636
+2013,"as","Asia","asgeo","Georgia","geo",240892,0.000009177350335427511
+2013,"as","Asia","ashkg","Hong Kong","hkg",18173366,0.0006923573491687019
+2013,"as","Asia","asidn","Indonesia","idn",12181782,0.0004640937894317985
+2013,"as","Asia","asind","India","ind",8181214832,0.31168272372125155
+2013,"as","Asia","asiot","British Indian Ocean Territory","iot",36801,0.0000014020211119259577
+2013,"as","Asia","asirn","Iran","irn",1351963,0.000051506227236834693
+2013,"as","Asia","asirq","Iraq","irq",273801,0.000010431096504617786
+2013,"as","Asia","asisr","Israel","isr",36142675,0.001376940664424296
+2013,"as","Asia","asjor","Jordan","jor",952698,0.00003629528298931105
+2013,"as","Asia","asjpn","Japan","jpn",36084003,0.0013747054158528191
+2013,"as","Asia","askaz","Kazakhstan","kaz",20894922,0.0007960414601789668
+2013,"as","Asia","askgz","Kyrgyzstan","kgz",189651,0.000007225203279744296
+2013,"as","Asia","askhm","Cambodia","khm",284226238,0.010828270596975406
+2013,"as","Asia","askor","South Korea","kor",4178287,0.00015918172293377284
+2013,"as","Asia","askwt","Kuwait","kwt",5857201,0.00022314392159978892
+2013,"as","Asia","aslao","Laos","lao",17247641,0.0006570896663927539
+2013,"as","Asia","aslbn","Lebanon","lbn",5069247,0.00019312495083196994
+2013,"as","Asia","aslka","Sri Lanka","lka",8409112,0.0003203650052050193
+2013,"as","Asia","asmac","Macau","mac",350840,0.000013366079370345996
+2013,"as","Asia","asmmr","Burma","mmr",262905313,0.010015999545216215
+2013,"as","Asia","asmng","Mongolia","mng",55163.00000000001,0.000002101564919354681
+2013,"as","Asia","asmys","Malaysia","mys",8031417,0.00030597582111032415
+2013,"as","Asia","asnpl","Nepal","npl",36683,0.000001397525622911875
+2013,"as","Asia","asomn","Oman","omn",15490079,0.0005901311862014871
+2013,"as","Asia","aspak","Pakistan","pak",2152465557,0.08200326495495953
+2013,"as","Asia","asphl","Philippines","phl",4702225,0.00017914237990886218
+2013,"as","Asia","asprk","North Korea","prk",4621,1.760479214752276e-7
+2013,"as","Asia","aspse","Palestine","pse",1445120,0.000055055263423995
+2013,"as","Asia","asqat","Qatar","qat",8738,3.3289477122928775e-7
+2013,"as","Asia","assau","Saudi Arabia","sau",11837489,0.00045097713350700507
+2013,"as","Asia","assgp","Singapore","sgp",101546709,0.0038686619892014254
+2013,"as","Asia","assyr","Syria","syr",951.9999999999999,3.6268691028871816e-8
+2013,"as","Asia","astha","Thailand","tha",4500093666,0.17144170879531206
+2013,"as","Asia","astjk","Tajikistan","tjk",863364,0.000032891893026734125
+2013,"as","Asia","astkm","Turkmenistan","tkm",133113,0.000005071254484166192
+2013,"as","Asia","astls","Timor-Leste","tls",32174.999999999996,0.0000012257827036280995
+2013,"as","Asia","astur","Turkey","tur",94629442,0.0036051323467778847
+2013,"as","Asia","asvnm","Vietnam","vnm",2773968260,0.10568087998512307
+2013,"as","Asia","asxxb","Chinese Taipei",,7442156,0.0002835265299922947
+2013,"as","Asia","asyem","Yemen","yem",821548,0.000031298813631709645
+2013,"eu","Europe","eualb","Albania","alb",74812,0.000002850140034928528
+2013,"eu","Europe","euand","Andorra","and",100084,0.0000038129366312327807
+2013,"eu","Europe","euaut","Austria","aut",6428840,0.00024492186096013895
+2013,"eu","Europe","eubel","Belgium","bel",196199881,0.007474698386439515
+2013,"eu","Europe","eubgr","Bulgaria","bgr",25205908,0.0009602786652879921
+2013,"eu","Europe","eubih","Bosnia and Herzegovina","bih",33518,0.0000012769474641866865
+2013,"eu","Europe","eublr","Belarus","blr",974628,0.000037130758193368994
+2013,"eu","Europe","euche","Switzerland","che",18374214,0.0007000091286390452
+2013,"eu","Europe","eucze","Czechia","cze",21920141,0.0008350996021410771
+2013,"eu","Europe","eudeu","Germany","deu",80724102,0.0030753755399381658
+2013,"eu","Europe","eudnk","Denmark","dnk",10676371,0.0004067415978031589
+2013,"eu","Europe","euesp","Spain","esp",212561063,0.008098016301171804
+2013,"eu","Europe","euest","Estonia","est",603854,0.000023005245958559205
+2013,"eu","Europe","eufin","Finland","fin",729882,0.000027806580615057793
+2013,"eu","Europe","eufra","France","fra",75628283,0.0028812382659360075
+2013,"eu","Europe","eugbr","United Kingdom","gbr",57081519,0.002174655437047979
+2013,"eu","Europe","eugib","Gibraltar","gib",309089,0.000011775476304015716
+2013,"eu","Europe","eugrc","Greece","grc",62563297,0.0023834967317652766
+2013,"eu","Europe","euhrv","Croatia","hrv",381289,0.000014526106022802003
+2013,"eu","Europe","euhun","Hungary","hun",3107045,0.00011837022596407672
+2013,"eu","Europe","euirl","Ireland","irl",3517322,0.00013400069838976207
+2013,"eu","Europe","euisl","Iceland","isl",2868392,0.0001092781756278232
+2013,"eu","Europe","euita","Italy","ita",668714045,0.02547624273610513
+2013,"eu","Europe","eultu","Lithuania","ltu",4198747,0.00015996119501197737
+2013,"eu","Europe","eulux","Luxembourg","lux",198935,0.000007578899212004848
+2013,"eu","Europe","eulva","Latvia","lva",1707180,0.00006503905877171155
+2013,"eu","Europe","eumda","Moldova","mda",705,2.6858641990918732e-8
+2013,"eu","Europe","eumkd","North Macedonia","mkd",5532359,0.00021076829751239312
+2013,"eu","Europe","eumlt","Malta","mlt",22832,8.698390268605057e-7
+2013,"eu","Europe","eumne","Montenegro","mne",38787,0.0000014776824778748437
+2013,"eu","Europe","eunld","Netherlands","nld",179845311,0.006851632371481473
+2013,"eu","Europe","eunor","Norway","nor",748932,0.000028532335409280493
+2013,"eu","Europe","eupol","Poland","pol",19526553,0.0007439102075797165
+2013,"eu","Europe","euprt","Portugal","prt",23283212,0.0008870290149030679
+2013,"eu","Europe","eurou","Romania","rou",15484871,0.0005899327751270351
+2013,"eu","Europe","eurus","Russia","rus",92793529,0.0035351888999786314
+2013,"eu","Europe","eusrb","Serbia","srb",965821,0.0000367952347039874
+2013,"eu","Europe","eusvk","Slovakia","svk",4197304,0.00015990622051496617
+2013,"eu","Europe","eusvn","Slovenia","svn",2042252,0.00007780441889820959
+2013,"eu","Europe","euswe","Sweden","swe",2336352,0.00008900885380534321
+2013,"eu","Europe","euukr","Ukraine","ukr",12266915,0.0004673371323660012
+2013,"na","North America","naabw","Aruba","abw",1361.9999999999998,5.188861048458341e-8
+2013,"na","North America","naatg","Antigua and Barbuda","atg",5736659,0.00021855158908508064
+2013,"na","North America","nabhs","Bahamas","bhs",1170146,0.00004457947871078807
+2013,"na","North America","nablz","Belize","blz",969.0000000000001,3.691634622581596e-8
+2013,"na","North America","nabmu","Bermuda","bmu",26255.000000000004,0.0000010002463056334347
+2013,"na","North America","nabrb","Barbados","brb",33693,0.0000012836145029787586
+2013,"na","North America","nacan","Canada","can",6270242,0.00023887969514102447
+2013,"na","North America","nacri","Costa Rica","cri",1677014,0.00006388981367341643
+2013,"na","North America","nacuw","Curaçao","cuw",76845,0.0000029275919770101417
+2013,"na","North America","nadma","Dominica","dma",595,2.2667931893044888e-8
+2013,"na","North America","nadom","Dominican Republic","dom",5349150.000000001,0.00020378851745492618
+2013,"na","North America","nagtm","Guatemala","gtm",599814,0.000022851332605873658
+2013,"na","North America","nahnd","Honduras","hnd",1794056,0.00006834880541228326
+2013,"na","North America","nahti","Haiti","hti",1040,3.96212591071709e-8
+2013,"na","North America","najam","Jamaica","jam",384531,0.000014649617678595703
+2013,"na","North America","nakna","Saint Kitts and Nevis","kna",121,4.609781107661229e-9
+2013,"na","North America","namaf","Saint Martin","maf",9.000000000000002,3.428762807351328e-10
+2013,"na","North America","namex","Mexico","mex",1850822.9999999998,0.00007051147850433784
+2013,"na","North America","nanic","Nicaragua","nic",8156654.999999999,0.00031074705884884707
+2013,"na","North America","napan","Panama","pan",346122.00000000006,0.000013186336004511738
+2013,"na","North America","naslv","El Salvador","slv",11198254,0.000426623964694147
+2013,"na","North America","natca","Turks and Caicos Islands","tca",2980299.9999999995,0.00011354157549721289
+2013,"na","North America","natto","Trinidad and Tobago","tto",296070,0.000011279486715250083
+2013,"na","North America","nausa","United States","usa",2303870356,0.08777138877346735
+2013,"na","North America","navct","Saint Vincent and the Grenadines","vct",4020902,0.00015318576921782853
+2013,"na","North America","navgb","British Virgin Islands","vgb",429912,0.00001637851417815582
+2013,"oc","Oceania","ocasm","American Samoa","asm",3252,1.2389262943896129e-7
+2013,"oc","Oceania","ocaus","Australia","aus",253732364,0.009666534363383654
+2013,"oc","Oceania","ocfji","Fiji","fji",729322,0.000027785246090923165
+2013,"oc","Oceania","ocfsm","Micronesia","fsm",24753,9.430240641151934e-7
+2013,"oc","Oceania","ocgum","Guam","gum",363107,0.000013833419740987982
+2013,"oc","Oceania","ockir","Kiribati","kir",51,1.9429655908324187e-9
+2013,"oc","Oceania","ocmhl","Marshall Islands","mhl",45077,0.0000017173149007441753
+2013,"oc","Oceania","ocmnp","Northern Mariana Islands","mnp",92,3.5049575364035792e-9
+2013,"oc","Oceania","ocncl","New Caledonia","ncl",7643.999999999999,2.91216254437706e-7
+2013,"oc","Oceania","ocnzl","New Zealand","nzl",521533,0.000019869032813403998
+2013,"oc","Oceania","ocpcn","Pitcairn Islands","pcn",95469,0.0000036371172939447096
+2013,"oc","Oceania","ocpng","Papua New Guinea","png",2995,1.1410160675574695e-7
+2013,"oc","Oceania","ocslb","Solomon Islands","slb",101619,0.000003871416085780384
+2013,"oc","Oceania","octon","Tonga","ton",37,1.409602487466657e-9
+2013,"oc","Oceania","ocvut","Vanuatu","vut",16935356,0.0006451924309117127
+2013,"oc","Oceania","ocwsm","Samoa","wsm",58888.00000000001,0.0000022434776022144997
+2013,"sa","South America","saarg","Argentina","arg",302153035,0.011511234317070266
+2013,"sa","South America","sabol","Bolivia","bol",1305527,0.00004973713801769952
+2013,"sa","South America","sabra","Brazil","bra",440324515,0.016775203557744575
+2013,"sa","South America","sachl","Chile","chl",22665.999999999996,8.635148643491686e-7
+2013,"sa","South America","sacol","Colombia","col",49414,0.0000018825431706939833
+2013,"sa","South America","saecu","Ecuador","ecu",33347457,0.0012704502253483075
+2013,"sa","South America","saguy","Guyana","guy",377451768,0.014379917596526688
+2013,"sa","South America","saper","Peru","per",22215216,0.0008463411819786236
+2013,"sa","South America","sapry","Paraguay","pry",166273952,0.006334599360543554
+2013,"sa","South America","sasur","Suriname","sur",57332762,0.002184227133203617
+2013,"sa","South America","saury","Uruguay","ury",518145721,0.019739986410589307
+2013,"sa","South America","saven","Venezuela","ven",1112,4.236426935305196e-8
+2012,"af","Africa","afago","Angola","ago",298,1.1803936678318808e-8
+2012,"af","Africa","afben","Benin","ben",4083585,0.00016175294886084735
+2012,"af","Africa","afbfa","Burkina Faso","bfa",31230.999999999996,0.0000012370763302032706
+2012,"af","Africa","afbwa","Botswana","bwa",683478,0.000027072922929610677
+2012,"af","Africa","afciv","Cote d'Ivoire","civ",17379136,0.0006883967143217813
+2012,"af","Africa","afcmr","Cameroon","cmr",417128,0.000016522659391791168
+2012,"af","Africa","afcod","Democratic Republic of the Congo","cod",7663,3.035354589461645e-7
+2012,"af","Africa","afcog","Republic of the Congo","cog",1927838,0.0000763626767720026
+2012,"af","Africa","afcpv","Cape Verde","cpv",2181536,0.00008641178793782852
+2012,"af","Africa","afdza","Algeria","dza",28263,0.0000011195122897292768
+2012,"af","Africa","afegy","Egypt","egy",81095246,0.003212225331196935
+2012,"af","Africa","afeth","Ethiopia","eth",16453,6.517119804308032e-7
+2012,"af","Africa","afgab","Gabon","gab",1960.9999999999998,7.767624102746033e-8
+2012,"af","Africa","afgha","Ghana","gha",1057664,0.00004189462712395095
+2012,"af","Africa","afgin","Guinea","gin",728,2.883646275777212e-8
+2012,"af","Africa","afgmb","Gambia","gmb",275211,0.000010901252406633549
+2012,"af","Africa","afken","Kenya","ken",4092741.9999999995,0.00016211566244528816
+2012,"af","Africa","aflbr","Liberia","lbr",326,1.2913031399771582e-8
+2012,"af","Africa","aflby","Libya","lby",226540.99999999997,0.00000897340811759403
+2012,"af","Africa","aflso","Lesotho","lso",36450,0.0000014438036641769147
+2012,"af","Africa","afmar","Morocco","mar",490443,0.000019426705088337956
+2012,"af","Africa","afmdg","Madagascar","mdg",812910.9999999999,0.00003219983211110342
+2012,"af","Africa","afmli","Mali","mli",104028,0.000004120603774403185
+2012,"af","Africa","afmoz","Mozambique","moz",12267732,0.0004859313144784743
+2012,"af","Africa","afmrt","Mauritania","mrt",27515,0.0000010898836164561812
+2012,"af","Africa","afmus","Mauritius","mus",5160866,0.00020442461566875326
+2012,"af","Africa","afmwi","Malawi","mwi",792365,0.000031385994248711687
+2012,"af","Africa","afmyt","Mayotte","myt",8620,3.414427321043897e-7
+2012,"af","Africa","afnam","Namibia","nam",183212,0.000007257123646671629
+2012,"af","Africa","afner","Niger","ner",30776193,0.001219061185811136
+2012,"af","Africa","afnga","Nigeria","nga",5060,2.0042926037682271e-7
+2012,"af","Africa","afrwa","Rwanda","rwa",242942.00000000003,0.000009623060350684994
+2012,"af","Africa","afsdn","Sudan","sdn",109160,0.000004323884992635171
+2012,"af","Africa","afsen","Senegal","sen",42376948,0.0016785731906456673
+2012,"af","Africa","afsle","Sierra Leone","sle",13.999999999999998,5.545473607263868e-10
+2012,"af","Africa","afswz","Eswatini","swz",1398171,0.00005538228842101237
+2012,"af","Africa","aftgo","Togo","tgo",6083037,0.00024095229382506848
+2012,"af","Africa","aftun","Tunisia","tun",36667,0.0000014523991482681735
+2012,"af","Africa","aftza","Tanzania","tza",8404238,0.0003328962858440292
+2012,"af","Africa","afuga","Uganda","uga",39885149,0.0015798717221520494
+2012,"af","Africa","afzaf","South Africa","zaf",76022813,0.003011303593153261
+2012,"af","Africa","afzmb","Zambia","zmb",598659,0.000023713197744649863
+2012,"af","Africa","afzwe","Zimbabwe","zwe",327881,0.000012987538798737749
+2012,"as","Asia","asafg","Afghanistan","afg",40477,0.0000016033152514372832
+2012,"as","Asia","asare","United Arab Emirates","are",293087154,0.01160933626525058
+2012,"as","Asia","asaze","Azerbaijan","aze",24495,9.702598286423464e-7
+2012,"as","Asia","asbgd","Bangladesh","bgd",3373732,0.00013363529831415393
+2012,"as","Asia","asbhr","Bahrain","bhr",666321,0.00002639332513904049
+2012,"as","Asia","asbrn","Brunei","brn",2193,8.68658830052119e-8
+2012,"as","Asia","asbtn","Bhutan","btn",118680,0.000004700977197929114
+2012,"as","Asia","aschn","China","chn",533595708,0.021136006540451988
+2012,"as","Asia","ascyp","Cyprus","cyp",3552903.9999999995,0.0001407323954367302
+2012,"as","Asia","asgeo","Georgia","geo",233163,0.000009235709019217612
+2012,"as","Asia","ashkg","Hong Kong","hkg",27142109,0.0010751132078927082
+2012,"as","Asia","asidn","Indonesia","idn",3826342,0.00015156341838118035
+2012,"as","Asia","asind","India","ind",6433804997,0.254846398608185
+2012,"as","Asia","asirn","Iran","irn",247563,0.000009806100590250467
+2012,"as","Asia","asirq","Iraq","irq",377.00000000000006,1.4933168213846278e-8
+2012,"as","Asia","asisr","Israel","isr",31115839,0.0012325147424455127
+2012,"as","Asia","asjor","Jordan","jor",3248483,0.00012867411957246685
+2012,"as","Asia","asjpn","Japan","jpn",63312401,0.002507837491128619
+2012,"as","Asia","askaz","Kazakhstan","kaz",16270696,0.0006444908231415272
+2012,"as","Asia","askgz","Kyrgyzstan","kgz",306770,0.000012151320989288122
+2012,"as","Asia","askhm","Cambodia","khm",165399545,0.006551562938935377
+2012,"as","Asia","askor","South Korea","kor",4888773,0.00019364686888145863
+2012,"as","Asia","askwt","Kuwait","kwt",307003,0.000012160550241791642
+2012,"as","Asia","aslao","Laos","lao",15838783,0.0006273825221262832
+2012,"as","Asia","aslbn","Lebanon","lbn",1193391,0.00004727084495461597
+2012,"as","Asia","aslka","Sri Lanka","lka",13320131,0.0005276173921842664
+2012,"as","Asia","asmac","Macau","mac",196922,0.000007800183954925826
+2012,"as","Asia","asmdv","Maldives","mdv",11315,4.4819309904421915e-7
+2012,"as","Asia","asmmr","Burma","mmr",465153421,0.01842497156774285
+2012,"as","Asia","asmys","Malaysia","mys",1688257,0.0000668727473984177
+2012,"as","Asia","asnpl","Nepal","npl",167874,0.000006649577402470106
+2012,"as","Asia","asomn","Oman","omn",3842693,0.000152211090087983
+2012,"as","Asia","aspak","Pakistan","pak",2038200976,0.08073421227648185
+2012,"as","Asia","asphl","Philippines","phl",2658402,0.00010530070091783918
+2012,"as","Asia","asprk","North Korea","prk",44832,0.0000017758190911489557
+2012,"as","Asia","aspse","Palestine","pse",860448,0.00003408279767444987
+2012,"as","Asia","asqat","Qatar","qat",52780,0.000002090643549938479
+2012,"as","Asia","assau","Saudi Arabia","sau",11004702,0.000435902032120028
+2012,"as","Asia","assgp","Singapore","sgp",94124939,0.0037283383214987264
+2012,"as","Asia","assyr","Syria","syr",69641,0.0000027585166248818796
+2012,"as","Asia","astha","Thailand","tha",4685788998,0.18560656584011723
+2012,"as","Asia","astjk","Tajikistan","tjk",274772,0.0000108838633858222
+2012,"as","Asia","astkm","Turkmenistan","tkm",18816,7.453116528162641e-7
+2012,"as","Asia","astls","Timor-Leste","tls",16497,6.534548435645147e-7
+2012,"as","Asia","astur","Turkey","tur",73322936,0.00290436004567927
+2012,"as","Asia","asuzb","Uzbekistan","uzb",10066,3.987195523622722e-7
+2012,"as","Asia","asvnm","Vietnam","vnm",3519680711,0.1394164034917588
+2012,"as","Asia","asxxb","Chinese Taipei",,9493604,0.0003760466458558193
+2012,"as","Asia","asyem","Yemen","yem",2101411,0.0000832379945608141
+2012,"eu","Europe","eualb","Albania","alb",16884,6.687841170360227e-7
+2012,"eu","Europe","euand","Andorra","and",666421,0.00002639728619161711
+2012,"eu","Europe","euaut","Austria","aut",5311871,0.00021040600311207384
+2012,"eu","Europe","eubel","Belgium","bel",158515394,0.006278878098371668
+2012,"eu","Europe","eubgr","Bulgaria","bgr",24291077,0.0009621823313965315
+2012,"eu","Europe","eubih","Bosnia and Herzegovina","bih",76053,0.000003012499316094565
+2012,"eu","Europe","eublr","Belarus","blr",4656761,0.0001844567515773979
+2012,"eu","Europe","euche","Switzerland","che",24977390,0.0009893675501666892
+2012,"eu","Europe","eucze","Czechia","cze",17446353,0.000691059215032206
+2012,"eu","Europe","eudeu","Germany","deu",87887876,0.0034812849768319975
+2012,"eu","Europe","eudnk","Denmark","dnk",9017379,0.00035718312322282475
+2012,"eu","Europe","euesp","Spain","esp",231584334,0.009173177228948434
+2012,"eu","Europe","euest","Estonia","est",502434,0.000019901674902800108
+2012,"eu","Europe","eufin","Finland","fin",438342,0.000017362957085394706
+2012,"eu","Europe","eufra","France","fra",59529962,0.0023580130936601503
+2012,"eu","Europe","eugbr","United Kingdom","gbr",42027561,0.0016647337878798023
+2012,"eu","Europe","eugrc","Greece","grc",73137088,0.002896998508686679
+2012,"eu","Europe","euhrv","Croatia","hrv",181384,0.000007184715605571069
+2012,"eu","Europe","euhun","Hungary","hun",3424116,0.00013563103504435665
+2012,"eu","Europe","euirl","Ireland","irl",2327551,0.0000921955188575759
+2012,"eu","Europe","euisl","Iceland","isl",5216,2.066085023963453e-7
+2012,"eu","Europe","euita","Italy","ita",629499930,0.024934823197067524
+2012,"eu","Europe","eultu","Lithuania","ltu",3379746,0.00013387351601611166
+2012,"eu","Europe","eulux","Luxembourg","lux",139826,0.000005538581375780556
+2012,"eu","Europe","eulva","Latvia","lva",1338202,0.00005300688480134089
+2012,"eu","Europe","eumkd","North Macedonia","mkd",7260831,0.0002876053334093095
+2012,"eu","Europe","eumlt","Malta","mlt",128926,0.000005106826644929297
+2012,"eu","Europe","eumne","Montenegro","mne",3009,1.1918807203040702e-7
+2012,"eu","Europe","eunld","Netherlands","nld",164109677,0.006500470589286418
+2012,"eu","Europe","eunor","Norway","nor",962635,0.00003813047847091754
+2012,"eu","Europe","eupol","Poland","pol",16085703,0.0006371631531484661
+2012,"eu","Europe","euprt","Portugal","prt",15888716,0.0006293603945093654
+2012,"eu","Europe","eurou","Romania","rou",16893330,0.000669153683241421
+2012,"eu","Europe","eurus","Russia","rus",173328234,0.006865622478861829
+2012,"eu","Europe","eusrb","Serbia","srb",1259715.9999999998,0.00004989801307605722
+2012,"eu","Europe","eusvk","Slovakia","svk",6113547,0.00024216081096619434
+2012,"eu","Europe","eusvn","Slovenia","svn",2104078,0.00008334363583303248
+2012,"eu","Europe","euswe","Sweden","swe",3381604,0.00013394711237298522
+2012,"eu","Europe","euukr","Ukraine","ukr",12779484,0.0005062020802603637
+2012,"na","North America","naabw","Aruba","abw",5817,2.3041442838181376e-7
+2012,"na","North America","naatg","Antigua and Barbuda","atg",2646546,0.00010483107852435546
+2012,"na","North America","nabhs","Bahamas","bhs",325285,0.00001288470987384877
+2012,"na","North America","nablz","Belize","blz",4685012,0.00018557578854081798
+2012,"na","North America","nabmu","Bermuda","bmu",88527,0.0000035066010145017756
+2012,"na","North America","nabrb","Barbados","brb",54611,0.000002163170422616337
+2012,"na","North America","nacan","Canada","can",6062350,0.0002401328708785437
+2012,"na","North America","nacri","Costa Rica","cri",1348061,0.00005339740497486957
+2012,"na","North America","nacuw","Curaçao","cuw",2311.9999999999995,9.157953557138618e-8
+2012,"na","North America","nadma","Dominica","dma",52,2.059747339840866e-9
+2012,"na","North America","nadom","Dominican Republic","dom",26300476,0.0010417756822605488
+2012,"na","North America","nagrd","Grenada","grd",4508,1.7856425015389659e-7
+2012,"na","North America","nagtm","Guatemala","gtm",1486790,0.000058892533603884634
+2012,"na","North America","nahnd","Honduras","hnd",2842066,0.00011257572852215712
+2012,"na","North America","nahti","Haiti","hti",66,2.6142947005672527e-9
+2012,"na","North America","najam","Jamaica","jam",58,2.2974104944378887e-9
+2012,"na","North America","nakna","Saint Kitts and Nevis","kna",128,5.0701472980698235e-9
+2012,"na","North America","namex","Mexico","mex",1395972,0.00005529518487485256
+2012,"na","North America","nanic","Nicaragua","nic",12729216,0.0005042109383511498
+2012,"na","North America","napan","Panama","pan",218100,0.000008639055669601785
+2012,"na","North America","naslv","El Salvador","slv",9210935,0.00036484997814802166
+2012,"na","North America","natca","Turks and Caicos Islands","tca",3870644,0.00015331824389367324
+2012,"na","North America","natto","Trinidad and Tobago","tto",385436,0.000015267322609209693
+2012,"na","North America","nausa","United States","usa",2092422845,0.08288196901559627
+2012,"na","North America","navct","Saint Vincent and the Grenadines","vct",4724895,0.00018715557513995014
+2012,"na","North America","navgb","British Virgin Islands","vgb",629578,0.000024937915590814088
+2012,"oc","Oceania","ocasm","American Samoa","asm",109100,0.000004321508361089201
+2012,"oc","Oceania","ocaus","Australia","aus",344449302,0.013643817952010443
+2012,"oc","Oceania","ocfji","Fiji","fji",938128,0.000037159743315966
+2012,"oc","Oceania","ocgum","Guam","gum",441956.99999999994,0.000017506149136039413
+2012,"oc","Oceania","ocmnp","Northern Mariana Islands","mnp",136.99999999999997,5.426642029965357e-9
+2012,"oc","Oceania","ocncl","New Caledonia","ncl",205651.00000000003,0.00000814594423433873
+2012,"oc","Oceania","ocnzl","New Zealand","nzl",2307368,0.00009139605961603729
+2012,"oc","Oceania","ocpng","Papua New Guinea","png",2075,8.219184096480377e-8
+2012,"oc","Oceania","ocslb","Solomon Islands","slb",50628,0.00000200540169848968
+2012,"oc","Oceania","ocvut","Vanuatu","vut",143776,0.000005695042952556929
+2012,"oc","Oceania","ocwsm","Samoa","wsm",1318,5.220667295981271e-8
+2012,"sa","South America","saarg","Argentina","arg",307184439,0.01216773713597613
+2012,"sa","South America","sabol","Bolivia","bol",1874922,0.00007426664619055992
+2012,"sa","South America","sabra","Brazil","bra",640357534,0.025364898600068398
+2012,"sa","South America","sachl","Chile","chl",67205,0.000002662025384115488
+2012,"sa","South America","sacol","Colombia","col",89045,0.000003527119266848652
+2012,"sa","South America","saecu","Ecuador","ecu",10922563.999999998,0.00043264850275464623
+2012,"sa","South America","saguy","Guyana","guy",318651065,0.01262193622060017
+2012,"sa","South America","saper","Peru","per",22188135,0.0008788836931207694
+2012,"sa","South America","sapry","Paraguay","pry",118427813,0.004690987938267721
+2012,"sa","South America","sasur","Suriname","sur",73975238,0.0029301980708575947
+2012,"sa","South America","saury","Uruguay","ury",567945280,0.022496611147214917
+2012,"sa","South America","saven","Venezuela","ven",2108,8.349898831508741e-8
+2011,"af","Africa","afago","Angola","ago",329,1.3421914006378795e-8
+2011,"af","Africa","afbdi","Burundi","bdi",14877,6.069234488537913e-7
+2011,"af","Africa","afben","Benin","ben",9396672,0.0003833474879335789
+2011,"af","Africa","afbfa","Burkina Faso","bfa",214463.00000000003,0.00000874925210805476
+2011,"af","Africa","afbwa","Botswana","bwa",950044,0.00003875808167257184
+2011,"af","Africa","afcaf","Central African Republic","caf",204,8.32240260577895e-9
+2011,"af","Africa","afciv","Cote d'Ivoire","civ",15078879,0.0006151593229501249
+2011,"af","Africa","afcmr","Cameroon","cmr",724723,0.000029565865606215377
+2011,"af","Africa","afcod","Democratic Republic of the Congo","cod",71860,0.0000029316071139768394
+2011,"af","Africa","afcog","Republic of the Congo","cog",720053,0.000029375347860288967
+2011,"af","Africa","afcpv","Cape Verde","cpv",6141699,0.0002505573125564214
+2011,"af","Africa","afdza","Algeria","dza",17306,7.060171543902475e-7
+2011,"af","Africa","afegy","Egypt","egy",32388160,0.0013213103293156154
+2011,"af","Africa","afeth","Ethiopia","eth",185,7.547276872887773e-9
+2011,"af","Africa","afgab","Gabon","gab",23534.000000000004,9.600952104137344e-7
+2011,"af","Africa","afgha","Ghana","gha",665469,0.000027148534017966232
+2011,"af","Africa","afgin","Guinea","gin",437.99999999999994,1.786868794770186e-8
+2011,"af","Africa","afgmb","Gambia","gmb",266347,0.000010865916504124538
+2011,"af","Africa","afgnb","Guinea-Bissau","gnb",17,6.93533550481579e-10
+2011,"af","Africa","afken","Kenya","ken",2692868,0.00010985848853048406
+2011,"af","Africa","aflby","Libya","lby",457415,0.00001866074405844303
+2011,"af","Africa","aflso","Lesotho","lso",29868,0.0000012184976521049296
+2011,"af","Africa","afmar","Morocco","mar",1859118,0.00007584474748848307
+2011,"af","Africa","afmdg","Madagascar","mdg",44116,0.0000017997603595909025
+2011,"af","Africa","afmli","Mali","mli",6363785,0.0002596175532677303
+2011,"af","Africa","afmoz","Mozambique","moz",19223038,0.0007842248114813125
+2011,"af","Africa","afmrt","Mauritania","mrt",57148,0.00000233141502017184
+2011,"af","Africa","afmus","Mauritius","mus",909167,0.000037090459852393285
+2011,"af","Africa","afmwi","Malawi","mwi",779974,0.000031819890441371714
+2011,"af","Africa","afnam","Namibia","nam",251771,0.00001027127267872339
+2011,"af","Africa","afner","Niger","ner",4774208,0.00019476902499867993
+2011,"af","Africa","afnga","Nigeria","nga",2410980,0.00009835855997294573
+2011,"af","Africa","afrwa","Rwanda","rwa",120652,0.000004922129996041381
+2011,"af","Africa","afsdn","Sudan","sdn",14322,5.84281618235128e-7
+2011,"af","Africa","afsen","Senegal","sen",52559446,0.002144219952689696
+2011,"af","Africa","afswz","Eswatini","swz",112647,0.000004595557285946967
+2011,"af","Africa","afsyc","Seychelles","syc",25800,0.0000010525391530838083
+2011,"af","Africa","aftgo","Togo","tgo",1241976,0.00005066776617017116
+2011,"af","Africa","aftun","Tunisia","tun",10739421,0.0004381263986027312
+2011,"af","Africa","aftza","Tanzania","tza",20018129,0.0008166614164334271
+2011,"af","Africa","afuga","Uganda","uga",18540514,0.0007563805001278485
+2011,"af","Africa","afzaf","South Africa","zaf",71056316,0.002898819948213002
+2011,"af","Africa","afzmb","Zambia","zmb",50719,0.0000020691369498161886
+2011,"af","Africa","afzwe","Zimbabwe","zwe",124054,0.000005060918298320107
+2011,"as","Asia","asare","United Arab Emirates","are",345423042,0.014091909925671036
+2011,"as","Asia","asarm","Armenia","arm",529,2.158113224733855e-8
+2011,"as","Asia","asaze","Azerbaijan","aze",26877.000000000004,0.0000010964765433113767
+2011,"as","Asia","asbgd","Bangladesh","bgd",935543,0.000038166497554011054
+2011,"as","Asia","asbhr","Bahrain","bhr",354348,0.000014456013326238034
+2011,"as","Asia","asbrn","Brunei","brn",2061776.0000000002,0.0000841124017398652
+2011,"as","Asia","asbtn","Bhutan","btn",218867,0.000008928918093720692
+2011,"as","Asia","ascck","Cocos (Keeling) Islands","cck",223890,0.000009133836859842397
+2011,"as","Asia","aschn","China","chn",507117643,0.020688417615390583
+2011,"as","Asia","ascyp","Cyprus","cyp",84603,0.0000034514717041995904
+2011,"as","Asia","asgeo","Georgia","geo",213652,0.000008716166478087667
+2011,"as","Asia","ashkg","Hong Kong","hkg",13107433,0.0005347320321287891
+2011,"as","Asia","asidn","Indonesia","idn",1311153,0.00005348991737144552
+2011,"as","Asia","asind","India","ind",4088099523,0.16677848099460235
+2011,"as","Asia","asiot","British Indian Ocean Territory","iot",142,5.793044951081425e-9
+2011,"as","Asia","asirn","Iran","irn",174732,0.000007128382608396898
+2011,"as","Asia","asirq","Iraq","irq",34,1.387067100963158e-9
+2011,"as","Asia","asisr","Israel","isr",32725328,0.001335065465794955
+2011,"as","Asia","asjor","Jordan","jor",863327,0.00003522036703156531
+2011,"as","Asia","asjpn","Japan","jpn",47235088,0.0019270069581146959
+2011,"as","Asia","askaz","Kazakhstan","kaz",33985475,0.0013864745377384084
+2011,"as","Asia","askgz","Kyrgyzstan","kgz",378812,0.000015454048901472232
+2011,"as","Asia","askhm","Cambodia","khm",122691269,0.0050053242001565
+2011,"as","Asia","askor","South Korea","kor",7590903,0.0003096791711147806
+2011,"as","Asia","askwt","Kuwait","kwt",5619334,0.0002292468623742267
+2011,"as","Asia","aslao","Laos","lao",4379291,0.0001786579550483544
+2011,"as","Asia","aslbn","Lebanon","lbn",1197164,0.00004883961173110171
+2011,"as","Asia","aslka","Sri Lanka","lka",5877202,0.00023976686882102574
+2011,"as","Asia","asmac","Macau","mac",129664.99999999999,0.0000052898251660702315
+2011,"as","Asia","asmmr","Burma","mmr",291463161,0.011890557698994948
+2011,"as","Asia","asmys","Malaysia","mys",2229242,0.00009094435994956801
+2011,"as","Asia","asnpl","Nepal","npl",87694,0.000003577572422113623
+2011,"as","Asia","asomn","Oman","omn",5574717,0.00022742666317294218
+2011,"as","Asia","aspak","Pakistan","pak",2195552550,0.0895699620747285
+2011,"as","Asia","asphl","Philippines","phl",2952217,0.00012043891398835741
+2011,"as","Asia","asprk","North Korea","prk",12887,5.257392273562417e-7
+2011,"as","Asia","aspse","Palestine","pse",1095769,0.00004470309206339114
+2011,"as","Asia","asqat","Qatar","qat",2709,1.1051661107379986e-7
+2011,"as","Asia","assau","Saudi Arabia","sau",11622885,0.00047416827652288756
+2011,"as","Asia","assgp","Singapore","sgp",77307233,0.0031538329282586293
+2011,"as","Asia","assyr","Syria","syr",2473,1.0088873354946736e-7
+2011,"as","Asia","astha","Thailand","tha",6585708187,0.2686711518450419
+2011,"as","Asia","astjk","Tajikistan","tjk",2157245,0.00008800716377109612
+2011,"as","Asia","astkm","Turkmenistan","tkm",33260,0.000001356877993471607
+2011,"as","Asia","astls","Timor-Leste","tls",19893,8.115566423370619e-7
+2011,"as","Asia","astur","Turkey","tur",78559397,0.0032049163250059947
+2011,"as","Asia","asuzb","Uzbekistan","uzb",53670.99999999999,0.0000021895670110527545
+2011,"as","Asia","asvnm","Vietnam","vnm",3413834667,0.13927111043303583
+2011,"as","Asia","asxxb","Chinese Taipei",,5317300,0.00021692505576327648
+2011,"as","Asia","asyem","Yemen","yem",1018582,0.00004155416417156634
+2011,"eu","Europe","eualb","Albania","alb",26405,0.0000010772207882627116
+2011,"eu","Europe","euand","Andorra","and",93.00000000000001,3.794036482046286e-9
+2011,"eu","Europe","euaut","Austria","aut",8649536,0.0003528672595351903
+2011,"eu","Europe","eubel","Belgium","bel",173616752,0.007082884849272929
+2011,"eu","Europe","eubgr","Bulgaria","bgr",23225191,0.0009474970102848715
+2011,"eu","Europe","eubih","Bosnia and Herzegovina","bih",70591,0.00000287983687423795
+2011,"eu","Europe","eublr","Belarus","blr",373572,0.000015240277383559086
+2011,"eu","Europe","euche","Switzerland","che",10288442,0.0004197282181872823
+2011,"eu","Europe","eucze","Czechia","cze",14987798,0.0006114435741671006
+2011,"eu","Europe","eudeu","Germany","deu",108670231,0.00443332065512255
+2011,"eu","Europe","eudnk","Denmark","dnk",8848391,0.0003609797662517206
+2011,"eu","Europe","euesp","Spain","esp",203962260,0.008320862961296879
+2011,"eu","Europe","euest","Estonia","est",497550.00000000006,0.00002029809517894763
+2011,"eu","Europe","eufin","Finland","fin",255355,0.00001041748586960139
+2011,"eu","Europe","eufra","France","fra",85491856,0.0034877335546435228
+2011,"eu","Europe","eugbr","United Kingdom","gbr",46136315,0.0018821813145933255
+2011,"eu","Europe","eugrc","Greece","grc",83161628,0.003392669360627547
+2011,"eu","Europe","euhrv","Croatia","hrv",513552.99999999994,0.00002095095502649802
+2011,"eu","Europe","euhun","Hungary","hun",5827865,0.00023775411206925458
+2011,"eu","Europe","euirl","Ireland","irl",2367716,0.00009659355788306132
+2011,"eu","Europe","euisl","Iceland","isl",15421,6.291165224692018e-7
+2011,"eu","Europe","euita","Italy","ita",700729982,0.028587044255608998
+2011,"eu","Europe","eultu","Lithuania","ltu",4391812,0.0001791687629063297
+2011,"eu","Europe","eulux","Luxembourg","lux",635748,0.00002593603339126841
+2011,"eu","Europe","eulva","Latvia","lva",1240904,0.00005062403276039961
+2011,"eu","Europe","eumda","Moldova","mda",24646,0.0000010054604638334705
+2011,"eu","Europe","eumkd","North Macedonia","mkd",8323043.000000001,0.000339547621329462
+2011,"eu","Europe","eumlt","Malta","mlt",81013,0.0000033050137367743626
+2011,"eu","Europe","eumne","Montenegro","mne",3947,1.6102217198534073e-7
+2011,"eu","Europe","eunld","Netherlands","nld",167214781,0.006821709456466452
+2011,"eu","Europe","eunor","Norway","nor",988366,0.00004032146947972214
+2011,"eu","Europe","eupol","Poland","pol",13997637,0.0005710488757036658
+2011,"eu","Europe","euprt","Portugal","prt",17562456,0.0007164795567562653
+2011,"eu","Europe","eurou","Romania","rou",30680225.999999996,0.0012516332980798384
+2011,"eu","Europe","eurus","Russia","rus",103956479,0.004241017998613748
+2011,"eu","Europe","eusrb","Serbia","srb",637482,0.00002600677381341753
+2011,"eu","Europe","eusvk","Slovakia","svk",21763747.999999996,0.0008878758483662567
+2011,"eu","Europe","eusvn","Slovenia","svn",2097129,0.00008555466595222844
+2011,"eu","Europe","euswe","Sweden","swe",1612245,0.0000657732940644808
+2011,"eu","Europe","euukr","Ukraine","ukr",2054586,0.00008381907784410268
+2011,"na","North America","naatg","Antigua and Barbuda","atg",634,2.586472182384242e-8
+2011,"na","North America","nabhs","Bahamas","bhs",3262,1.330768495100536e-7
+2011,"na","North America","nablz","Belize","blz",240335,0.000009804728579705312
+2011,"na","North America","nabrb","Barbados","brb",16568,6.75909639081106e-7
+2011,"na","North America","nacan","Canada","can",5853069,0.00023878233675198032
+2011,"na","North America","nacri","Costa Rica","cri",1299476,0.000053013541414447084
+2011,"na","North America","nacuw","Curaçao","cuw",906446,0.00003697945368822502
+2011,"na","North America","nadma","Dominica","dma",22022,8.984115205120784e-7
+2011,"na","North America","nadom","Dominican Republic","dom",7038194.999999999,0.00028713084513715863
+2011,"na","North America","nagrd","Grenada","grd",244,9.9542462539709e-9
+2011,"na","North America","nagtm","Guatemala","gtm",1175899,0.00004797208285163167
+2011,"na","North America","nahnd","Honduras","hnd",1451809,0.0000592281323759477
+2011,"na","North America","nahti","Haiti","hti",7034,2.8695970553455456e-7
+2011,"na","North America","najam","Jamaica","jam",4899,1.9986005081230916e-7
+2011,"na","North America","namaf","Saint Martin","maf",1994,8.134740586236875e-8
+2011,"na","North America","namex","Mexico","mex",1647414,0.00006720805179606236
+2011,"na","North America","namsr","Montserrat","msr",45320,0.0000018488788534014801
+2011,"na","North America","nanic","Nicaragua","nic",2935542,0.00011975863916751739
+2011,"na","North America","napan","Panama","pan",18243,7.442430918491439e-7
+2011,"na","North America","naslv","El Salvador","slv",6073224,0.0002477638002111728
+2011,"na","North America","natca","Turks and Caicos Islands","tca",2899787,0.00011829997492648981
+2011,"na","North America","natto","Trinidad and Tobago","tto",483377,0.000019719892178302013
+2011,"na","North America","nausa","United States","usa",2267333497,0.09249834413530733
+2011,"na","North America","navct","Saint Vincent and the Grenadines","vct",4885929,0.00019932680510417123
+2011,"na","North America","navgb","British Virgin Islands","vgb",321670,0.00001312287865784762
+2011,"oc","Oceania","ocasm","American Samoa","asm",172,7.0169276872253884e-9
+2011,"oc","Oceania","ocaus","Australia","aus",210582667,0.008590949689081768
+2011,"oc","Oceania","ocfji","Fiji","fji",1149163,0.00004688135855718017
+2011,"oc","Oceania","ocgum","Guam","gum",125599.00000000001,0.000005123948259231521
+2011,"oc","Oceania","ockir","Kiribati","kir",1102,4.4957292507688246e-8
+2011,"oc","Oceania","ocmnp","Northern Mariana Islands","mnp",17111.000000000004,6.980619166053119e-7
+2011,"oc","Oceania","ocncl","New Caledonia","ncl",29495,0.0000012032807100855396
+2011,"oc","Oceania","ocnzl","New Zealand","nzl",908530,0.000037064472742295826
+2011,"oc","Oceania","ocpng","Papua New Guinea","png",501662.99999999994,0.000020465889502072962
+2011,"oc","Oceania","ocslb","Solomon Islands","slb",131418,0.000005361340713952245
+2011,"oc","Oceania","octon","Tonga","ton",35,1.4278631921679569e-9
+2011,"oc","Oceania","ocvut","Vanuatu","vut",45576,0.0000018593226527499087
+2011,"oc","Oceania","ocwsm","Samoa","wsm",88190,0.0000035978072833512035
+2011,"sa","South America","saarg","Argentina","arg",363553729,0.014831571086128694
+2011,"sa","South America","sabol","Bolivia","bol",829038,0.000033821509860243964
+2011,"sa","South America","sabra","Brazil","bra",686723326,0.028015627439958758
+2011,"sa","South America","sachl","Chile","chl",260805.00000000003,0.000010639824566667544
+2011,"sa","South America","sacol","Colombia","col",328049,0.000013383116923643031
+2011,"sa","South America","saecu","Ecuador","ecu",29673405,0.0012105589367369318
+2011,"sa","South America","saguy","Guyana","guy",265725668,0.010840568587184077
+2011,"sa","South America","saper","Peru","per",683352,0.00002787809051698165
+2011,"sa","South America","sapry","Paraguay","pry",86156953,0.003514866912515561
+2011,"sa","South America","sasur","Suriname","sur",44185688,0.0018026033575947824
+2011,"sa","South America","saury","Uruguay","ury",483037448,0.019706039783941243
+2011,"sa","South America","saven","Venezuela","ven",362,1.4768185016137154e-8
+2010,"af","Africa","afago","Angola","ago",70,3.340559891304057e-9
+2010,"af","Africa","afbdi","Burundi","bdi",224300,0.000010704108337421427
+2010,"af","Africa","afben","Benin","ben",91260346,0.00435515216448758
+2010,"af","Africa","afbfa","Burkina Faso","bfa",601175,0.00002868944418078166
+2010,"af","Africa","afbwa","Botswana","bwa",2770873,0.00013223238868139065
+2010,"af","Africa","afciv","Cote d'Ivoire","civ",4476819,0.00021364402845754194
+2010,"af","Africa","afcmr","Cameroon","cmr",701393,0.00003347207605487752
+2010,"af","Africa","afcod","Democratic Republic of the Congo","cod",227450,0.00001085443353253011
+2010,"af","Africa","afcog","Republic of the Congo","cog",838382,0.00004000950403987539
+2010,"af","Africa","afcpv","Cape Verde","cpv",6227,2.9716666347357657e-7
+2010,"af","Africa","afdji","Djibouti","dji",1676176.0000000002,0.00007999094737666385
+2010,"af","Africa","afdza","Algeria","dza",542572,0.000025892775162066065
+2010,"af","Africa","afegy","Egypt","egy",330870439,0.015789893110593794
+2010,"af","Africa","afeth","Ethiopia","eth",32198,0.000001536562105431543
+2010,"af","Africa","afgab","Gabon","gab",21618,0.0000010316603390030157
+2010,"af","Africa","afgha","Ghana","gha",83008,0.0000039613313636766735
+2010,"af","Africa","afgin","Guinea","gin",24,1.1453348198756766e-9
+2010,"af","Africa","afgmb","Gambia","gmb",211956,0.000010115024461732038
+2010,"af","Africa","afgnq","Equatorial Guinea","gnq",3391,1.618262655916008e-7
+2010,"af","Africa","afken","Kenya","ken",1575296,0.00007517672335045308
+2010,"af","Africa","aflbr","Liberia","lbr",41483.99999999999,0.0000019797112361551065
+2010,"af","Africa","aflby","Libya","lby",1485681,0.00007090009085532146
+2010,"af","Africa","aflso","Lesotho","lso",15000,7.158342624222979e-7
+2010,"af","Africa","afmar","Morocco","mar",2158731.9999999995,0.00010301962193249411
+2010,"af","Africa","afmdg","Madagascar","mdg",56501,0.00000269635677740815
+2010,"af","Africa","afmli","Mali","mli",1628664,0.00007772356621158329
+2010,"af","Africa","afmoz","Mozambique","moz",6849348.000000001,0.00032686653157690943
+2010,"af","Africa","afmrt","Mauritania","mrt",13414,6.401467197421802e-7
+2010,"af","Africa","afmus","Mauritius","mus",9943111,0.00047450796859120246
+2010,"af","Africa","afmwi","Malawi","mwi",1012397,0.000048313897318236475
+2010,"af","Africa","afnam","Namibia","nam",393507,0.000018779052873534077
+2010,"af","Africa","afner","Niger","ner",6145926,0.0002932976270074682
+2010,"af","Africa","afnga","Nigeria","nga",52571.00000000001,0.0000025088082006535085
+2010,"af","Africa","afrwa","Rwanda","rwa",110887,0.000005291780923814756
+2010,"af","Africa","afsdn","Sudan","sdn",943,4.500211396428179e-8
+2010,"af","Africa","afsen","Senegal","sen",21565884,0.0010291732444416557
+2010,"af","Africa","afsle","Sierra Leone","sle",3609.0000000000005,1.7222972353880489e-7
+2010,"af","Africa","afstp","Sao Tome and Principe","stp",155826.99999999997,0.0000074364203740319595
+2010,"af","Africa","afswz","Eswatini","swz",6526806,0.0003114740905988952
+2010,"af","Africa","afsyc","Seychelles","syc",709995,0.000033882583143234627
+2010,"af","Africa","aftcd","Chad","tcd",12614,6.019688924129911e-7
+2010,"af","Africa","aftgo","Togo","tgo",6153601,0.00029366389553840764
+2010,"af","Africa","aftun","Tunisia","tun",4452367,0.00021247712316522528
+2010,"af","Africa","aftza","Tanzania","tza",23314274,0.001112610408846757
+2010,"af","Africa","afuga","Uganda","uga",17148883,0.0008183838675780855
+2010,"af","Africa","afzaf","South Africa","zaf",67724058,0.0032319467404449947
+2010,"af","Africa","afzmb","Zambia","zmb",48600,0.000002319303010248245
+2010,"af","Africa","afzwe","Zimbabwe","zwe",111742,0.000005332583476772827
+2010,"as","Asia","asafg","Afghanistan","afg",177183,0.000008455577474584667
+2010,"as","Asia","asare","United Arab Emirates","are",486246272,0.023204782764847467
+2010,"as","Asia","asarm","Armenia","arm",14338,6.842421103073938e-7
+2010,"as","Asia","asaze","Azerbaijan","aze",138,6.5856752142851404e-9
+2010,"as","Asia","asbgd","Bangladesh","bgd",3353959,0.0001600585844639752
+2010,"as","Asia","asbhr","Bahrain","bhr",248234,0.000011846293486542447
+2010,"as","Asia","asbrn","Brunei","brn",515762.99999999994,0.00002461338844598077
+2010,"as","Asia","asbtn","Bhutan","btn",476744,0.00002275131264028373
+2010,"as","Asia","aschn","China","chn",449879381,0.02146927165847566
+2010,"as","Asia","ascyp","Cyprus","cyp",1506255,0.00007188192912965989
+2010,"as","Asia","asgeo","Georgia","geo",38,1.813446798136488e-9
+2010,"as","Asia","ashkg","Hong Kong","hkg",19377485,0.0009247378455049427
+2010,"as","Asia","asidn","Indonesia","idn",915451,0.000043687412757917
+2010,"as","Asia","asind","India","ind",2583988451,0.1233138311286214
+2010,"as","Asia","asirn","Iran","irn",494946,0.00002361995365659111
+2010,"as","Asia","asirq","Iraq","irq",39700,0.000001894574681211015
+2010,"as","Asia","asisr","Israel","isr",30035393.000000004,0.0014333575596479234
+2010,"as","Asia","asjor","Jordan","jor",1350542,0.00006445094909602234
+2010,"as","Asia","asjpn","Japan","jpn",46945009,0.0022403230594615423
+2010,"as","Asia","askaz","Kazakhstan","kaz",23517031,0.0011222864360164876
+2010,"as","Asia","askgz","Kyrgyzstan","kgz",1460049,0.00006967687326769424
+2010,"as","Asia","askhm","Cambodia","khm",40179096,0.0019174382366636466
+2010,"as","Asia","askor","South Korea","kor",7987937,0.0003812025993780522
+2010,"as","Asia","askwt","Kuwait","kwt",9387596,0.00044799752390523425
+2010,"as","Asia","aslao","Laos","lao",6147860,0.00029338992190503654
+2010,"as","Asia","aslbn","Lebanon","lbn",469982,0.00002242861455478376
+2010,"as","Asia","aslka","Sri Lanka","lka",9016472,0.0004302866389180867
+2010,"as","Asia","asmac","Macau","mac",166074,0.000007925430619834713
+2010,"as","Asia","asmmr","Burma","mmr",143793050,0.00686213279254684
+2010,"as","Asia","asmys","Malaysia","mys",6215106.999999999,0.000296599102348044
+2010,"as","Asia","asnpl","Nepal","npl",170364,0.00000813015921888749
+2010,"as","Asia","asomn","Oman","omn",30482606,0.001454699585514634
+2010,"as","Asia","aspak","Pakistan","pak",2381524238,0.11365177642330367
+2010,"as","Asia","asphl","Philippines","phl",1012377,0.00004831294287255324
+2010,"as","Asia","asprk","North Korea","prk",31087.000000000004,0.0000014835426477281318
+2010,"as","Asia","aspse","Palestine","pse",186975,0.000008922874081093943
+2010,"as","Asia","asqat","Qatar","qat",9157,4.369929560667321e-7
+2010,"as","Asia","assau","Saudi Arabia","sau",7675767,0.00036630513393136094
+2010,"as","Asia","assgp","Singapore","sgp",42531929,0.0020297208016741694
+2010,"as","Asia","assyr","Syria","syr",35268,0.0000016830695178073068
+2010,"as","Asia","astha","Thailand","tha",5359940716,0.25578861393767355
+2010,"as","Asia","astjk","Tajikistan","tjk",2226086,0.00010623390865990689
+2010,"as","Asia","astkm","Turkmenistan","tkm",1631,7.783504546738452e-8
+2010,"as","Asia","astur","Turkey","tur",57850942,0.0027607790931336753
+2010,"as","Asia","asuzb","Uzbekistan","uzb",5468.000000000001,2.6094544979500837e-7
+2010,"as","Asia","asvnm","Vietnam","vnm",3260922638,0.15561867675926025
+2010,"as","Asia","asxxb","Chinese Taipei",,3094585,0.0001476806647318738
+2010,"as","Asia","asyem","Yemen","yem",3974836,0.00018968825308730646
+2010,"eu","Europe","eualb","Albania","alb",21673,0.0000010342850646318974
+2010,"eu","Europe","euand","Andorra","and",644637,0.00003076355009500819
+2010,"eu","Europe","euaut","Austria","aut",6488887,0.0003096645093057758
+2010,"eu","Europe","eubel","Belgium","bel",156268474,0.007457488521709869
+2010,"eu","Europe","eubgr","Bulgaria","bgr",28070864,0.0013396057484664423
+2010,"eu","Europe","eubih","Bosnia and Herzegovina","bih",98906,0.000004720020237275986
+2010,"eu","Europe","eublr","Belarus","blr",496800,0.000023708430771426505
+2010,"eu","Europe","euche","Switzerland","che",25063272,0.0011960765884006287
+2010,"eu","Europe","eucze","Czechia","cze",15653148,0.0007470039768778044
+2010,"eu","Europe","eudeu","Germany","deu",92977804,0.004437113183198998
+2010,"eu","Europe","eudnk","Denmark","dnk",6604884,0.0003152001511016558
+2010,"eu","Europe","euesp","Spain","esp",206682890,0.009863379607897262
+2010,"eu","Europe","euest","Estonia","est",371565,0.00001773193051446274
+2010,"eu","Europe","eufin","Finland","fin",806136,0.0000384706512648041
+2010,"eu","Europe","eufra","France","fra",81745335,0.00390107410574591
+2010,"eu","Europe","eugbr","United Kingdom","gbr",50798219,0.002424207042015424
+2010,"eu","Europe","eugib","Gibraltar","gib",3105,1.4817769232141566e-7
+2010,"eu","Europe","eugrc","Greece","grc",63937902,0.0030512627279332774
+2010,"eu","Europe","euhrv","Croatia","hrv",278816,0.000013305736380769027
+2010,"eu","Europe","euhun","Hungary","hun",4398836,0.00020992250157177673
+2010,"eu","Europe","euirl","Ireland","irl",2920336,0.00013936510443901892
+2010,"eu","Europe","euisl","Iceland","isl",92,4.3904501428567606e-9
+2010,"eu","Europe","euita","Italy","ita",649985143,0.031018775694990453
+2010,"eu","Europe","eultu","Lithuania","ltu",3871480,0.00018475586868551186
+2010,"eu","Europe","eulux","Luxembourg","lux",152385,0.000007272160271948124
+2010,"eu","Europe","eulva","Latvia","lva",1860949,0.00008880873698803419
+2010,"eu","Europe","eumda","Moldova","mda",4939,2.3570036147358196e-7
+2010,"eu","Europe","eumkd","North Macedonia","mkd",3388807,0.00016172161062243467
+2010,"eu","Europe","eumlt","Malta","mlt",53828,0.0000025687951118444965
+2010,"eu","Europe","eunld","Netherlands","nld",124535527,0.0059431198076944775
+2010,"eu","Europe","eunor","Norway","nor",563544,0.00002689360690550076
+2010,"eu","Europe","eupol","Poland","pol",10899354,0.0005201420687646347
+2010,"eu","Europe","euprt","Portugal","prt",20916881,0.0009982013388539985
+2010,"eu","Europe","eurou","Romania","rou",21251940,0.0010141911196628619
+2010,"eu","Europe","eurus","Russia","rus",92504395,0.0044145210243763935
+2010,"eu","Europe","eusrb","Serbia","srb",650002,0.00003101958014953456
+2010,"eu","Europe","eusvk","Slovakia","svk",7649177,0.000365036198395507
+2010,"eu","Europe","eusvn","Slovenia","svn",2338227,0.00011158553332806015
+2010,"eu","Europe","euswe","Sweden","swe",3846775,0.00018357688965530233
+2010,"eu","Europe","euukr","Ukraine","ukr",2285324,0.00010906088132906503
+2010,"na","North America","naabw","Aruba","abw",277968,0.000013265267883800086
+2010,"na","North America","naant","Netherlands Antilles","ant",7286,3.4770456240059084e-7
+2010,"na","North America","naatg","Antigua and Barbuda","atg",397068,0.00001894899192743313
+2010,"na","North America","nabhs","Bahamas","bhs",1902,9.076778447514737e-8
+2010,"na","North America","nablz","Belize","blz",66544,0.0000031756316772419594
+2010,"na","North America","nabrb","Barbados","brb",109450,0.0000052232040014747
+2010,"na","North America","nacan","Canada","can",5755548,0.00027466789716107544
+2010,"na","North America","nacri","Costa Rica","cri",980534,0.000046793322177999025
+2010,"na","North America","nadma","Dominica","dma",1851.9999999999998,8.838167026707303e-8
+2010,"na","North America","nadom","Dominican Republic","dom",18576552,0.0008865154932846309
+2010,"na","North America","nagrd","Grenada","grd",25772,0.0000012298987074098307
+2010,"na","North America","nagtm","Guatemala","gtm",1748343,0.00008343492145774583
+2010,"na","North America","nahnd","Honduras","hnd",1277156,0.000060948801550547486
+2010,"na","North America","nahti","Haiti","hti",27.999999999999996,1.3362239565216224e-9
+2010,"na","North America","najam","Jamaica","jam",1240,5.917563236024329e-8
+2010,"na","North America","nakna","Saint Kitts and Nevis","kna",47423,0.0000022631338817901754
+2010,"na","North America","nalca","Saint Lucia","lca",416238,0.00001986382811480883
+2010,"na","North America","namex","Mexico","mex",3532413,0.0001685748169617291
+2010,"na","North America","nanic","Nicaragua","nic",6637876,0.0003167746047007115
+2010,"na","North America","napan","Panama","pan",1996431,0.0000952742474908007
+2010,"na","North America","naslv","El Salvador","slv",1777239,0.00008481390458087615
+2010,"na","North America","natca","Turks and Caicos Islands","tca",17358,8.283634084750831e-7
+2010,"na","North America","natto","Trinidad and Tobago","tto",615795,0.000029387143975222595
+2010,"na","North America","nausa","United States","usa",2390926790,0.11410048768169082
+2010,"na","North America","navct","Saint Vincent and the Grenadines","vct",4130715.9999999995,0.00019712720274239894
+2010,"na","North America","navgb","British Virgin Islands","vgb",335080,0.000015990782976830904
+2010,"oc","Oceania","ocasm","American Samoa","asm",2391.0000000000005,1.141039814301143e-7
+2010,"oc","Oceania","ocaus","Australia","aus",46633560,0.0022254600017817317
+2010,"oc","Oceania","ocfji","Fiji","fji",955605,0.00004560365335613733
+2010,"oc","Oceania","ocgum","Guam","gum",53288,0.0000025430250783972938
+2010,"oc","Oceania","ocmhl","Marshall Islands","mhl",22051,0.0000010523240880449393
+2010,"oc","Oceania","ocncl","New Caledonia","ncl",7556,3.6058957912419217e-7
+2010,"oc","Oceania","ocnzl","New Zealand","nzl",948632,0.00004527088586867929
+2010,"oc","Oceania","ocpcn","Pitcairn Islands","pcn",8440,4.0277607832294626e-7
+2010,"oc","Oceania","ocpng","Papua New Guinea","png",222859,0.000010635340525944725
+2010,"oc","Oceania","ocpyf","French Polynesia","pyf",561,2.677220141459394e-8
+2010,"oc","Oceania","octkl","Tokelau","tkl",1624734,0.00007753601763482864
+2010,"oc","Oceania","ocwsm","Samoa","wsm",54.00000000000001,2.5770033447202728e-9
+2010,"sa","South America","saarg","Argentina","arg",240553867,0.011479779997118435
+2010,"sa","South America","sabol","Bolivia","bol",2590450,0.00012362219100612277
+2010,"sa","South America","sabra","Brazil","bra",175162024,0.008359131883629122
+2010,"sa","South America","sachl","Chile","chl",1088081,0.00005192571067271442
+2010,"sa","South America","sacol","Colombia","col",251856,0.00001201914359977535
+2010,"sa","South America","saecu","Ecuador","ecu",12897831,0.0006155139560488299
+2010,"sa","South America","saguy","Guyana","guy",188626729,0.009001698361789712
+2010,"sa","South America","saper","Peru","per",1459588.0000000002,0.0000696548732946958
+2010,"sa","South America","sapry","Paraguay","pry",64439301,0.0030751906334895627
+2010,"sa","South America","sasur","Suriname","sur",53267258,0.0025420352227792163
+2010,"sa","South America","saury","Uruguay","ury",390979195,0.01865842024501925
+2010,"sa","South America","saven","Venezuela","ven",2481057,0.00011840170717484527
