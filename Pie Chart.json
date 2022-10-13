@@ -1,0 +1,21 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {"text": "2010-2015 Rice exports by Tailand"},
+  "width": 750,
+  "height": 400,
+  "description": "Pie Chart with percentage_tooltip",
+  "data": {
+    "values": [
+      {"category": "Broken Rice", "value": 44999098997},
+      {"category": "Husked Rice", "value": 45157149633},
+      {"category": "Milled Rice", "value": 52605269690},
+      {"category": "Paddy/Rough Rice", "value": 44818413495}
+    ]
+  },
+  "mark": {"type": "arc", "tooltip": true},
+  "encoding": {
+    "theta": {"field": "value", "type": "quantitative", "stack": "normalize"},
+    "color": {"field": "category", "type": "nominal"}
+  },
+  "config": {}
+}
