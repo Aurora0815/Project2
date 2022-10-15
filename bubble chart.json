@@ -31,7 +31,7 @@
       "type": "quantitative",
       "title": "Country Complexity",
       "axis": {"tickCount": 9},
-      "scale": {"domain": [-2, 2]}
+      "scale": {"domain": [-2, 2.5]}
     }
   },
   "layer": [
