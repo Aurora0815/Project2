@@ -1,0 +1,26 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {"text": "2006-2016 Cereal exports by major exporting countries"},
+  "width": 703,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/Aurora0815/Project2/main/Bar%20%26%20Line-main%20countries%20Rice.csv"
+  },
+  "mark": {"type": "line", "point": true},
+  "encoding": {
+    "x": {"timeUnit": "year", "field": "year", "title": "2006-2016 "},
+    "y": {"aggregate": "sum", "field": "quantity(kg)", "type": "quantitative"},
+    "color": {
+      "field": "country_or_area",
+      "type": "nominal",
+      "scale": {"domain": ["India", "Italy", "Pakistan", "Thailand", "USA"]},
+      "title": "Main exporter"
+    },
+    "tooltip": [
+          {"field": "country_or_area", "type": "nominal", "title": "Country"},
+          {"aggregate": "sum","field": "quantity(kg)","format":","},
+{"field": "year", "timeUnit": "year"}
+        ]
+  },
+  "config": {}
+}

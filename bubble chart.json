@@ -1,0 +1,88 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 730,
+  "height": 400,
+  "title": "Relatedness vs Continent Complexity ",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Aurora0815/Project2/main/Bubble-Relatedness.csv"
+  },
+  "params": [
+    {
+      "name": "Relatedness",
+      "value": 0,
+      "bind": {
+        "input": "range",
+        "min": 0,
+        "max": 0.4,
+        "step": 0.05,
+        "name": "Relatedness: "
+      }
+    }
+  ],
+  "transform": [{"filter": "datum.Relatedness > Relatedness"}],
+  "encoding": {
+    "x": {
+      "field": "Relatedness",
+      "type": "quantitative",
+      "title": "Relatedness"
+    },
+    "y": {
+      "field": "Trade Value ECI",
+      "type": "quantitative",
+      "title": "Country Complexity",
+      "axis": {"tickCount": 9},
+      "scale": {"domain": [-2, 2]}
+    }
+  },
+  "layer": [
+    {
+      "mark": "circle",
+      "encoding": {
+        "color": {"field": "Continent", "type": "nominal"},
+        "size": {
+          "field": "Trade Value ECI",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [0, 0.2, 0.4, 0.6, 0.8, 1],
+            "range": [20, 50, 150, 200, 300, 400]
+          }
+        },
+        "tooltip": [
+          {"field": "Continent", "type": "nominal"},
+          {"field": "Trade Value ECI", "type": "quantitative", "format": ","},
+          {"field": "Relatedness", "type": "quantitative"},
+          {"field": "RCA", "type": "quantitative"}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dx": -12,
+        "fontSize": 11.5,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {"field": "Continent", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {
+            "test": "datum['country'] == 'China' || datum['country'] == 'Singapore' || datum['country'] == 'Australia' || datum['country'] == 'New Zealand' || datum['country'] == 'Italy' || datum['country'] == 'Malaysia' || datum['country'] == 'United States'",
+            "value": 1
+          },
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "Continent", "type": "nominal"},
+          {"field": "Trade Value ECI", "type": "quantitative", "format": ","},
+          {"field": "Relatedness", "type": "quantitative"},
+          {"field": "RCA", "type": "quantitative"}
+        ]
+      }
+    }
+  ],
+  "config": {}
+}

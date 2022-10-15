@@ -1,15 +1,15 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {"text": "2010-2015 Rice exports by Thailand"},
-  "width": 750,
+  "width": 768,
   "height": 400,
   "description": "Pie Chart with percentage_tooltip",
   "data": {
     "values": [
-      {"category": "Broken Rice", "value": 44999098997},
-      {"category": "Husked Rice", "value": 45157149633},
-      {"category": "Milled Rice", "value": 52605269690},
-      {"category": "Paddy/Rough Rice", "value": 44818413495}
+      {"category": "Broken Rice", "value": 23.99},
+      {"category": "Husked Rice", "value": 24.07},
+      {"category": "Milled Rice", "value": 28.05},
+      {"category": "Paddy/Rough Rice", "value": 23.89}
     ]
   },
   "mark": {"type": "arc", "tooltip": true},

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {"text": "Rice exports by major exporting countries"},
+  "width": 673,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/Aurora0815/Project2/main/Bar%20%26%20Line-main%20countries%20Rice.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "country_or_area",
+      "type": "nominal",
+      "title": "Major exporters of rice"
+    },
+    "y": {"field": "quantity(kg)", "type": "quantitative"},
+    "color": {
+      "field": "Rice Type",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Milled Rice",
+          "Husked Rice",
+          "Paddy/Rough Rice",
+          "Broken Rice"
+        ],
+        "range": ["#6baed6", "#31a354", "#ff7f00","#fdb462"]
+      },
+      "title": "Rice type"
+    },
+    "tooltip": [
+          {"field": "country_or_area", "type": "nominal", "title": "Country"},
+          {"field": "Rice Type", "type": "nominal", "title": "Rice Type"},
+          {"field": "quantity(kg)", "type": "quantitative","format":","}
+        ]
+  },
+  "config": {}
+}
